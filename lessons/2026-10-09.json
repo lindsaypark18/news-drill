@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-09",
+  "duration": "8 min",
+  "focus": "Good chunks to memorize: Rapp's first answer on why the prize matters, and his answer on what made her a 'legal pioneer'. Each is under a minute.",
+  "phrases": [
+    {
+      "context": "Allan Ngari on Pillay's path from apartheid South Africa.",
+      "example": "The team overcame all the odds to launch before the regulatory deadline.",
+      "meaning": "Succeed despite many disadvantages that made success unlikely.",
+      "phrase": "overcome all the odds",
+      "pos": "phrase",
+      "zh": "克服重重困难"
+    },
+    {
+      "context": "Rapp's careful distinction between the commission's findings and a court verdict.",
+      "example": "The audit doesn't prove fraud, but procurement clearly has a case to answer.",
+      "meaning": "Enough evidence that someone must respond to an accusation, though nothing is proven yet.",
+      "phrase": "a case to answer",
+      "pos": "phrase",
+      "zh": "有待回应的指控；有理由追究"
+    },
+    {
+      "context": "Countries resisting dictators and authoritarian governments.",
+      "example": "Expect the CFO to push back against any plan that adds headcount.",
+      "meaning": "Resist or oppose something, especially pressure or a plan.",
+      "phrase": "push back against",
+      "pos": "phrase",
+      "zh": "抵制；反驳"
+    },
+    {
+      "context": "Rapp says her 1998 ruling alone earns her the prize.",
+      "example": "Given the results, the regional team is entitled to a bigger share of the budget.",
+      "meaning": "Have a right to, or fully deserve, something.",
+      "phrase": "be entitled to",
+      "pos": "phrase",
+      "zh": "有权获得；理应得到"
+    }
+  ],
+  "show": "PBS NEWS HOUR",
+  "summary": "South African human rights lawyer Navi Pillay won the 2026 Nobel Peace Prize, with the committee framing the award as a defence of international legal institutions. Hours later the US sanctioned the International Criminal Court, where she once served as a judge. Nick Schifrin interviews former war-crimes ambassador Stephen Rapp about her landmark rulings, Israel's furious reaction, and whether international cooperation on justice is still possible.",
+  "title": "Navi Pillay wins Nobel Peace Prize after long career of investigating war crimes",
+  "topic": "World · International law",
+  "url": "https://www.pbs.org/newshour/show/navi-pillay-wins-nobel-peace-prize-after-long-career-of-investigating-war-crimes",
+  "vocab": [
+    {
+      "context": "Used to describe Pillay rising from apartheid-era disadvantage to the top levels of the global legal profession.",
+      "example": "We need sign-off from the upper echelons of the bank before the pilot can scale.",
+      "ipa": "/ˈeʃəlɒn/",
+      "meaning": "A level or rank within an organization or profession, usually used for the top levels.",
+      "pos": "noun",
+      "word": "echelon",
+      "zh": "阶层；等级"
+    },
+    {
+      "context": "Rapp says ending this for powerful people has driven her whole career.",
+      "example": "Without clear KPIs, underperforming business units have operated with impunity for years.",
+      "ipa": "/ɪmˈpjuːnəti/",
+      "meaning": "Freedom from punishment or bad consequences for wrongdoing.",
+      "pos": "noun",
+      "word": "impunity",
+      "zh": "不受惩罚；逍遥法外"
+    },
+    {
+      "context": "The other half of Rapp's description of her life's mission.",
+      "example": "The new governance model holds each BU head to account for cloud spend.",
+      "ipa": "",
+      "meaning": "Make someone accept responsibility and face consequences for their actions.",
+      "pos": "phrase",
+      "word": "hold someone to account",
+      "zh": "追究某人的责任"
+    },
+    {
+      "context": "How Rapp describes the Rwandan hate-radio judgment she presided over.",
+      "example": "It was a hard-fought negotiation, but we kept the exclusivity clause.",
+      "ipa": "/ˌhɑːdˈfɔːt/",
+      "meaning": "Achieved only after a long, difficult struggle.",
+      "pos": "adjective",
+      "word": "hard-fought",
+      "zh": "来之不易的；激烈争夺的"
+    },
+    {
+      "context": "Describes the crimes whose victims Pillay always kept at the centre of her work.",
+      "example": "The integration timeline was horrendous: nine months behind plan.",
+      "ipa": "/hɒˈrendəs/",
+      "meaning": "Extremely shocking, terrible or unpleasant.",
+      "pos": "adjective",
+      "word": "horrendous",
+      "zh": "骇人的；极可怕的"
+    },
+    {
+      "context": "Her ruling held that rape could be genocide because of the harm it caused to a whole group.",
+      "example": "A price war would inflict lasting damage on the brand.",
+      "ipa": "/ɪnˈflɪkt/",
+      "meaning": "Cause something painful or damaging to happen to someone.",
+      "pos": "verb",
+      "word": "inflict",
+      "zh": "施加（伤害、痛苦）"
+    },
+    {
+      "context": "Rapp says women and girls used to be treated as an unavoidable side effect of war, before her rulings.",
+      "example": "Mid-level managers became collateral damage of the restructuring.",
+      "ipa": "/kəˈlætərəl ˈdæmɪdʒ/",
+      "meaning": "Harm caused to people or things that were not the intended target.",
+      "pos": "noun phrase",
+      "word": "collateral damage",
+      "zh": "附带损害"
+    },
+    {
+      "context": "The global movement against sexual violence in conflict.",
+      "example": "Shadow IT has become the scourge of every CIO's security agenda.",
+      "ipa": "/skɜːdʒ/",
+      "meaning": "Something that causes great and widespread suffering.",
+      "pos": "noun",
+      "word": "scourge",
+      "zh": "祸害；灾难"
+    },
+    {
+      "context": "The ICC case on Israel is still waiting on this kind of question.",
+      "example": "Data-residency rules raise jurisdictional issues for a single global tenant.",
+      "ipa": "/ˌdʒʊərɪsˈdɪkʃənl/",
+      "meaning": "Relating to the official authority of a court or body to make decisions.",
+      "pos": "adjective",
+      "word": "jurisdictional",
+      "zh": "管辖权的"
+    },
+    {
+      "context": "Israel's foreign ministry used it to attack the committee's choice.",
+      "example": "Calling a 2% margin gain a 'transformation' is a grotesque overstatement.",
+      "ipa": "/ɡrəʊˈtesk/",
+      "meaning": "Shockingly distorted, offensive or absurd.",
+      "pos": "adjective",
+      "word": "grotesque",
+      "zh": "荒诞的；令人反感的"
+    },
+    {
+      "context": "Part of the same accusation against the Nobel committee.",
+      "example": "Regulators are worried about the weaponization of customer data by platforms.",
+      "ipa": "/ˌwepənaɪˈzeɪʃn/",
+      "meaning": "Turning something into a tool used to attack or harm others.",
+      "pos": "noun",
+      "word": "weaponization",
+      "zh": "武器化"
+    },
+    {
+      "context": "Israel claimed the prize gives credibility to hostility against it.",
+      "example": "A board-level sponsor helps legitimize the AI program across the business.",
+      "ipa": "/lɪˈdʒɪtəmaɪz/",
+      "meaning": "Make something seem acceptable, valid or lawful.",
+      "pos": "verb",
+      "word": "legitimize",
+      "zh": "使合法化；使正当化"
+    },
+    {
+      "context": "How the UN Security Council created the Yugoslavia and Rwanda tribunals in the 1990s.",
+      "example": "The steering committee unanimously approved phase two.",
+      "ipa": "/juˈnænɪməsli/",
+      "meaning": "With everyone involved agreeing.",
+      "pos": "adverb",
+      "word": "unanimously",
+      "zh": "一致地；全体同意地"
+    },
+    {
+      "context": "Rapp's closing prediction about countries defending human rights.",
+      "example": "We expect the asset-light model to prevail in this segment.",
+      "ipa": "/prɪˈveɪl/",
+      "meaning": "Prove stronger and win in the end; or be widespread.",
+      "pos": "verb",
+      "word": "prevail",
+      "zh": "占上风；最终获胜"
+    }
+  ],
+  "pbsPlayerId": "3114507735"
+}

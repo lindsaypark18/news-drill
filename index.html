@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Daily News Drill</title>
+<meta name="description" content="A daily English drill: one 5–10 minute news segment with captions, a practice plan and its rarer vocabulary.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,700&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: one study column, like a rundown sheet — player on top, drill steps, then word bank */
+:root{
+  --bg:#F2F4F7; --surface:#FFFFFF; --fg:#152030; --muted:#5A6779; --line:#DCE1E8;
+  --accent:#B8670A; --ok:#2F7D4F; --ok-soft:#DDF0E3;
+  --display:"Newsreader", Georgia, "Times New Roman", serif;
+  --body:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --mono:"IBM Plex Mono", ui-monospace, Menlo, Consolas, monospace;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: dark){:root{
+  --bg:#0E141C; --surface:#161E29; --fg:#E4EAF1; --muted:#93A0B2; --line:#263142;
+  --accent:#F0A640; --ok:#6CC58F; --ok-soft:#173326; color-scheme:dark}}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--fg);font-family:var(--body);font-size:15px;line-height:1.55}
+.wrap{max-width:820px;margin:0 auto;padding-inline:16px;padding-block:calc(24px + env(safe-area-inset-top,0px)) calc(64px + env(safe-area-inset-bottom,0px));display:flex;flex-direction:column;gap:28px}
+h1,h2{font-family:var(--display);text-wrap:balance;margin:0;font-weight:700}
+.top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap}
+.brand{font-family:var(--display);font-size:20px;font-weight:700}
+.brand small{display:block;font-family:var(--body);font-size:12px;font-weight:500;color:var(--muted);letter-spacing:.04em;text-transform:uppercase}
+.lbl{font-family:var(--mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-right:6px}
+select{font:inherit;font-size:13px;padding:7px 10px;border:1px solid var(--line);border-radius:6px;background:var(--surface);color:var(--fg);max-width:100%}
+.slug{display:flex;flex-direction:column;gap:14px;background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;min-width:0}
+.player{position:relative;width:100%;max-width:100%;aspect-ratio:16/9;background:#000;border-radius:6px;overflow:hidden}
+.player iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.slug-body{display:flex;flex-direction:column;gap:12px;padding:4px 6px 6px}
+.meta{display:flex;flex-wrap:wrap;gap:8px 14px;align-items:center;font-family:var(--mono);font-size:12px;color:var(--muted)}
+.onair{background:var(--accent);color:var(--surface);padding:2px 8px;border-radius:3px;font-weight:500;letter-spacing:.08em}
+.slug h1{font-size:clamp(23px,4.4vw,31px);line-height:1.15}
+.slug p{margin:0;max-width:65ch}
+.cc{font-size:13px;color:var(--muted)}
+.cc a{color:var(--accent)}
+.section{display:flex;flex-direction:column;gap:12px}
+.section-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.section-head h2{font-size:22px}
+.count{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.steps{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;border:1px solid var(--line);border-radius:10px;background:var(--surface);overflow:hidden}
+.steps li{display:grid;grid-template-columns:28px 1fr;gap:12px;padding:12px 16px;border-top:1px solid var(--line);cursor:pointer}
+.steps li:first-child{border-top:0}
+.box{width:22px;height:22px;border:1.5px solid var(--muted);border-radius:5px;display:grid;place-items:center;font-size:13px;color:var(--surface);margin-top:1px}
+.steps li.done .box{background:var(--ok);border-color:var(--ok)}
+.steps li.done .st b{color:var(--muted);text-decoration:line-through}
+.st b{font-weight:600}
+.st span{display:block;font-size:13px;color:var(--muted)}
+.toolbar{display:flex;gap:8px;flex-wrap:wrap}
+.chip{font:inherit;font-size:13px;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--surface);color:var(--fg);cursor:pointer}
+.chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
+.words{display:flex;flex-direction:column;border:1px solid var(--line);border-radius:10px;background:var(--surface);overflow:hidden}
+.word{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 16px;padding:16px;border-top:1px solid var(--line)}
+.word:first-child{border-top:0}
+.word.known{background:var(--ok-soft)}
+.w-head{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 10px;min-width:0}
+.w-term{font-family:var(--display);font-size:21px;font-weight:700}
+.w-ipa,.w-pos{font-family:var(--mono);font-size:12px;color:var(--muted)}
+.w-body{grid-column:1/-1;display:flex;flex-direction:column;gap:6px;min-width:0}
+.w-def{margin:0}
+.w-zh{color:var(--accent);font-weight:500}
+.w-ctx,.w-ex{margin:0;font-size:14px;color:var(--muted);max-width:68ch}
+.w-ex{color:var(--fg);border-left:2px solid var(--accent);padding-left:10px}
+.mark{font:inherit;font-size:12px;font-weight:600;padding:5px 10px;border-radius:6px;border:1px solid var(--line);background:transparent;color:var(--muted);cursor:pointer;align-self:start;white-space:nowrap}
+.word.known .mark{border-color:var(--ok);color:var(--ok)}
+.say{font:inherit;font-size:12px;border:0;background:none;color:var(--accent);cursor:pointer;padding:0}
+.quiz .w-body{display:none}
+.quiz .word.revealed .w-body{display:flex}
+.reveal{display:none;font:inherit;font-size:13px;color:var(--accent);background:none;border:0;padding:0;cursor:pointer;text-align:left;grid-column:1/-1}
+.quiz .word:not(.revealed) .reveal{display:block}
+.empty{background:var(--surface);border:1px dashed var(--line);border-radius:10px;padding:28px 22px;color:var(--muted)}
+.foot{font-size:12px;color:var(--muted);max-width:65ch;margin:0}
+button:focus-visible,select:focus-visible,a:focus-visible,li:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">Daily News Drill<small>Watch · shadow · recite · learn the words</small></div>
+    <label><span class="lbl">Lesson</span><select id="pick" aria-label="Choose a lesson"><option>Loading…</option></select></label>
+  </header>
+  <main id="main"><div class="empty">Loading today's lesson…</div></main>
+  <p class="foot">Video and captions are PBS News Hour's own player. Summaries, definitions and example sentences are written for this drill. Your progress is saved in this browser.</p>
+</div>
+<script>
+const $=s=>document.querySelector(s);
+const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const STEPS=[
+ ["Watch once with captions on","Turn on CC in the player. Just follow the story."],
+ ["Watch again and check every word below","Pause when one of today's words comes up."],
+ ["Shadow it, one speaker turn at a time","Play a few sentences, pause, repeat them aloud matching rhythm and stress."],
+ ["Recite from memory","Mute the player, say the section, then replay to check."],
+ ["Quiz yourself on the words","Switch the word bank to Quiz and recall each meaning before revealing."],
+ ["Use three words today","Drop them into an email, a slide or a meeting on purpose."]
+];
+const store={get(){try{return JSON.parse(localStorage.getItem("ndd")||"{}")}catch(e){return {}}},set(v){try{localStorage.setItem("ndd",JSON.stringify(v))}catch(e){}}};
+let P=Object.assign({known:{},steps:{},quiz:false},store.get());
+let index=[],L=null;
+const fmt=d=>{try{return new Date(d+"T12:00:00").toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric"})}catch(e){return d}};
+
+function playerSrc(l){
+  if(l.youtubeId) return "https://www.youtube-nocookie.com/embed/"+encodeURIComponent(l.youtubeId)+"?cc_load_policy=1&cc_lang_pref=en&hl=en&rel=0";
+  if(l.pbsPlayerId) return "https://player.pbs.org/viralplayer/"+encodeURIComponent(l.pbsPlayerId)+"/";
+  return "";
+}
+function item(v,phrase){
+  const term=phrase?v.phrase:v.word,k=term.toLowerCase(),known=!!P.known[k];
+  return `<div class="word${known?" known":""}">
+   <div class="w-head"><span class="w-term">${esc(term)}</span>${v.ipa?`<span class="w-ipa">${esc(v.ipa)}</span>`:""}<span class="w-pos">${esc(v.pos||"")}</span><button class="say" data-say="${esc(term)}" aria-label="Hear ${esc(term)}">🔊 Hear it</button></div>
+   <button class="mark" data-key="${esc(k)}">${known?"✓ Known":"Mark known"}</button>
+   <button class="reveal">Recall the meaning, then tap to check</button>
+   <div class="w-body"><p class="w-def">${esc(v.meaning)} <span class="w-zh">${esc(v.zh)}</span></p>
+   ${v.context?`<p class="w-ctx"><span class="lbl">In the segment</span>${esc(v.context)}</p>`:""}
+   ${v.example?`<p class="w-ex"><span class="lbl">At work</span>${esc(v.example)}</p>`:""}</div></div>`;
+}
+function render(){
+  const sel=$("#pick");
+  sel.innerHTML=index.map(l=>`<option value="${esc(l.date)}"${L&&L.date===l.date?" selected":""}>${esc(fmt(l.date))} — ${esc(l.title).slice(0,48)}</option>`).join("")||"<option>No lessons yet</option>";
+  if(!L) return;
+  const done=new Set(P.steps[L.date]||[]),all=[...(L.vocab||[]),...(L.phrases||[])];
+  const kc=all.filter(v=>P.known[(v.word||v.phrase).toLowerCase()]).length,src=playerSrc(L);
+  $("#main").innerHTML=`<div style="display:flex;flex-direction:column;gap:28px">
+   <article class="slug">
+    ${src?`<div class="player"><iframe src="${esc(src)}" title="${esc(L.title)}" allow="autoplay; fullscreen; encrypted-media; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>`:""}
+    <div class="slug-body">
+     <div class="meta"><span class="onair">${esc(L.show||"PBS NEWS HOUR")}</span><span>${esc(fmt(L.date))}</span><span>${esc(L.duration||"")}</span>${L.topic?`<span>${esc(L.topic)}</span>`:""}</div>
+     <h1>${esc(L.title)}</h1>
+     <p>${esc(L.summary)}</p>
+     <p class="cc">Tap <b>CC</b> in the player for subtitles. Player not loading? <a href="${esc(L.url)}" target="_blank" rel="noopener">Watch on PBS</a>.</p>
+    </div>
+   </article>
+   <section class="section">
+    <div class="section-head"><h2>Today's drill</h2><span class="count">${done.size}/${STEPS.length} done</span></div>
+    <ol class="steps">${STEPS.map((s,i)=>`<li class="${done.has(i)?"done":""}" data-step="${i}" tabindex="0" role="checkbox" aria-checked="${done.has(i)}"><span class="box">${done.has(i)?"✓":""}</span><span class="st"><b>${esc(s[0])}</b><span>${esc(i===2&&L.focus?L.focus:s[1])}</span></span></li>`).join("")}</ol>
+   </section>
+   <section class="section${P.quiz?" quiz":""}">
+    <div class="section-head"><h2>Word bank</h2><span class="count">${kc}/${all.length} known</span></div>
+    <div class="toolbar"><button class="chip" data-mode="study" aria-pressed="${!P.quiz}">Study</button><button class="chip" data-mode="quiz" aria-pressed="${P.quiz}">Quiz</button></div>
+    <div class="words">${(L.vocab||[]).map(v=>item(v,false)).join("")}</div>
+    ${(L.phrases||[]).length?`<div class="section-head"><h2>Phrases to steal</h2></div><div class="words">${L.phrases.map(v=>item(v,true)).join("")}</div>`:""}
+   </section></div>`;
+}
+function toggleStep(i){const s=new Set(P.steps[L.date]||[]);s.has(i)?s.delete(i):s.add(i);P.steps[L.date]=[...s];store.set(P);render()}
+document.addEventListener("click",e=>{
+  const li=e.target.closest(".steps li"); if(li){toggleStep(+li.dataset.step);return}
+  const m=e.target.closest(".mark"); if(m){const k=m.dataset.key;P.known[k]?delete P.known[k]:P.known[k]=true;store.set(P);render();return}
+  const r=e.target.closest(".reveal"); if(r){r.closest(".word").classList.add("revealed");return}
+  const c=e.target.closest(".chip"); if(c){P.quiz=c.dataset.mode==="quiz";store.set(P);render();return}
+  const s=e.target.closest(".say"); if(s&&"speechSynthesis" in window){const u=new SpeechSynthesisUtterance(s.dataset.say);u.lang="en-US";u.rate=.9;speechSynthesis.cancel();speechSynthesis.speak(u)}
+});
+document.addEventListener("keydown",e=>{const li=e.target.closest?.(".steps li");if(li&&(e.key===" "||e.key==="Enter")){e.preventDefault();toggleStep(+li.dataset.step)}});
+async function load(date){
+  try{const r=await fetch("lessons/"+date+".json",{cache:"no-cache"});L=await r.json();render();scrollTo(0,0)}
+  catch(e){$("#main").innerHTML=`<div class="empty">Couldn't load this lesson. Check your connection and reload.</div>`}
+}
+$("#pick").addEventListener("change",e=>load(e.target.value));
+(async()=>{
+  try{const r=await fetch("lessons/index.json",{cache:"no-cache"});index=(await r.json()).sort((a,b)=>b.date.localeCompare(a.date))}
+  catch(e){$("#main").innerHTML=`<div class="empty">Couldn't load lessons. Check your connection and reload.</div>`;return}
+  if(!index.length){$("#main").innerHTML=`<div class="empty">No lessons yet. The first one arrives on the next weekday morning.</div>`;render();return}
+  load(index[0].date);
+})();
+</script>
+</body>
+</html>
