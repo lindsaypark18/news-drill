@@ -82,6 +82,7 @@ label.toggle{display:inline-flex;align-items:center;gap:6px;font-size:13px;curso
 .sent.got{background:var(--ok-soft)}
 .sent.got .tick{border-color:var(--ok);color:var(--ok)}
 .section{display:flex;flex-direction:column;gap:12px;max-width:820px}
+.side{display:flex;flex-direction:column;gap:12px;padding:16px}
 .section-head{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
 .section-head h2{font-size:22px}
 .steps{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;border:1px solid var(--line);border-radius:10px;background:var(--surface);overflow:hidden}
@@ -124,17 +125,17 @@ button:focus-visible,select:focus-visible,a:focus-visible,li:focus-visible{outli
     <label><span class="lbl">Lesson</span><select id="pick" aria-label="Choose a lesson"><option>Loading…</option></select></label>
   </header>
   <main id="main"><div class="empty">Loading today's lesson…</div></main>
-  <p class="foot">Videos play in the publisher's own YouTube player, captions included. The study brief, definitions and example sentences are written for this drill. Your progress is saved in this browser.</p>
+  <p class="foot">Videos play in the publisher's own YouTube player, captions included. Definitions and example sentences are written for this drill. Your progress is saved in this browser.</p>
 </div>
 <script>
 const $=s=>document.querySelector(s);
 const esc=s=>String(s??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const STEPS=[
  ["Watch once at full speed","Captions on. Just follow the story."],
- ["Check the words","Read the word bank and the study brief so nothing surprises you."],
+ ["Check the words","Go through the word bank on the right so nothing surprises you."],
  ["Shadow at 0.75×, one sentence at a time","Tap A at the start of a sentence and B at the end. Repeat with the anchor until your stress and rhythm match, then tap Next."],
  ["Shadow again at 1×","Same sentences, full speed. Try it with captions off."],
- ["Memorize the study brief","Switch to Memorize and recite each sentence from its first letters."],
+ ["Recite one passage from memory","Pick a 30-second stretch, turn captions off, and say it along with the anchor."],
  ["Use three words today","Drop them into an email, a slide or a meeting on purpose."]
 ];
 const store={get(k,d){try{const v=localStorage.getItem(k);return v?JSON.parse(v):d}catch(e){return d}},set(k,v){try{localStorage.setItem(k,JSON.stringify(v))}catch(e){}}};
@@ -281,7 +282,7 @@ function bankHTML(){
     <div class="words">${(L.vocab||[]).map(v=>item(v,false)).join("")}</div>
     ${(L.phrases||[]).length?`<div class="section-head"><h2>Phrases to steal</h2></div><div class="words">${L.phrases.map(v=>item(v,true)).join("")}</div>`:""}`;
 }
-const paint={script:()=>{$("#script").innerHTML=scriptHTML()},drill:()=>{$("#drill").innerHTML=drillHTML()},bank:()=>{const b=$("#bank");b.className="section"+(P.quiz?" quiz":"");b.innerHTML=bankHTML()}};
+const paint={script:()=>{$("#script").innerHTML=scriptHTML()},drill:()=>{$("#drill").innerHTML=drillHTML()},bank:()=>{const b=$("#bank");b.className="panel side"+(P.quiz?" quiz":"");b.innerHTML=bankHTML()}};
 
 /* ---------- lesson shell (built once per lesson so the player isn't rebuilt) ---------- */
 function renderPicker(){
@@ -301,13 +302,12 @@ function renderLesson(){
      <div class="meta"><span class="onair">${esc(L.show||"NEWS")}</span><span>${esc(fmt(L.date))}</span>${L.duration?`<span>${esc(L.duration)}</span>`:""}${L.topic?`<span>${esc(L.topic)}</span>`:""}</div>
      <h1>${esc(L.title)}</h1>
      <p>${esc(L.summary)}</p>
-     <p class="cc">Video not loading? ${alt}<a href="${esc(L.youtubeId?"https://www.youtube.com/watch?v="+L.youtubeId:L.url)}" target="_blank" rel="noopener">watch it at the source</a>.</p>
+     <p class="cc">${L.youtubeId?`Want the full transcript beside the video? <a href="https://www.youtube.com/watch?v=${esc(L.youtubeId)}" target="_blank" rel="noopener">Open it on YouTube</a> and choose <b>…more → Show transcript</b>. `:""}Video not loading? ${alt}<a href="${esc(L.url)}" target="_blank" rel="noopener">see the source</a>.</p>
     </article>
-    <section class="panel script" id="script" aria-label="Study brief"></section>
+    <section class="panel side" id="bank" aria-label="Word bank"></section>
    </div>
-   <section class="section" id="drill"></section>
-   <section class="section" id="bank"></section></div>`;
-  paint.script();paint.drill();paint.bank();
+   <section class="section" id="drill"></section></div>`;
+  paint.drill();paint.bank();
   if(yt) mountPlayer();
 }
 
