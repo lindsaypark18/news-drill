@@ -104,8 +104,9 @@ let P=Object.assign({known:{},steps:{},quiz:false},store.get());
 let index=[],L=null;
 const fmt=d=>{try{return new Date(d+"T12:00:00").toLocaleDateString(undefined,{weekday:"short",month:"short",day:"numeric"})}catch(e){return d}};
 
+let usePbs=false;
 function playerSrc(l){
-  if(l.youtubeId) return "https://www.youtube-nocookie.com/embed/"+encodeURIComponent(l.youtubeId)+"?cc_load_policy=1&cc_lang_pref=en&hl=en&rel=0";
+  if(l.youtubeId&&!(usePbs&&l.pbsPlayerId)) return "https://www.youtube-nocookie.com/embed/"+encodeURIComponent(l.youtubeId)+"?cc_load_policy=1&cc_lang_pref=en&hl=en&rel=0";
   if(l.pbsPlayerId) return "https://player.pbs.org/viralplayer/"+encodeURIComponent(l.pbsPlayerId)+"/";
   return "";
 }
@@ -132,7 +133,7 @@ function render(){
      <div class="meta"><span class="onair">${esc(L.show||"PBS NEWS HOUR")}</span><span>${esc(fmt(L.date))}</span><span>${esc(L.duration||"")}</span>${L.topic?`<span>${esc(L.topic)}</span>`:""}</div>
      <h1>${esc(L.title)}</h1>
      <p>${esc(L.summary)}</p>
-     <p class="cc">Tap <b>CC</b> in the player for subtitles. Player not loading? <a href="${esc(L.url)}" target="_blank" rel="noopener">Watch on PBS</a>.</p>
+     <p class="cc">Tap <b>CC</b> in the player for subtitles. Video not loading? ${L.youtubeId&&L.pbsPlayerId?`<a href="#" data-swap>${usePbs?"Switch back to YouTube":"Try the PBS player"}</a> or `:""}<a href="${esc(L.url)}" target="_blank" rel="noopener">watch on PBS</a>.</p>
     </div>
    </article>
    <section class="section">
@@ -148,6 +149,7 @@ function render(){
 }
 function toggleStep(i){const s=new Set(P.steps[L.date]||[]);s.has(i)?s.delete(i):s.add(i);P.steps[L.date]=[...s];store.set(P);render()}
 document.addEventListener("click",e=>{
+  if(e.target.closest("[data-swap]")){e.preventDefault();usePbs=!usePbs;render();return}
   const li=e.target.closest(".steps li"); if(li){toggleStep(+li.dataset.step);return}
   const m=e.target.closest(".mark"); if(m){const k=m.dataset.key;P.known[k]?delete P.known[k]:P.known[k]=true;store.set(P);render();return}
   const r=e.target.closest(".reveal"); if(r){r.closest(".word").classList.add("revealed");return}
