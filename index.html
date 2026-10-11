@@ -61,6 +61,9 @@ label.toggle{display:inline-flex;align-items:center;gap:6px;font-size:13px;curso
 .watch p{margin:0;max-width:65ch}
 .cc{font-size:13px;color:var(--muted)}
 .cc a{color:var(--accent)}
+.go{display:flex;flex-wrap:wrap;align-items:center;gap:8px 14px}
+.gobtn{display:inline-flex;align-items:center;font-weight:600;font-size:14px;padding:10px 16px;border-radius:7px;background:var(--accent);color:var(--surface);text-decoration:none}
+.gobtn:hover{filter:brightness(1.08)}
 .script{display:flex;flex-direction:column}
 .script-head{display:flex;flex-direction:column;gap:10px;padding:14px 16px;border-bottom:1px solid var(--line)}
 .script-head h2{font-size:21px}
@@ -302,7 +305,8 @@ function renderLesson(){
      <div class="meta"><span class="onair">${esc(L.show||"NEWS")}</span><span>${esc(fmt(L.date))}</span>${L.duration?`<span>${esc(L.duration)}</span>`:""}${L.topic?`<span>${esc(L.topic)}</span>`:""}</div>
      <h1>${esc(L.title)}</h1>
      <p>${esc(L.summary)}</p>
-     <p class="cc">${L.youtubeId?`Want the full transcript beside the video? <a href="https://www.youtube.com/watch?v=${esc(L.youtubeId)}" target="_blank" rel="noopener">Open it on YouTube</a> and choose <b>…more → Show transcript</b>. `:""}Video not loading? ${alt}<a href="${esc(L.url)}" target="_blank" rel="noopener">see the source</a>.</p>
+     ${L.youtubeId?`<div class="go"><a class="gobtn" href="https://www.youtube.com/watch?v=${esc(L.youtubeId)}" target="_blank" rel="noopener">Shadow on YouTube with transcript ↗</a><span class="note">On YouTube, click <b>…more</b> under the title, then <b>Show transcript</b>.</span></div>`:""}
+     <p class="cc">Video not loading? ${alt}<a href="${esc(L.url)}" target="_blank" rel="noopener">see the source</a>.</p>
     </article>
     <section class="panel side" id="bank" aria-label="Word bank"></section>
    </div>
