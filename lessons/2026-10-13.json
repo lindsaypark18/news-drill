@@ -1,0 +1,141 @@
+{
+  "date": "2026-10-13",
+  "show": "PBS NEWS HOUR",
+  "title": "Trump Accounts expand to millions of children, but new rules raise questions",
+  "url": "https://www.pbs.org/newshour/show/trump-accounts-expand-to-millions-of-children-but-new-rules-raise-questions",
+  "pbsPlayerId": "3114562779",
+  "duration": "7 min",
+  "topic": "Personal finance · Policy",
+  "summary": "The Treasury has automatically enrolled more than 60 million children in the new government-backed Trump Accounts and changed the rules on who can donate to them. Wall Street Journal reporter Richard Rubin explains that companies and wealthy donors can now give shares of stock, not just cash, a break from the original low-cost index-fund design. He walks through the concerns this raises, from families being unable to refuse donated stock to possible conflicts of interest, and why legal challenges may struggle.",
+  "focus": "Shadow Richard Rubin's explanation of why stock donations are a big change and his answer on the risks: clear, measured, analyst-style English that suits client conversations.",
+  "vocab": [
+    {
+      "word": "enrol",
+      "ipa": "/ɪnˈrəʊl/",
+      "pos": "verb",
+      "meaning": "Officially sign someone up for a programme or course.",
+      "zh": "注册；登记加入",
+      "context": "The Treasury signed tens of millions of children up automatically.",
+      "example": "We enrolled all regional managers in the new pricing academy."
+    },
+    {
+      "word": "stake",
+      "ipa": "/steɪk/",
+      "pos": "noun",
+      "meaning": "A share or financial interest in something.",
+      "zh": "股份；利害关系",
+      "context": "Describes children getting a small ownership interest through the accounts.",
+      "example": "The fund wants a minority stake with board observer rights."
+    },
+    {
+      "word": "opt out",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Choose not to take part in something you are included in by default.",
+      "zh": "选择退出",
+      "context": "A key worry is that families can't refuse stock that's donated to the account.",
+      "example": "Employees can opt out of the pension scheme, but very few do."
+    },
+    {
+      "word": "signal",
+      "ipa": "/ˈsɪɡnəl/",
+      "pos": "verb",
+      "meaning": "Indicate an intention without stating it formally.",
+      "zh": "暗示；表明意向",
+      "context": "Officials have hinted at their plans rather than formally announcing them.",
+      "example": "The CFO signalled that capex would be cut next year."
+    },
+    {
+      "word": "dangle",
+      "ipa": "/ˈdæŋɡl/",
+      "pos": "verb",
+      "meaning": "Offer something attractive to persuade someone.",
+      "zh": "以……为诱饵；许诺",
+      "context": "The concern that donations could be used as a lure for political favour.",
+      "example": "The vendor dangled a 20% discount to lock us into a five-year deal."
+    },
+    {
+      "word": "incentivise",
+      "ipa": "/ɪnˈsentɪvaɪz/",
+      "pos": "verb",
+      "meaning": "Encourage a behaviour by offering a reward.",
+      "zh": "激励",
+      "context": "Treasury hopes allowing stock gifts will encourage more companies to contribute.",
+      "example": "We need to incentivise store managers to cut shrinkage, not just grow sales."
+    },
+    {
+      "word": "take-up",
+      "ipa": "/ˈteɪk ʌp/",
+      "pos": "noun",
+      "meaning": "The share of eligible people who actually use a benefit or offer.",
+      "zh": "参与率；使用率",
+      "context": "Explains why early voluntary sign-ups were modest.",
+      "example": "Take-up of the self-service portal is still below 30%."
+    },
+    {
+      "word": "undiversified",
+      "ipa": "/ˌʌndaɪˈvɜːsɪfaɪd/",
+      "pos": "adjective",
+      "meaning": "Concentrated in a few holdings rather than spread out, so riskier.",
+      "zh": "未分散的（投资）",
+      "context": "Single-company stock gifts break from the original broad index-fund idea.",
+      "example": "An undiversified customer base leaves the business exposed to one buyer."
+    },
+    {
+      "word": "eligible",
+      "ipa": "/ˈelɪdʒəbl/",
+      "pos": "adjective",
+      "meaning": "Meeting the conditions to receive or do something.",
+      "zh": "有资格的；符合条件的",
+      "context": "Children with Social Security numbers qualify for the accounts.",
+      "example": "Only suppliers with ISO certification are eligible to bid."
+    },
+    {
+      "word": "roll out",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Launch something gradually or to a wide audience.",
+      "zh": "推出；逐步推行",
+      "context": "How the programme is being introduced in stages.",
+      "example": "We'll roll out the new CRM to Europe first, then APAC."
+    },
+    {
+      "word": "conflict of interest",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "A situation where personal interests could affect someone's official judgement.",
+      "zh": "利益冲突",
+      "context": "A worry that regulators could be compromised if regulated firms donate.",
+      "example": "The partner recused herself to avoid a conflict of interest with the target's CEO."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "with strings attached",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "With conditions or obligations that come with a gift or offer.",
+      "zh": "附带条件的",
+      "context": "Raises whether donated stock comes with hidden conditions.",
+      "example": "The grant comes with strings attached: we must hire locally."
+    },
+    {
+      "phrase": "a teaching moment",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "A situation that offers a natural chance to learn something.",
+      "zh": "受教育的机会；教学时机",
+      "context": "The accounts could help children learn about investing.",
+      "example": "The failed pilot was a useful teaching moment for the whole team."
+    },
+    {
+      "phrase": "open it up",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Make something available to more people.",
+      "zh": "开放；扩大范围",
+      "context": "About widening who can contribute to the accounts.",
+      "example": "If the pilot works, we'll open it up to all franchisees."
+    }
+  ]
+}
