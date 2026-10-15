@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-14",
+  "show": "PBS NEWS HOUR",
+  "title": "Economist breaks down new inflation report and what's driving prices higher",
+  "url": "https://www.pbs.org/newshour/show/economist-breaks-down-new-inflation-report-and-whats-driving-prices-higher",
+  "youtubeId": "d7ck9s169ms",
+  "duration": "5 min",
+  "topic": "Economy · Inflation",
+  "summary": "A new report shows US consumer prices rising faster than expected, about 3.7% over the past year, just weeks before the midterm elections. Economist Heather Long explains that energy accounts for only around half of the jump, with medical care, clothing, software and car repairs also getting more expensive, so the Federal Reserve may have to raise rates again. Short interviews with a disabled veteran and a California farmer show how the squeeze feels, and Long describes middle-income families starting to cut back on groceries.",
+  "focus": "Shadow Heather Long's first answer on why this inflation is broad-based, and her closing answer on how households are coping: crisp economist English with useful phrasing for client updates.",
+  "vocab": [
+    {
+      "word": "broad-based",
+      "ipa": "/ˌbrɔːd ˈbeɪst/",
+      "pos": "adjective",
+      "meaning": "Spread across many areas or categories, not concentrated in one.",
+      "zh": "广泛的；普遍的",
+      "context": "Long stresses that price rises are showing up across many categories, not just energy.",
+      "example": "The margin decline is broad-based, so it isn't a single-product problem."
+    },
+    {
+      "word": "spill over",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Spread from one area into others.",
+      "zh": "蔓延；外溢",
+      "context": "Higher fuel costs are feeding into airfares and heating bills.",
+      "example": "Delays in the supply chain are starting to spill over into customer satisfaction scores."
+    },
+    {
+      "word": "pain point",
+      "ipa": "/ˈpeɪn pɔɪnt/",
+      "pos": "noun",
+      "meaning": "A specific problem or source of frustration.",
+      "zh": "痛点",
+      "context": "Mortgage rates are named as a particular source of strain for households.",
+      "example": "Onboarding time is the biggest pain point in the client survey."
+    },
+    {
+      "word": "ease",
+      "ipa": "/iːz/",
+      "pos": "verb",
+      "meaning": "Become less severe or intense.",
+      "zh": "缓解；减轻",
+      "context": "Used for how long it may take for inflation to come down.",
+      "example": "We expect freight costs to ease in the second half."
+    },
+    {
+      "word": "tepid",
+      "ipa": "/ˈtepɪd/",
+      "pos": "adjective",
+      "meaning": "Lukewarm; showing little enthusiasm or strength.",
+      "zh": "不温不火的；冷淡的",
+      "context": "Long expects a weak, unexciting holiday shopping season.",
+      "example": "Investor response to the guidance was tepid at best."
+    },
+    {
+      "word": "grind on",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Continue in a tiring way that slowly wears someone down.",
+      "zh": "（令人）持续煎熬；慢慢消磨",
+      "context": "The farmer describes how constant diesel costs wear on him.",
+      "example": "Months of firefighting on the integration started to grind on the team."
+    },
+    {
+      "word": "pull back",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Reduce spending or activity, usually out of caution.",
+      "zh": "收缩；缩减（开支）",
+      "context": "Middle-income families are starting to cut back on grocery spending.",
+      "example": "Clients are pulling back on discretionary consulting spend this quarter."
+    },
+    {
+      "word": "reliant",
+      "ipa": "/rɪˈlaɪənt/",
+      "pos": "adjective",
+      "meaning": "Dependent on someone or something.",
+      "zh": "依赖的",
+      "context": "Some households are leaning on credit cards for basic needs.",
+      "example": "The business is too reliant on two distributors in the Gulf."
+    },
+    {
+      "word": "fixed income",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "Income that stays the same and doesn't rise with prices, such as a pension or benefits.",
+      "zh": "固定收入",
+      "context": "People living on benefits are hit hardest when prices climb.",
+      "example": "Retirees on a fixed income are the most price-sensitive segment in our data."
+    },
+    {
+      "word": "bump",
+      "ipa": "/bʌmp/",
+      "pos": "noun",
+      "meaning": "An increase, often small (informal).",
+      "zh": "（小幅）上涨；提升",
+      "context": "Refers to the upcoming increase in Social Security payments.",
+      "example": "The new feature gave us a small bump in conversion."
+    },
+    {
+      "word": "strain",
+      "ipa": "/streɪn/",
+      "pos": "noun",
+      "meaning": "Pressure that stretches resources or people to their limit.",
+      "zh": "压力；负担",
+      "context": "Long says the financial pressure on households is real.",
+      "example": "The hiring freeze is putting a lot of strain on the delivery team."
+    },
+    {
+      "word": "resilient",
+      "ipa": "/rɪˈzɪliənt/",
+      "pos": "adjective",
+      "meaning": "Able to recover quickly from difficulties.",
+      "zh": "有韧性的；适应力强的",
+      "context": "Describes how middle-class spending had held up until now.",
+      "example": "Demand has been surprisingly resilient despite the price increase."
+    },
+    {
+      "word": "essentials",
+      "ipa": "/ɪˈsenʃlz/",
+      "pos": "noun",
+      "meaning": "Basic things people need, such as food and fuel.",
+      "zh": "必需品",
+      "context": "Everyday basics are where households feel price rises most.",
+      "example": "In a downturn, shoppers trade down on essentials before cutting them."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set off alarm bells",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Make people realise something may be seriously wrong.",
+      "zh": "敲响警钟",
+      "context": "The broad price rises are a warning sign for the Fed.",
+      "example": "The jump in churn should set off alarm bells in the retention team."
+    },
+    {
+      "phrase": "stretch every dollar",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Make limited money last as long as possible.",
+      "zh": "精打细算；每一分钱都掰开花",
+      "context": "How struggling households are trying to cope.",
+      "example": "With budgets frozen, clients are stretching every dollar on IT projects."
+    },
+    {
+      "phrase": "you can't coupon your way out of it",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Small savings tricks won't solve a big structural problem.",
+      "zh": "靠省小钱解决不了问题",
+      "context": "Long's point that discounts won't offset rising costs.",
+      "example": "This is a structural cost problem; you can't coupon your way out of it."
+    },
+    {
+      "phrase": "hard choices",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Difficult decisions between unattractive options.",
+      "zh": "艰难的抉择",
+      "context": "Families deciding between groceries and other bills.",
+      "example": "The budget cut forces some hard choices about which markets to exit."
+    }
+  ]
+}
