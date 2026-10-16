@@ -1,0 +1,160 @@
+{
+  "date": "2026-10-14-2",
+  "show": "PBS NEWS HOUR",
+  "title": "How Starlink disruptions affected Ukraine's battlefield operations",
+  "url": "https://www.pbs.org/newshour/show/how-starlink-disruptions-affected-ukraines-battlefield-operations",
+  "youtubeId": "lMmwFGRb5pg",
+  "pbsPlayerId": "3114593929",
+  "duration": "8 min",
+  "topic": "Technology · Geopolitics",
+  "summary": "Starshield, the military version of SpaceX's Starlink satellite network that Ukraine relies on for communications, was partly restricted, disrupting Ukrainian operations. Liz Landers reports that Russian strikes on energy sites continued despite the announced ceasefire, while President Zelenskyy warned the cutback could cost lives and Elon Musk said limits on use are set by the US government. Retired Rear Admiral Mark Montgomery explains why the service is essential for mid-range strikes and argues the restrictions should be lifted.",
+  "focus": "Shadow Mark Montgomery's answer on why Starshield matters for targeting and his view on what Washington is signalling: precise, briefing-style English with vivid metaphors.",
+  "vocab": [
+    {
+      "word": "onslaught",
+      "ipa": "/ˈɒnslɔːt/",
+      "pos": "noun",
+      "meaning": "A fierce, sustained attack; also an overwhelming amount of something.",
+      "zh": "猛攻；冲击",
+      "context": "Describes the continuing wave of Russian strikes.",
+      "example": "The team is facing an onslaught of change requests before go-live."
+    },
+    {
+      "word": "war-weary",
+      "ipa": "/ˈwɔː ˌwɪəri/",
+      "pos": "adjective",
+      "meaning": "Exhausted by a long conflict.",
+      "zh": "厌战的；饱受战争之苦的",
+      "context": "Describes the mood among Ukrainians after years of fighting.",
+      "example": "After three restructurings, staff are understandably change-weary."
+    },
+    {
+      "word": "fray",
+      "ipa": "/freɪ/",
+      "pos": "verb",
+      "meaning": "Start to weaken or come apart under strain.",
+      "zh": "（关系）出现裂痕；磨损",
+      "context": "Used for the weakening partnership between Washington and Kyiv.",
+      "example": "Trust between the two JV partners began to fray over pricing."
+    },
+    {
+      "word": "curtail",
+      "ipa": "/kɜːˈteɪl/",
+      "pos": "verb",
+      "meaning": "Cut back or limit something.",
+      "zh": "削减；限制",
+      "context": "Describes how the satellite service's usefulness to Ukraine was reduced.",
+      "example": "New regulations could curtail our ability to share data across borders."
+    },
+    {
+      "word": "throttle",
+      "ipa": "/ˈθrɒtl/",
+      "pos": "verb",
+      "meaning": "Deliberately restrict the speed or capacity of something.",
+      "zh": "限制；（刻意）降速",
+      "context": "The service's capacity was intentionally limited.",
+      "example": "The cloud provider throttles API calls once you pass the quota."
+    },
+    {
+      "word": "hyperbole",
+      "ipa": "/haɪˈpɜːbəli/",
+      "pos": "noun",
+      "meaning": "Deliberate exaggeration for effect.",
+      "zh": "夸张（法）",
+      "context": "The host asks whether Zelenskyy's warning is overstated.",
+      "example": "Calling it a 'game-changer' is hyperbole; it's an incremental gain."
+    },
+    {
+      "word": "integral",
+      "ipa": "/ˈɪntɪɡrəl/",
+      "pos": "adjective",
+      "meaning": "Essential and necessary to make something complete.",
+      "zh": "不可或缺的；必要的",
+      "context": "The network is described as central to Ukraine's targeting.",
+      "example": "Data governance is integral to any AI roadmap we propose."
+    },
+    {
+      "word": "grapple with",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Struggle to deal with a difficult problem.",
+      "zh": "努力应对；设法解决",
+      "context": "Ukraine is trying to cope with an ally that may not be dependable.",
+      "example": "Most retailers are still grappling with how to price for inflation."
+    },
+    {
+      "word": "plunge",
+      "ipa": "/plʌndʒ/",
+      "pos": "verb",
+      "meaning": "Suddenly push someone or something into a bad state.",
+      "zh": "使陷入；骤降",
+      "context": "Strikes are leaving Kyiv suddenly without power.",
+      "example": "The recall plunged the brand into its worst quarter in a decade."
+    },
+    {
+      "word": "glitch",
+      "ipa": "/ɡlɪtʃ/",
+      "pos": "noun",
+      "meaning": "A small, often temporary technical fault.",
+      "zh": "小故障",
+      "context": "Zelenskyy hoped the cutoff was just a technical fault.",
+      "example": "A billing glitch double-charged a few hundred customers overnight."
+    },
+    {
+      "word": "hamper",
+      "ipa": "/ˈhæmpə/",
+      "pos": "verb",
+      "meaning": "Hold back or make progress more difficult.",
+      "zh": "阻碍；妨碍",
+      "context": "The disruption made military communications harder.",
+      "example": "Legacy systems are hampering the rollout of the new analytics platform."
+    },
+    {
+      "word": "sovereign",
+      "ipa": "/ˈsɒvrɪn/",
+      "pos": "adjective",
+      "meaning": "Having independent authority over a territory.",
+      "zh": "拥有主权的",
+      "context": "Refers to strikes on Russia's own territory.",
+      "example": "Several governments want sovereign cloud regions for sensitive data."
+    },
+    {
+      "word": "logistics",
+      "ipa": "/ləˈdʒɪstɪks/",
+      "pos": "noun",
+      "meaning": "Planning and moving supplies and people.",
+      "zh": "物流；后勤",
+      "context": "Refers to Russian supply lines into Crimea.",
+      "example": "Last-mile logistics is where most of the cost sits in this market."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hit the archer, not the arrow",
+      "ipa": "",
+      "pos": "metaphor",
+      "meaning": "Deal with the source of a problem instead of its symptoms.",
+      "zh": "擒贼先擒王；治本而非治标",
+      "context": "Montgomery's argument for striking launch sites instead of only shooting down missiles.",
+      "example": "Instead of firefighting complaints, let's hit the archer, not the arrow, and fix onboarding."
+    },
+    {
+      "phrase": "on the ground",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "In the real situation where things are happening.",
+      "zh": "实地；在一线",
+      "context": "The host asks what the practical effect has been.",
+      "example": "What are store managers seeing on the ground?"
+    },
+    {
+      "phrase": "on the wrong side of history",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Supporting something that will later be judged mistaken.",
+      "zh": "站在历史错误的一边",
+      "context": "Zelenskyy uses it about advisers pushing for concessions.",
+      "example": "Firms that ignored mobile banking ended up on the wrong side of history."
+    }
+  ]
+}
