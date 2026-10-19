@@ -1,0 +1,150 @@
+{
+  "date": "2026-10-16-3",
+  "show": "PBS NEWS HOUR",
+  "title": "Examining the controversial claims Trump is making at his midterm rallies",
+  "url": "https://www.pbs.org/newshour/show/examining-the-controversial-claims-trump-is-making-at-his-midterm-rallies",
+  "pbsPlayerId": "3114673598",
+  "duration": "7 min",
+  "topic": "Politics · Fact-check",
+  "summary": "With the midterms approaching, White House correspondent Liz Landers fact-checks claims President Trump has been making at his rallies. She explains what budget projections say about immigration and federal revenue, what the law actually allows for prosecuting leakers, and what really happened with voting machines in Arizona's 2022 election. She also covers a Justice Department push over voter rolls and the press secretary's departure.",
+  "focus": "Shadow Liz Landers's answers on immigration and federal revenue and on the Arizona voting machines: calm, evidence-led explanations that are a good model for correcting a client's assumption politely.",
+  "vocab": [
+    {
+      "word": "drive up",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Cause something such as a price or cost to rise.",
+      "zh": "推高；抬高",
+      "context": "The claim that immigrants push costs and taxes higher.",
+      "example": "Rush orders from APAC drove up logistics costs last quarter."
+    },
+    {
+      "word": "in turn",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "As a result of the thing just mentioned.",
+      "zh": "进而；反过来",
+      "context": "Landers links more workers to more economic activity and, as a result, more revenue.",
+      "example": "Faster onboarding lifts activation, which in turn reduces churn."
+    },
+    {
+      "word": "disenfranchise",
+      "ipa": "/ˌdɪsɪnˈfræntʃaɪz/",
+      "pos": "verb",
+      "meaning": "Take away someone's right to vote, or their power or voice.",
+      "zh": "剥夺（投票）权；使失去话语权",
+      "context": "Landers says the printer problem didn't stop anyone voting.",
+      "example": "Centralising decisions risks disenfranchising the regional teams."
+    },
+    {
+      "word": "tabulator",
+      "ipa": "/ˈtæbjuleɪtə/",
+      "pos": "noun",
+      "meaning": "A machine that counts ballots or data.",
+      "zh": "计票机；制表机",
+      "context": "Ink that was too light caused problems for the counting machines.",
+      "example": "(Mostly an elections word; useful for reading news, less for meetings.)"
+    },
+    {
+      "word": "subsequent",
+      "ipa": "/ˈsʌbsɪkwənt/",
+      "pos": "adjective",
+      "meaning": "Coming after something else.",
+      "zh": "随后的；后来的",
+      "context": "Refers to the lawsuits filed afterward.",
+      "example": "Subsequent phases will depend on the results of the pilot."
+    },
+    {
+      "word": "dismiss",
+      "ipa": "/dɪsˈmɪs/",
+      "pos": "verb",
+      "meaning": "Formally reject a case or idea; refuse to consider it seriously.",
+      "zh": "驳回；不予考虑",
+      "context": "Courts threw out the challenges.",
+      "example": "Don't dismiss the smaller competitors; they're winning on price."
+    },
+    {
+      "word": "designate",
+      "ipa": "/ˈdezɪɡneɪt/",
+      "pos": "verb",
+      "meaning": "Officially assign a role or purpose.",
+      "zh": "指定；委派",
+      "context": "States are formally given the job of running elections.",
+      "example": "Each workstream should designate one owner for client communication."
+    },
+    {
+      "word": "compel",
+      "ipa": "/kəmˈpel/",
+      "pos": "verb",
+      "meaning": "Force someone to do something.",
+      "zh": "强迫；迫使",
+      "context": "The administration's effort to force states to hand over data.",
+      "example": "The new regulation will compel banks to disclose climate exposure."
+    },
+    {
+      "word": "compile",
+      "ipa": "/kəmˈpaɪl/",
+      "pos": "verb",
+      "meaning": "Collect information and put it together in a list or report.",
+      "zh": "汇编；整理",
+      "context": "The Justice Department assembled a list of suspected noncitizens.",
+      "example": "Can you compile the interview notes into one synthesis deck?"
+    },
+    {
+      "word": "track record",
+      "ipa": "/ˈtræk ˌrekɔːd/",
+      "pos": "noun",
+      "meaning": "The history of someone's past performance.",
+      "zh": "过往记录；业绩",
+      "context": "Federal lists like this have often been inaccurate.",
+      "example": "They have a strong track record on post-merger integration."
+    },
+    {
+      "word": "dissemination",
+      "ipa": "/dɪˌsemɪˈneɪʃn/",
+      "pos": "noun",
+      "meaning": "The spreading of information widely.",
+      "zh": "传播；散布",
+      "context": "Part of how the law describes sharing classified information.",
+      "example": "Dissemination of the findings should wait until legal has reviewed them."
+    },
+    {
+      "word": "visibly",
+      "ipa": "/ˈvɪzəbli/",
+      "pos": "adverb",
+      "meaning": "In a way that others can clearly see.",
+      "zh": "明显地；看得出地",
+      "context": "Describes the press secretary's nerves at the podium.",
+      "example": "The CFO was visibly frustrated by the late numbers."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "not going to stand for it",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Refuse to accept or tolerate something.",
+      "zh": "决不容忍",
+      "context": "Trump's line in his immigration remarks.",
+      "example": "Leadership made it clear they're not going to stand for missed SLAs."
+    },
+    {
+      "phrase": "time, place and manner",
+      "ipa": "",
+      "pos": "legal phrase",
+      "meaning": "The practical details of how something is carried out.",
+      "zh": "时间、地点与方式（法律用语）",
+      "context": "The constitutional phrase for what states control about elections.",
+      "example": "The contract leaves the time, place and manner of delivery to the client."
+    },
+    {
+      "phrase": "set aside",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Keep separate for a purpose, or put to one side.",
+      "zh": "留出；搁置",
+      "context": "Officials were asked to separate certain ballots.",
+      "example": "Let's set aside the pricing question and agree the scope first."
+    }
+  ]
+}
