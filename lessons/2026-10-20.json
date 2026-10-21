@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-20",
+  "show": "PBS NEWS HOUR",
+  "title": "Tightening sanctions on Russia is 'the way to end this war,' says David Kramer",
+  "url": "https://www.pbs.org/newshour/show/tightening-sanctions-on-russia-is-the-way-to-end-this-war-says-david-kramer",
+  "pbsPlayerId": "3114759005",
+  "duration": "6 min",
+  "topic": "Geopolitics · Sanctions",
+  "summary": "With US intelligence sharing with Ukraine restored, Geoff Bennett asks former State Department official David Kramer whether the thaw between Washington and Kyiv will last. Kramer describes a repeated cycle of clashes and reconciliations since early 2025 and argues that Moscow is exploiting the instability. He says more economic pressure, including sanctions on Russia's shadow fleet and banks, is the most realistic way to end the war.",
+  "focus": "Shadow David Kramer's closing answer on why tighter sanctions are the way forward: a structured, persuasive argument with clear signposting that suits a recommendation slide or client pitch.",
+  "vocab": [
+    {
+      "word": "reset",
+      "ipa": "/ˈriːset/",
+      "pos": "noun",
+      "meaning": "A fresh start in a relationship after a difficult period.",
+      "zh": "重启；重新开始",
+      "context": "Describes the easing of tension between Washington and Kyiv.",
+      "example": "The new account lead wants a reset with the client after last year's delays."
+    },
+    {
+      "word": "breaking point",
+      "ipa": "/ˈbreɪkɪŋ pɔɪnt/",
+      "pos": "noun",
+      "meaning": "The moment when a situation or person can no longer cope.",
+      "zh": "临界点；崩溃点",
+      "context": "How close the relationship came to collapse.",
+      "example": "The support team was at breaking point before we added the chatbot."
+    },
+    {
+      "word": "reprieve",
+      "ipa": "/rɪˈpriːv/",
+      "pos": "noun",
+      "meaning": "A temporary relief from something unpleasant.",
+      "zh": "暂缓；暂时的喘息",
+      "context": "Bennett asks whether the calm is lasting or just a pause.",
+      "example": "The rate pause gives borrowers a reprieve, but not for long."
+    },
+    {
+      "word": "disruption",
+      "ipa": "/dɪsˈrʌpʃn/",
+      "pos": "noun",
+      "meaning": "An interruption that stops something working normally.",
+      "zh": "中断；扰乱",
+      "context": "Refers to interruptions in intelligence and satellite communications.",
+      "example": "We need a plan to minimise disruption during the system cutover."
+    },
+    {
+      "word": "seesaw",
+      "ipa": "/ˈsiːsɔː/",
+      "pos": "noun/verb",
+      "meaning": "A repeated swing back and forth between two states.",
+      "zh": "拉锯；反复摇摆",
+      "context": "Describes the shifting US stance toward Ukraine.",
+      "example": "Margins have seesawed with commodity prices all year."
+    },
+    {
+      "word": "unnerving",
+      "ipa": "/ʌnˈnɜːvɪŋ/",
+      "pos": "adjective",
+      "meaning": "Making someone feel nervous or uneasy.",
+      "zh": "令人不安的",
+      "context": "How the policy swings feel to Ukrainians.",
+      "example": "It's unnerving to have a key supplier go silent a week before launch."
+    },
+    {
+      "word": "blowup",
+      "ipa": "/ˈbləʊʌp/",
+      "pos": "noun",
+      "meaning": "A sudden angry argument (informal).",
+      "zh": "大吵；爆发冲突",
+      "context": "Refers to the heated Oval Office confrontation.",
+      "example": "After the blowup in the steering committee, we moved to weekly one-to-ones."
+    },
+    {
+      "word": "shadow fleet",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "Ships that operate secretly to avoid sanctions; by extension, anything operating outside official oversight.",
+      "zh": "影子船队",
+      "context": "A target for sanctions to cut Russia's oil income.",
+      "example": "Shadow IT is the corporate equivalent of a shadow fleet."
+    },
+    {
+      "word": "mandate",
+      "ipa": "/ˈmændeɪt/",
+      "pos": "noun",
+      "meaning": "The authority to act, given by an election or an organisation.",
+      "zh": "授权；任务",
+      "context": "Used in the debate over Zelenskyy's term in office.",
+      "example": "Our mandate covers pricing only, not the go-to-market model."
+    },
+    {
+      "word": "sizeable",
+      "ipa": "/ˈsaɪzəbl/",
+      "pos": "adjective",
+      "meaning": "Fairly large.",
+      "zh": "相当大的",
+      "context": "Describes the margin of congressional support for sanctions.",
+      "example": "There's a sizeable opportunity in mid-tier hospitals."
+    },
+    {
+      "word": "eviscerate",
+      "ipa": "/ɪˈvɪsəreɪt/",
+      "pos": "verb",
+      "meaning": "Remove the most important part of something, leaving it weak; also, criticise severely.",
+      "zh": "掏空；严厉抨击",
+      "context": "Kramer says Putin wants to strip Ukraine of real independence.",
+      "example": "Those budget cuts would eviscerate the innovation team."
+    },
+    {
+      "word": "rhetoric",
+      "ipa": "/ˈretərɪk/",
+      "pos": "noun",
+      "meaning": "Language meant to persuade or impress, often seen as lacking substance.",
+      "zh": "言辞；说辞",
+      "context": "Refers to recent statements in Washington blaming Ukraine.",
+      "example": "Strip away the rhetoric and the proposal is a 5% price increase."
+    },
+    {
+      "word": "aggression",
+      "ipa": "/əˈɡreʃn/",
+      "pos": "noun",
+      "meaning": "Hostile or violent behaviour; in business, forceful competition.",
+      "zh": "侵略；进攻性",
+      "context": "Describes Russia's attacks on Ukraine since 2014.",
+      "example": "The competitor's pricing aggression is squeezing the whole market."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "under someone's thumb",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Completely controlled by someone.",
+      "zh": "受某人控制",
+      "context": "Kramer's description of what Moscow wants for Ukraine.",
+      "example": "The franchisees feel they're under head office's thumb on pricing."
+    },
+    {
+      "phrase": "get behind",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Publicly support something.",
+      "zh": "支持",
+      "context": "Bipartisan backing for Ukraine.",
+      "example": "We need the regional heads to get behind the new operating model."
+    },
+    {
+      "phrase": "wholly unacceptable",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Completely impossible to accept (formal, strong).",
+      "zh": "完全不可接受",
+      "context": "Ukraine's view of talks that exclude it.",
+      "example": "A three-month delay without notice is wholly unacceptable."
+    },
+    {
+      "phrase": "let's not forget",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "A signpost reminding listeners of an important fact.",
+      "zh": "别忘了；我们不要忘记",
+      "context": "Kramer reminds viewers when the conflict began.",
+      "example": "Let's not forget that this client was our first reference customer."
+    }
+  ]
+}
