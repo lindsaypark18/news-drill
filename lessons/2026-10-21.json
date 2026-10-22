@@ -1,0 +1,159 @@
+{
+  "date": "2026-10-21",
+  "show": "PBS NEWS HOUR",
+  "title": "How Elon Musk gained so much power over U.S. security interests",
+  "url": "https://www.pbs.org/newshour/show/how-elon-musk-gained-so-much-power-over-u-s-security-interests",
+  "pbsPlayerId": "3114797366",
+  "duration": "",
+  "topic": "Technology · National security",
+  "summary": "SpaceX's speed limits on Starshield receivers are still hurting Ukraine's drone operations, and no other company can supply the same technology. Officials, Elon Musk and President Trump give conflicting accounts of who ordered the restriction. Retired Colonel Charles Galbreath explains why a government-run military system shouldn't be controlled by a private owner, how dependent the Pentagon has become on SpaceX, and why he wants an investigation and stronger oversight.",
+  "focus": "Shadow Colonel Galbreath's explanation of the difference between Starlink and Starshield and his 'bottom line' answer on oversight: a clear structure (context, problem, recommendation) that maps well onto consulting storylines.",
+  "vocab": [
+    {
+      "word": "carve",
+      "ipa": "/kɑːv/",
+      "pos": "verb",
+      "meaning": "Cut a path through something; in business, create a space for yourself with effort.",
+      "zh": "开辟；切出（路径）",
+      "context": "Describes a drone cutting a path over Kyiv.",
+      "example": "They carved out a profitable niche in mid-market logistics."
+    },
+    {
+      "word": "jammable",
+      "ipa": "/ˈdʒæməbl/",
+      "pos": "adjective",
+      "meaning": "Able to have its signals blocked or disrupted.",
+      "zh": "可被干扰的",
+      "context": "Starshield receivers resist Russian signal interference.",
+      "example": "(Technical term; the root 'jam' is the useful one, as in a paper jam or traffic jam.)"
+    },
+    {
+      "word": "game-changing",
+      "ipa": "/ˈɡeɪm ˌtʃeɪndʒɪŋ/",
+      "pos": "adjective",
+      "meaning": "So significant that it changes how things are done.",
+      "zh": "颠覆性的；改变格局的",
+      "context": "How Starshield's capability is described for Ukraine.",
+      "example": "Real-time inventory data would be game-changing for store replenishment."
+    },
+    {
+      "word": "encrypted",
+      "ipa": "/ɪnˈkrɪptɪd/",
+      "pos": "adjective",
+      "meaning": "Converted into a code so only authorised people can read it.",
+      "zh": "加密的",
+      "context": "Distinguishes the military system from the commercial one.",
+      "example": "All client files must be stored on encrypted drives."
+    },
+    {
+      "word": "proprietor",
+      "ipa": "/prəˈpraɪətə/",
+      "pos": "noun",
+      "meaning": "The owner of a business.",
+      "zh": "业主；所有者",
+      "context": "Refers to Musk as the owner of Starlink.",
+      "example": "Most of these stores are run by sole proprietors."
+    },
+    {
+      "word": "sway",
+      "ipa": "/sweɪ/",
+      "pos": "noun",
+      "meaning": "Power to influence people or decisions.",
+      "zh": "影响力；支配",
+      "context": "Describes how much influence Musk holds.",
+      "example": "The CFO holds real sway over which projects get funded."
+    },
+    {
+      "word": "leeway",
+      "ipa": "/ˈliːweɪ/",
+      "pos": "noun",
+      "meaning": "Freedom to act or decide within limits.",
+      "zh": "回旋余地；自由度",
+      "context": "The latitude a private owner has over a critical system.",
+      "example": "Give the country teams some leeway on promotional spend."
+    },
+    {
+      "word": "unilaterally",
+      "ipa": "/ˌjuːnɪˈlætrəli/",
+      "pos": "adverb",
+      "meaning": "Done by one side alone, without agreement from others.",
+      "zh": "单方面地",
+      "context": "Galbreath says the decision shouldn't be made by one person alone.",
+      "example": "The supplier unilaterally changed the payment terms."
+    },
+    {
+      "word": "cadence",
+      "ipa": "/ˈkeɪdns/",
+      "pos": "noun",
+      "meaning": "The rhythm or frequency of something happening.",
+      "zh": "节奏；频率",
+      "context": "Refers to how often SpaceX launches rockets.",
+      "example": "Let's agree a weekly cadence for status updates with the client."
+    },
+    {
+      "word": "premier",
+      "ipa": "/ˈpremiə/",
+      "pos": "adjective",
+      "meaning": "Leading; the best or most important.",
+      "zh": "首要的；顶级的",
+      "context": "Describes SpaceX's position in launches.",
+      "example": "They want to be the premier provider of cold-chain logistics in ASEAN."
+    },
+    {
+      "word": "consultation",
+      "ipa": "/ˌkɒnslˈteɪʃn/",
+      "pos": "noun",
+      "meaning": "Formal discussion to get advice or agreement before deciding.",
+      "zh": "磋商；征询意见",
+      "context": "Military decisions should involve proper discussion.",
+      "example": "The redesign went ahead without consultation with the frontline staff."
+    },
+    {
+      "word": "wage",
+      "ipa": "/weɪdʒ/",
+      "pos": "verb",
+      "meaning": "Carry on a war or campaign.",
+      "zh": "进行（战争、运动）",
+      "context": "Ukraine needs the tools to conduct the war.",
+      "example": "The challenger is waging a price war in the budget segment."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "point the finger at",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Blame someone.",
+      "zh": "指责；归咎于",
+      "context": "Musk blamed the president on social media.",
+      "example": "Rather than point the finger at sales, let's fix the forecast model."
+    },
+    {
+      "phrase": "checks and balances",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Controls that stop any one person or group having too much power.",
+      "zh": "制衡机制",
+      "context": "Galbreath's call for proper oversight.",
+      "example": "The new approval workflow adds checks and balances on discounting."
+    },
+    {
+      "phrase": "the bottom line",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "The most important point or conclusion.",
+      "zh": "关键在于；底线",
+      "context": "How Galbreath introduces his main takeaway.",
+      "example": "The bottom line is that we need two more FTEs to hit the date."
+    },
+    {
+      "phrase": "get to the bottom of",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Find out the real cause or truth.",
+      "zh": "查明真相；追根究底",
+      "context": "The case for an investigation.",
+      "example": "We need to get to the bottom of why returns doubled in Q2."
+    }
+  ]
+}
