@@ -1,0 +1,169 @@
+{
+  "date": "2026-10-22",
+  "show": "PBS NEWS HOUR",
+  "title": "Inside the race to build Patriot missiles as stocks run low",
+  "url": "https://www.pbs.org/newshour/show/inside-the-race-to-build-patriot-missiles-as-stocks-run-low",
+  "youtubeId": "bLIuhI03SGg",
+  "pbsPlayerId": "3114820947",
+  "duration": "",
+  "topic": "Industry · Supply chain",
+  "summary": "Patriot air-defence interceptors have been drained by the wars in Ukraine and with Iran, and demand now far outstrips supply. Correspondent Mike Cerre reports from Kyiv and from Lockheed Martin, where each missile takes over a year to build and the company is expanding capacity, forming joint ventures and developing a cheaper version. Seth Jones of CSIS argues the US failed to build adequate stockpiles, so Ukraine is unlikely to get many more.",
+  "focus": "Shadow the Lockheed Martin explanation of production capacity and the supply chain, and Seth Jones's answer on stockpiles: concrete supply-and-demand language you can reuse in operations or manufacturing cases.",
+  "vocab": [
+    {
+      "word": "depleted",
+      "ipa": "/dɪˈpliːtɪd/",
+      "pos": "adjective",
+      "meaning": "Reduced or used up, so little is left.",
+      "zh": "耗尽的；大量减少的",
+      "context": "Describes interceptor stocks drained by years of fighting.",
+      "example": "Cash reserves were badly depleted after the acquisition."
+    },
+    {
+      "word": "acute",
+      "ipa": "/əˈkjuːt/",
+      "pos": "adjective",
+      "meaning": "Severe and urgent.",
+      "zh": "严重的；紧迫的",
+      "context": "Describes how urgently Ukraine needs air defence.",
+      "example": "The talent shortage is most acute in data engineering."
+    },
+    {
+      "word": "convoy",
+      "ipa": "/ˈkɒnvɔɪ/",
+      "pos": "noun",
+      "meaning": "A group of vehicles travelling together, often for safety.",
+      "zh": "车队；护航队",
+      "context": "The aid group's trip into Ukraine.",
+      "example": "(Useful for reading news; in business you'd say 'delegation' instead.)"
+    },
+    {
+      "word": "shortage",
+      "ipa": "/ˈʃɔːtɪdʒ/",
+      "pos": "noun",
+      "meaning": "A situation where there isn't enough of something.",
+      "zh": "短缺；不足",
+      "context": "Refers to the global lack of Patriot missiles.",
+      "example": "A chip shortage held back vehicle production for two years."
+    },
+    {
+      "word": "surge",
+      "ipa": "/sɜːdʒ/",
+      "pos": "noun",
+      "meaning": "A sudden large increase.",
+      "zh": "激增；猛增",
+      "context": "Describes the jump in Russian air strikes.",
+      "example": "We saw a surge in returns after the holiday season."
+    },
+    {
+      "word": "brewing",
+      "ipa": "/ˈbruːɪŋ/",
+      "pos": "adjective",
+      "meaning": "Slowly developing, usually a problem.",
+      "zh": "酝酿中的",
+      "context": "The shortage built up over many years.",
+      "example": "There's a conflict brewing between the two regional heads."
+    },
+    {
+      "word": "joint venture",
+      "ipa": "/ˌdʒɔɪnt ˈventʃə/",
+      "pos": "noun",
+      "meaning": "A business set up by two or more companies sharing ownership and risk.",
+      "zh": "合资企业",
+      "context": "Lockheed is creating partnerships to secure parts supply.",
+      "example": "A joint venture with a local partner is the fastest way into that market."
+    },
+    {
+      "word": "predominant",
+      "ipa": "/prɪˈdɒmɪnənt/",
+      "pos": "adjective",
+      "meaning": "Most common, frequent or powerful.",
+      "zh": "主要的；占主导地位的",
+      "context": "Drones are becoming the main weapon in modern conflicts.",
+      "example": "Price is the predominant purchase driver in this segment."
+    },
+    {
+      "word": "deter",
+      "ipa": "/dɪˈtɜː/",
+      "pos": "verb",
+      "meaning": "Discourage someone from doing something by making it seem risky.",
+      "zh": "威慑；阻止",
+      "context": "Stockpiles are needed to discourage attacks.",
+      "example": "Long contract terms deter customers from switching."
+    },
+    {
+      "word": "stockpile",
+      "ipa": "/ˈstɒkpaɪl/",
+      "pos": "noun",
+      "meaning": "A large reserve of goods kept for future use.",
+      "zh": "储备；库存",
+      "context": "The US failed to build enough reserves.",
+      "example": "Distributors built up stockpiles ahead of the tariff increase."
+    },
+    {
+      "word": "siege",
+      "ipa": "/siːdʒ/",
+      "pos": "noun",
+      "meaning": "A long attack in which a place is surrounded; figuratively, sustained pressure.",
+      "zh": "围攻；围困",
+      "context": "Describes Russia's continuing assault from the air.",
+      "example": "The IT help desk has been under siege since the migration."
+    },
+    {
+      "word": "anticipatory",
+      "ipa": "/ænˌtɪsɪˈpeɪtəri/",
+      "pos": "adjective",
+      "meaning": "Acting in advance of expected future needs.",
+      "zh": "预先的；前瞻性的",
+      "context": "Bew argues for planning ahead of the next threat.",
+      "example": "We need anticipatory hiring, not reactive hiring after the deal closes."
+    },
+    {
+      "word": "allocate",
+      "ipa": "/ˈæləkeɪt/",
+      "pos": "verb",
+      "meaning": "Assign resources for a particular purpose.",
+      "zh": "分配；拨出",
+      "context": "How the US decides where its Patriots go.",
+      "example": "We allocate 20% of the budget to experiments each year."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "in the hole",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "In debt or at a disadvantage.",
+      "zh": "处于亏空；陷入困境",
+      "context": "Jones on the military's weak munitions position.",
+      "example": "After the write-down, the division is $40 million in the hole."
+    },
+    {
+      "phrase": "no end in sight",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Not likely to finish soon.",
+      "zh": "遥遥无期",
+      "context": "Describes the long wars in Ukraine and the Middle East.",
+      "example": "Freight costs keep rising with no end in sight."
+    },
+    {
+      "phrase": "hold off",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Resist an attacker; or delay doing something.",
+      "zh": "抵挡；推迟",
+      "context": "How Ukrainians kept Russian forces back.",
+      "example": "Let's hold off on the announcement until legal signs off."
+    },
+    {
+      "phrase": "fit right into",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Integrate easily with what already exists.",
+      "zh": "完美融入；无缝对接",
+      "context": "The cheaper missile works with existing Patriot units.",
+      "example": "The new module fits right into the client's existing ERP."
+    }
+  ]
+}
