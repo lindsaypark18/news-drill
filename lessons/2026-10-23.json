@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-23",
+  "show": "PBS NEWS HOUR",
+  "title": "Medicare Advantage cuts leave millions scrambling to find coverage",
+  "url": "https://www.pbs.org/newshour/show/medicare-advantage-cuts-leave-millions-scrambling-to-find-coverage",
+  "pbsPlayerId": "3114849316",
+  "duration": "9 min",
+  "topic": "Healthcare · Insurance industry",
+  "summary": "Private insurers are pulling out of some Medicare Advantage markets or dropping popular plans, leaving many older Americans facing higher costs or lost coverage. Three seniors describe rising copays, cancelled plans and how hard it is to compare options. Health-care journalist Dan Weissmann explains why insurers drop unprofitable plans, why switching back to traditional Medicare can be difficult, and what people should do quickly.",
+  "focus": "Shadow Dan Weissmann's explanation of how private insurers decide which plans to keep: lively, idiom-rich, plain-English explanation of a business model, with great informal phrases.",
+  "vocab": [
+    {
+      "word": "suss out",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Work out or investigate something (informal).",
+      "zh": "弄清楚；摸清",
+      "context": "Weissmann tells seniors to start researching their options after a plan-change letter.",
+      "example": "Let's suss out what the client really wants before we pitch."
+    },
+    {
+      "word": "legwork",
+      "ipa": "/ˈleɡwɜːk/",
+      "pos": "noun",
+      "meaning": "Tiring practical work needed to get something done.",
+      "zh": "跑腿的工作；基础调研",
+      "context": "A viewer says picking a plan takes too much effort.",
+      "example": "The analysts did the legwork on the market sizing."
+    },
+    {
+      "word": "exorbitant",
+      "ipa": "/ɪɡˈzɔːbɪtənt/",
+      "pos": "adjective",
+      "meaning": "Unreasonably high (price or cost).",
+      "zh": "过高的；离谱的",
+      "context": "How expensive switching back would be for one viewer.",
+      "example": "The vendor's exit fees are exorbitant."
+    },
+    {
+      "word": "withdraw",
+      "ipa": "/wɪðˈdrɔː/",
+      "pos": "verb",
+      "meaning": "Officially pull out or stop taking part.",
+      "zh": "退出；撤回",
+      "context": "Both of one viewer's plans exited the system.",
+      "example": "Two bidders withdrew after seeing the data room."
+    },
+    {
+      "word": "cap",
+      "ipa": "/kæp/",
+      "pos": "verb",
+      "meaning": "Set an upper limit on something.",
+      "zh": "设上限",
+      "context": "Some insurers are allowed to limit how many people can join.",
+      "example": "We'll cap the pilot at 50 stores."
+    },
+    {
+      "word": "shareholder",
+      "ipa": "/ˈʃeəhəʊldə/",
+      "pos": "noun",
+      "meaning": "Someone who owns shares in a company.",
+      "zh": "股东",
+      "context": "Insurers answer to their investors when deciding on plans.",
+      "example": "Shareholders will push back on any dilution."
+    },
+    {
+      "word": "deductible",
+      "ipa": "/dɪˈdʌktəbl/",
+      "pos": "noun",
+      "meaning": "The amount you pay yourself before insurance starts paying.",
+      "zh": "免赔额；自付额",
+      "context": "A viewer must pay this before his benefits kick in.",
+      "example": "Raising the deductible lowers premiums but shifts risk to employees."
+    },
+    {
+      "word": "supplemental",
+      "ipa": "/ˌsʌplɪˈmentl/",
+      "pos": "adjective",
+      "meaning": "Added to fill gaps in something else.",
+      "zh": "补充的",
+      "context": "Extra coverage that fills gaps in traditional Medicare.",
+      "example": "We'll provide a supplemental analysis on competitor pricing."
+    },
+    {
+      "word": "untold",
+      "ipa": "/ʌnˈtəʊld/",
+      "pos": "adjective",
+      "meaning": "Too large to count or measure.",
+      "zh": "无数的；难以估量的",
+      "context": "Describes what the coverage gap could cost.",
+      "example": "The outage caused untold damage to customer trust."
+    },
+    {
+      "word": "sweep through",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Spread quickly across a whole area or group.",
+      "zh": "席卷",
+      "context": "Changes spreading across the Medicare Advantage market.",
+      "example": "Layoffs swept through the tech sector last year."
+    },
+    {
+      "word": "pre-existing",
+      "ipa": "/ˌpriːɪɡˈzɪstɪŋ/",
+      "pos": "adjective",
+      "meaning": "Already existing before a certain time or event.",
+      "zh": "先前存在的",
+      "context": "Insurers may refuse coverage because of earlier health conditions.",
+      "example": "Pre-existing contracts will be honoured until they expire."
+    },
+    {
+      "word": "bundle",
+      "ipa": "/ˈbʌndl/",
+      "pos": "verb",
+      "meaning": "Combine several products or services into one package.",
+      "zh": "捆绑；打包",
+      "context": "Plans that wrap vision, dental and hearing together.",
+      "example": "Telcos bundle broadband and streaming to cut churn."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "on the hook",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Responsible, especially for paying.",
+      "zh": "负有责任；需承担费用",
+      "context": "Without extra coverage, seniors could have to pay almost anything.",
+      "example": "If the project overruns, we're on the hook for the extra hours."
+    },
+    {
+      "phrase": "pay out of pocket",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Pay with your own money, not covered by someone else.",
+      "zh": "自掏腰包",
+      "context": "How people fund extra coverage.",
+      "example": "Most freelancers pay out of pocket for training."
+    },
+    {
+      "phrase": "get on that right away",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Start dealing with something immediately.",
+      "zh": "马上着手处理",
+      "context": "Weissmann urges seniors to act as soon as a letter arrives.",
+      "example": "Thanks for flagging it; I'll get on that right away."
+    },
+    {
+      "phrase": "on their terms",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "According to the other side's rules or conditions.",
+      "zh": "按对方的条件",
+      "context": "How negotiations with insurers work.",
+      "example": "We'll partner with them, but not entirely on their terms."
+    },
+    {
+      "phrase": "no backsies",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "A decision can't be reversed (very informal, playful).",
+      "zh": "不能反悔",
+      "context": "Weissmann's joke about enrolment being largely one-way.",
+      "example": "(Informal; fine with colleagues, not in client emails.)"
+    }
+  ]
+}
