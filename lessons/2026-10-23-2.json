@@ -1,0 +1,168 @@
+{
+  "date": "2026-10-23-2",
+  "show": "PBS NEWS HOUR",
+  "title": "Brazil's high-stakes presidential runoff could reshape country's future",
+  "url": "https://www.pbs.org/newshour/show/brazils-high-stakes-presidential-runoff-could-reshape-countrys-future",
+  "pbsPlayerId": "3114857496",
+  "duration": "6 min",
+  "topic": "World · Elections",
+  "summary": "Brazil's presidential runoff pits President Lula against Flávio Bolsonaro in a near-tied race that could decide whether the country joins a rightward shift across the Americas. Stephanie Sy reports from a Rio favela and São Paulo, where voters are split over social programmes, corruption, crime and the cost of living. Journalist Patrícia Campos Mello expects the race to be even more contentious than in 2022.",
+  "focus": "Shadow Stephanie Sy's opening narration over the favela and her framing of the two candidates: polished correspondent English with vivid descriptive vocabulary.",
+  "vocab": [
+    {
+      "word": "sprawling",
+      "ipa": "/ˈsprɔːlɪŋ/",
+      "pos": "adjective",
+      "meaning": "Spreading over a large area, often untidily.",
+      "zh": "杂乱扩展的；蔓延的",
+      "context": "Describes the vast favela on Rio's hillside.",
+      "example": "It's a sprawling organisation with 40 legal entities."
+    },
+    {
+      "word": "serenity",
+      "ipa": "/səˈrenəti/",
+      "pos": "noun",
+      "meaning": "Calm and peacefulness.",
+      "zh": "宁静；平静",
+      "context": "The aerial view looks calm despite the hardship below.",
+      "example": "(More literary; in business you'd say 'calm' or 'stability'.)"
+    },
+    {
+      "word": "betray",
+      "ipa": "/bɪˈtreɪ/",
+      "pos": "verb",
+      "meaning": "Reveal something that was hidden, often unintentionally; also be disloyal.",
+      "zh": "暴露；泄露",
+      "context": "The peaceful view doesn't reveal the struggles on the ground.",
+      "example": "The flat revenue line betrays a sharp drop in repeat customers."
+    },
+    {
+      "word": "battleground",
+      "ipa": "/ˈbætlɡraʊnd/",
+      "pos": "noun",
+      "meaning": "A place or issue where people compete fiercely.",
+      "zh": "战场；角逐之地",
+      "context": "The favela as a political contest zone.",
+      "example": "Mid-market SaaS is now the main battleground for CRM vendors."
+    },
+    {
+      "word": "stark",
+      "ipa": "/stɑːk/",
+      "pos": "adjective",
+      "meaning": "Very clear, harsh or obvious.",
+      "zh": "鲜明的；严峻的",
+      "context": "Voters face a sharply defined choice.",
+      "example": "The data paints a stark picture of churn in the youth segment."
+    },
+    {
+      "word": "plagued by",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Repeatedly troubled by a problem.",
+      "zh": "深受……困扰",
+      "context": "Describes a government troubled by scandals.",
+      "example": "The rollout was plagued by integration bugs."
+    },
+    {
+      "word": "lay bare",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Reveal something completely, especially something hidden.",
+      "zh": "揭露；暴露无遗",
+      "context": "Campaigns exposing each other's failings.",
+      "example": "The audit laid bare how little the controls were enforced."
+    },
+    {
+      "word": "deceit",
+      "ipa": "/dɪˈsiːt/",
+      "pos": "noun",
+      "meaning": "Dishonest behaviour meant to mislead.",
+      "zh": "欺骗；欺诈",
+      "context": "Accusations traded between the campaigns.",
+      "example": "Any hint of deceit in the data room will kill the deal."
+    },
+    {
+      "word": "contentious",
+      "ipa": "/kənˈtenʃəs/",
+      "pos": "adjective",
+      "meaning": "Likely to cause disagreement.",
+      "zh": "有争议的",
+      "context": "The race may be even more heated than in 2022.",
+      "example": "Headcount allocation is the most contentious item on the agenda."
+    },
+    {
+      "word": "anecdotal",
+      "ipa": "/ˌænɪkˈdəʊtl/",
+      "pos": "adjective",
+      "meaning": "Based on personal stories rather than systematic data.",
+      "zh": "传闻的；非系统性的",
+      "context": "Informal reports rather than proof.",
+      "example": "The evidence is anecdotal; we need survey data before we decide."
+    },
+    {
+      "word": "clamp down",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "Take strict action to stop something.",
+      "zh": "严厉打击；压制",
+      "context": "Cracking down on crime and drug trafficking.",
+      "example": "Finance is clamping down on travel spend."
+    },
+    {
+      "word": "demarcate",
+      "ipa": "/ˈdiːmɑːkeɪt/",
+      "pos": "verb",
+      "meaning": "Officially mark the boundaries of something.",
+      "zh": "划定界限",
+      "context": "Officially marking out Indigenous land.",
+      "example": "We need to demarcate clearly what's in and out of scope."
+    },
+    {
+      "word": "cash transfer",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "A direct payment of money from a government to people.",
+      "zh": "现金转移支付",
+      "context": "Social programmes that pay families directly.",
+      "example": "Conditional cash transfers have been studied heavily in Latin America."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "the gloves are off",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "People are now fighting aggressively.",
+      "zh": "撕破脸；不再客气",
+      "context": "Describes the tone of the campaign.",
+      "example": "With the contract up for renewal, the gloves are off between the two vendors."
+    },
+    {
+      "phrase": "carry the torch",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Continue a cause or role someone else started.",
+      "zh": "继承衣钵；接过火炬",
+      "context": "Flávio continuing his father's political movement.",
+      "example": "After the founder retired, his daughter carried the torch."
+    },
+    {
+      "phrase": "throw a wrench in",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Disrupt a plan unexpectedly.",
+      "zh": "打乱计划；从中作梗",
+      "context": "Unexpected events disrupting the race.",
+      "example": "The new tariff threw a wrench in our sourcing plan."
+    },
+    {
+      "phrase": "virtually tied",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Almost exactly equal.",
+      "zh": "几乎打平",
+      "context": "Describes the polls.",
+      "example": "The two options are virtually tied on NPV, so risk decides."
+    }
+  ]
+}
