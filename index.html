@@ -289,7 +289,7 @@ const paint={script:()=>{$("#script").innerHTML=scriptHTML()},drill:()=>{$("#dri
 
 /* ---------- lesson shell (built once per lesson so the player isn't rebuilt) ---------- */
 function renderPicker(){
-  $("#pick").innerHTML=index.map(l=>`<option value="${esc(l.date)}"${L&&L.date===l.date?" selected":""}>${esc(fmt(l.date))} — ${esc(l.title).slice(0,48)}</option>`).join("")||"<option>No lessons yet</option>";
+  $("#pick").innerHTML=index.map(l=>`<option value="${esc(l.date)}"${L&&L.date===l.date?" selected":""}>${esc(fmt(l.added||l.date))} — ${esc(l.title).slice(0,48)}</option>`).join("")||"<option>No lessons yet</option>";
 }
 function renderLesson(){
   renderPicker();
@@ -302,7 +302,7 @@ function renderLesson(){
    <div class="desk">
     <article class="panel watch">
      ${media}
-     <div class="meta"><span class="onair">${esc(L.show||"NEWS")}</span><span>${esc(fmt(L.date))}</span>${L.duration?`<span>${esc(L.duration)}</span>`:""}${L.topic?`<span>${esc(L.topic)}</span>`:""}</div>
+     <div class="meta"><span class="onair">${esc(L.show||"NEWS")}</span><span>Aired ${esc(fmt(L.date))}</span>${L.duration?`<span>${esc(L.duration)}</span>`:""}${L.topic?`<span>${esc(L.topic)}</span>`:""}</div>
      <h1>${esc(L.title)}</h1>
      <p>${esc(L.summary)}</p>
      ${L.youtubeId?`<div class="go"><a class="gobtn" href="https://www.youtube.com/watch?v=${esc(L.youtubeId)}" target="_blank" rel="noopener">Shadow on YouTube with transcript ↗</a><span class="note">On YouTube, click <b>…more</b> under the title, then <b>Show transcript</b>.</span></div>`:""}
@@ -340,7 +340,7 @@ async function load(date){
 }
 $("#pick").addEventListener("change",e=>load(e.target.value));
 (async()=>{
-  try{const r=await fetch("lessons/index.json",{cache:"no-cache"});index=(await r.json()).sort((a,b)=>b.date.localeCompare(a.date))}
+  try{const r=await fetch("lessons/index.json",{cache:"no-cache"});index=(await r.json()).sort((a,b)=>((b.added||b.date)+b.date).localeCompare((a.added||a.date)+a.date))}
   catch(e){$("#main").innerHTML=`<div class="empty">Couldn't load lessons. Check your connection and reload.</div>`;return}
   if(!index.length){$("#main").innerHTML=`<div class="empty">No lessons yet. The first one arrives on the next weekday morning.</div>`;renderPicker();return}
   load(index[0].date);

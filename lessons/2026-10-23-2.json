@@ -164,5 +164,6 @@
       "context": "Describes the polls.",
       "example": "The two options are virtually tied on NPV, so risk decides."
     }
-  ]
+  ],
+  "added": "2026-10-25"
 }
