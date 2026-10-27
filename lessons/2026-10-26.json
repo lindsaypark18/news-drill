@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-26",
+  "added": "2026-10-27",
+  "show": "PBS NEWS HOUR",
+  "title": "Campaigns spend big to sway voters with increasingly personal attack ads",
+  "url": "https://www.pbs.org/newshour/show/campaigns-spend-big-to-sway-voters-with-increasingly-personal-attack-ads",
+  "duration": "7 min",
+  "topic": "Politics · Advertising",
+  "summary": "Lisa Desjardins reports on a record-breaking final-week wave of midterm ads, most of them centred on the cost of living, with Republicans and outside groups outspending rivals though the gap is closing. Analysts from AdImpact and the Wesleyan Media Project explain how President Trump largely vanished from GOP ads, how personal attacks such as an Ohio ad featuring a candidate's estranged mother are blending with policy contrasts, and how AI-generated ads are spreading. Despite voters saying they find the barrage distasteful, the experts argue the sustained spending shows campaigns believe the ads move votes.",
+  "focus": "Shadow Fowler's explanation of why issue-based negative ads can be legitimate but are now blurring into personal attacks, and Link's short closing argument that persistent spending proves campaigns think ads work — both are clear, analytical and evenly paced.",
+  "vocab": [
+    {
+      "word": "blitz",
+      "ipa": "/blɪts/",
+      "pos": "noun",
+      "meaning": "a sudden, intense and concentrated campaign of activity",
+      "zh": "密集攻势；闪电式宣传",
+      "context": "Used for the flood of ads campaigns are pushing out in the last week before Election Day.",
+      "example": "Ahead of the launch, the client planned a three-week marketing blitz across every major channel."
+    },
+    {
+      "word": "affordability",
+      "ipa": "/əˌfɔːdəˈbɪləti/",
+      "pos": "noun",
+      "meaning": "how far people can pay for things such as housing, food and energy",
+      "zh": "可负担性；负担能力",
+      "context": "Named as the central theme that ads from both parties keep returning to.",
+      "example": "Our survey shows affordability, not brand loyalty, is now the main driver of churn in the mid-market segment."
+    },
+    {
+      "word": "tally",
+      "ipa": "/ˈtæli/",
+      "pos": "verb",
+      "meaning": "to count up and record a running total",
+      "zh": "统计；计算总数",
+      "context": "Describes how an ad-tracking firm adds up the money spent on political advertising.",
+      "example": "Once finance tallies the one-off costs, we will know whether the integration actually broke even."
+    },
+    {
+      "word": "outspend",
+      "ipa": "/ˌaʊtˈspend/",
+      "pos": "verb",
+      "meaning": "to spend more money than a rival",
+      "zh": "花钱超过（对手）",
+      "context": "Used to compare how much more one party and outside groups were spending than their opponents.",
+      "example": "The challenger brand cannot outspend the incumbent, so it has to out-target it."
+    },
+    {
+      "word": "narrow",
+      "ipa": "/ˈnærəʊ/",
+      "pos": "verb",
+      "meaning": "(of a gap or difference) to become smaller",
+      "zh": "缩小（差距）",
+      "context": "Explains how the spending gap between the parties shrank as Election Day approached.",
+      "example": "The margin gap with our closest competitor narrowed to two points after their cost programme."
+    },
+    {
+      "word": "record-breaking",
+      "ipa": "/ˈrekɔːd ˌbreɪkɪŋ/",
+      "pos": "adjective",
+      "meaning": "higher or larger than anything achieved before",
+      "zh": "破纪录的",
+      "context": "Describes the unprecedented volume of political ads in this midterm cycle.",
+      "example": "The firm posted record-breaking bookings in Q3, but much of it was pulled forward from Q4."
+    },
+    {
+      "word": "exploitative",
+      "ipa": "/ɪkˈsplɔɪtətɪv/",
+      "pos": "adjective",
+      "meaning": "taking unfair advantage of a person or situation for one's own gain",
+      "zh": "剥削性的；利用他人的",
+      "context": "A candidate used it to condemn an ad that featured her estranged relative.",
+      "example": "The board rejected the pricing model as exploitative of customers locked into long contracts."
+    },
+    {
+      "word": "estranged",
+      "ipa": "/ɪˈstreɪndʒd/",
+      "pos": "adjective",
+      "meaning": "no longer in contact or on friendly terms with a family member",
+      "zh": "疏远的；不再来往的",
+      "context": "Describes the candidate's relationship with the birth mother who appeared in the attack ad.",
+      "example": "After the spin-off, the two business units became almost estranged, rarely sharing data or talent."
+    },
+    {
+      "word": "blast",
+      "ipa": "/blɑːst/",
+      "pos": "verb",
+      "meaning": "to criticise someone very strongly and publicly",
+      "zh": "猛烈抨击",
+      "context": "Used for relatives of victims harshly criticising lawmakers in an ad.",
+      "example": "Activist investors blasted management for sitting on cash instead of returning it to shareholders."
+    },
+    {
+      "word": "deepfake",
+      "ipa": "/ˈdiːpfeɪk/",
+      "pos": "noun",
+      "meaning": "a realistic fake video or audio clip of a real person created with AI",
+      "zh": "深度伪造（视频/音频）",
+      "context": "Refers to AI-made ads that put invented words in the mouths of real politicians.",
+      "example": "Our risk review flagged deepfakes of executives as a growing threat to investor communications."
+    },
+    {
+      "word": "watermark",
+      "ipa": "/ˈwɔːtəmɑːk/",
+      "pos": "verb",
+      "meaning": "to add a visible or hidden label that shows where content came from",
+      "zh": "加水印；标注来源",
+      "context": "Describes how the programme labelled the AI-generated ads it showed on screen.",
+      "example": "Legal asked us to watermark every draft deck so leaked copies can be traced."
+    },
+    {
+      "word": "mind-numbing",
+      "ipa": "/ˈmaɪnd ˌnʌmɪŋ/",
+      "pos": "adjective",
+      "meaning": "so boring or excessive that it dulls your ability to think",
+      "zh": "令人麻木的；极其乏味的",
+      "context": "Used to describe the sheer quantity of ads voters are exposed to.",
+      "example": "Reconciling 400 vendor contracts by hand was mind-numbing, so we automated the first pass."
+    },
+    {
+      "word": "intertwine",
+      "ipa": "/ˌɪntəˈtwaɪn/",
+      "pos": "verb",
+      "meaning": "to become closely connected or twisted together",
+      "zh": "交织；缠绕在一起",
+      "context": "An analyst said personal attacks and policy arguments have become increasingly tangled together.",
+      "example": "In this market, pricing and channel strategy are so intertwined that you cannot fix one in isolation."
+    },
+    {
+      "word": "reputational risk",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "the chance that an action will damage how people see you",
+      "zh": "声誉风险",
+      "context": "Offered as a likely reason one party has been more cautious about using AI in ads.",
+      "example": "Cutting the supplier loose saves money, but the reputational risk outweighs the savings."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hammer home",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to repeat a point forcefully so that people fully understand it",
+      "zh": "反复强调；使深入人心",
+      "context": "Describes how one party kept pressing its cost-of-living message in ad after ad.",
+      "example": "In the steering committee, hammer home the one number that matters: payback in 18 months."
+    },
+    {
+      "phrase": "stay afloat",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to keep going financially and avoid failure or debt",
+      "zh": "维持生计；勉强维持（不倒闭）",
+      "context": "Used for families struggling with grocery and fuel bills that ads appealed to.",
+      "example": "Several regional carriers are only staying afloat thanks to short-term credit lines."
+    },
+    {
+      "phrase": "stick by",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to keep supporting a decision or person despite criticism",
+      "zh": "坚持（立场）；支持到底",
+      "context": "Describes a campaign that kept defending its controversial ad despite bipartisan backlash.",
+      "example": "The CEO stuck by the restructuring plan even after the share price dipped."
+    },
+    {
+      "phrase": "keep up with the Joneses",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to try to match what your peers or rivals are doing or spending",
+      "zh": "与人攀比；跟风",
+      "context": "An ad-tracking expert rejected the idea that campaigns spend just to match each other, arguing they believe the ads work.",
+      "example": "Don't build a metaverse unit just to keep up with the Joneses; tie it to a customer need."
+    },
+    {
+      "phrase": "soft on crime",
+      "ipa": "",
+      "pos": "adjective phrase",
+      "meaning": "seen as too lenient towards criminals",
+      "zh": "对犯罪手软的",
+      "context": "Cited as a common attack line campaigns use against opponents.",
+      "example": "In policy-sensitive markets, being labelled soft on compliance can hurt a bank more than any fine."
+    }
+  ]
+}
