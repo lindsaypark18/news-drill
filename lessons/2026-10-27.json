@@ -1,0 +1,177 @@
+{
+  "date": "2026-10-27",
+  "added": "2026-10-28",
+  "show": "PBS NEWS HOUR",
+  "title": "Projections show no clear winner in Israel's election",
+  "url": "https://www.pbs.org/newshour/show/projections-show-no-clear-winner-in-israels-election",
+  "duration": "7 min",
+  "topic": "World · Elections",
+  "summary": "Reporting from Tel Aviv on Israel's first election since the October 7 attacks, Nick Schifrin explains that record turnout produced projections in which the opposition edges Netanyahu's coalition but neither bloc reaches the 61 seats needed to govern, with Arab parties winning a record number of seats. He walks through the options — a minority government, a unity government favoured by Trump's aides, or a caretaker Netanyahu and possibly repeat elections — and flags security worries about Iran during the gap. Voters and organisers, from overseas Israelis flown home to vote to loyal Likud supporters, describe a country that sees the vote as a turning point.",
+  "focus": "Shadow Schifrin's opening live explanation of the seat arithmetic (120 seats, 61 for a majority, each bloc's estimate) and his later run-through of the post-election scenarios — short sentences, concrete numbers and a steady analytical pace.",
+  "vocab": [
+    {
+      "word": "consequential",
+      "ipa": "/ˌkɒnsɪˈkwenʃl/",
+      "pos": "adjective",
+      "meaning": "important because of its large effects or results",
+      "zh": "影响深远的；重大的",
+      "context": "Used to say many Israelis see this vote as one of the most important in the country's history.",
+      "example": "The board sees this acquisition as the most consequential decision the company will make this decade."
+    },
+    {
+      "word": "fractious",
+      "ipa": "/ˈfrækʃəs/",
+      "pos": "adjective",
+      "meaning": "full of conflict and quarrelling; hard to keep united",
+      "zh": "争吵不休的；难以驾驭的",
+      "context": "Describes the bitterly divided political mood in Israel heading into the vote.",
+      "example": "After a fractious leadership offsite, the CEO asked us to facilitate a reset on strategic priorities."
+    },
+    {
+      "word": "existential",
+      "ipa": "/ˌeɡzɪˈstenʃl/",
+      "pos": "adjective",
+      "meaning": "relating to whether something can survive or keep its basic identity",
+      "zh": "关乎存亡的；生死攸关的",
+      "context": "Used for how many voters framed the election as a question about the country's survival and character.",
+      "example": "For legacy retailers, the shift to marketplace platforms is an existential threat, not a channel issue."
+    },
+    {
+      "word": "unseat",
+      "ipa": "/ʌnˈsiːt/",
+      "pos": "verb",
+      "meaning": "to remove someone from a position of power, especially in an election",
+      "zh": "使下台；把…赶下台",
+      "context": "Describes the opposition's goal of removing Israel's longest-serving prime minister.",
+      "example": "A nimble challenger could unseat the market leader within three years if pricing stays this rigid."
+    },
+    {
+      "word": "expat",
+      "ipa": "/ˌeksˈpæt/",
+      "pos": "noun",
+      "meaning": "a person living outside their own country",
+      "zh": "旅居海外者；外派人员",
+      "context": "Refers to Israelis living abroad who were flown home to vote because there is no postal ballot.",
+      "example": "Our Singapore office relies heavily on expats, so the new visa rules hit our cost base directly."
+    },
+    {
+      "word": "crossroads",
+      "ipa": "/ˈkrɒsrəʊdz/",
+      "pos": "noun",
+      "meaning": "a point where an important choice about future direction must be made",
+      "zh": "十字路口；关键抉择时刻",
+      "context": "A coalition leader says the country has reached a moment that will set its course for decades.",
+      "example": "The business is at a crossroads: double down on hardware or pivot fully to subscription services."
+    },
+    {
+      "word": "horse-trading",
+      "ipa": "/ˈhɔːs treɪdɪŋ/",
+      "pos": "noun",
+      "meaning": "hard, often unofficial bargaining in which each side gives something to get something",
+      "zh": "讨价还价；幕后交易",
+      "context": "The reporter predicts days or weeks of deal-making among parties trying to form a government.",
+      "example": "Budget season always involves a lot of horse-trading between the regional heads over headcount."
+    },
+    {
+      "word": "caretaker",
+      "ipa": "/ˈkeəteɪkə(r)/",
+      "pos": "adjective",
+      "meaning": "holding power temporarily until a permanent replacement is in place",
+      "zh": "看守的；临时代理的",
+      "context": "Describes the temporary role Netanyahu could keep while no new government is formed.",
+      "example": "The CFO will act as caretaker CEO until the search committee names a permanent successor."
+    },
+    {
+      "word": "interim",
+      "ipa": "/ˈɪntərɪm/",
+      "pos": "noun",
+      "meaning": "the period of time between two events",
+      "zh": "过渡期；其间",
+      "context": "Refers to the gap before a final government is formed, which officials worry adversaries might exploit.",
+      "example": "In the interim, we recommend freezing new hires rather than launching a full restructuring."
+    },
+    {
+      "word": "ambiguity",
+      "ipa": "/ˌæmbɪˈɡjuːəti/",
+      "pos": "noun",
+      "meaning": "a state of being unclear or open to more than one interpretation",
+      "zh": "模糊；不确定性",
+      "context": "Describes the murky outcome in which no bloc has a clear path to power.",
+      "example": "Investors can price risk, but they punish ambiguity, so the guidance needs a clear range."
+    },
+    {
+      "word": "decisive",
+      "ipa": "/dɪˈsaɪsɪv/",
+      "pos": "adjective",
+      "meaning": "settling a question clearly and finally",
+      "zh": "决定性的；明确的",
+      "context": "Describes the clear-cut result many voters had hoped for but did not get.",
+      "example": "A decisive first-mover advantage in logistics is what justifies the premium valuation."
+    },
+    {
+      "word": "sentiment",
+      "ipa": "/ˈsentɪmənt/",
+      "pos": "noun",
+      "meaning": "a general feeling or opinion held by a group",
+      "zh": "情绪；普遍看法",
+      "context": "Used for a widely shared feeling among Israelis that the stakes of this vote were unusually high.",
+      "example": "Customer sentiment turned negative after the price rise, even though volumes held up at first."
+    },
+    {
+      "word": "nonpartisan",
+      "ipa": "/ˌnɒnˌpɑːtɪˈzæn/",
+      "pos": "adjective",
+      "meaning": "not supporting any political party",
+      "zh": "无党派的；中立的",
+      "context": "Describes the coalition group that organised flights for overseas Israelis to come home and vote.",
+      "example": "We framed the report as a nonpartisan fact base so both business units would accept the findings."
+    },
+    {
+      "word": "orthodox",
+      "ipa": "/ˈɔːθədɒks/",
+      "pos": "adjective",
+      "meaning": "following traditional, especially strict religious, beliefs and practices",
+      "zh": "正统的；（宗教上）严守教规的",
+      "context": "Comes up in the discussion of religious parties and voters' fears about a more religious way of life.",
+      "example": "Breaking with orthodox cost-cutting, the new CEO chose to invest through the downturn."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "set the stage (for)",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "to create the conditions that make something likely to happen",
+      "zh": "为…铺平道路；奠定基础",
+      "context": "The anchor uses it to say the projected results could pave the way for a change of government.",
+      "example": "The pilot's results set the stage for a full national rollout next year."
+    },
+    {
+      "phrase": "finish the job",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "to complete a task that has been started, often a hard one",
+      "zh": "把事情做完；完成未竟之事",
+      "context": "A ruling-party adviser argues the prime minister should stay on to complete the confrontation with Iran.",
+      "example": "The client gave us another quarter to finish the job on procurement savings."
+    },
+    {
+      "phrase": "cut off the head of the snake",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to defeat an organisation by removing its leaders",
+      "zh": "擒贼先擒王；斩草除根",
+      "context": "A ruling-party adviser uses this image for removing the leadership of Israel's enemies.",
+      "example": "Rather than chase every rogue spend line, cut off the head of the snake and fix the approval policy."
+    },
+    {
+      "phrase": "a family affair",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "an activity that several members of one family take part in together",
+      "zh": "全家参与的事；家族事务",
+      "context": "The reporter describes voting as an outing shared across generations, from a small child to a grandfather.",
+      "example": "The founder's succession is a family affair, which makes governance advice especially delicate."
+    }
+  ]
+}
