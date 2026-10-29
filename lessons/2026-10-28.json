@@ -1,0 +1,186 @@
+{
+  "date": "2026-10-28",
+  "added": "2026-10-29",
+  "show": "PBS NEWS HOUR",
+  "title": "America's long history of gerrymandering and its role in this year's midterms",
+  "url": "https://www.pbs.org/newshour/show/americas-long-history-of-gerrymandering-and-its-role-in-this-years-midterms",
+  "duration": "10 min",
+  "topic": "Politics · Elections",
+  "summary": "Judy Woodruff traces gerrymandering from Governor Elbridge Gerry's 1812 Massachusetts map, mocked in a salamander cartoon that spread through the press, back to a colonial North Carolina governor who reshaped assembly districts in the 1730s to blunt opposition to his taxes. Historian Nick Seabrook explains how this year's unusual mid-decade wave began in Texas at President Trump's request and spread to eight more states, including California's response. In Wilson, North Carolina, residents argue the new lines dilute Black voting power, and Seabrook concludes that map-drawing should be taken away from elected officials altogether.",
+  "focus": "Shadow Woodruff's opening narration of the 1812 salamander origin story for its names, dates and measured storytelling rhythm, then Brittany Hamm's short, conversational remarks about who chooses whom in an election.",
+  "vocab": [
+    {
+      "word": "gerrymander",
+      "ipa": "/ˈdʒerimændə/",
+      "pos": "verb / noun",
+      "meaning": "to draw electoral boundaries so that one party or group gains an unfair advantage",
+      "zh": "不公正地划分选区",
+      "context": "The segment traces the word back to an 1812 Massachusetts map that a newspaper likened to a salamander, and applies it to this year's redrawn congressional maps.",
+      "example": "The incumbent's team was accused of gerrymandering the sales territories so that its own region always hit target."
+    },
+    {
+      "word": "redistricting",
+      "ipa": "/ˌriːˈdɪstrɪktɪŋ/",
+      "pos": "noun",
+      "meaning": "the redrawing of the boundaries of electoral districts",
+      "zh": "重新划分选区",
+      "context": "It describes the wave of states redrawing their House maps ahead of the midterms, starting with Texas and spreading to eight others.",
+      "example": "Think of the territory redesign as corporate redistricting: every boundary change shifts who owns which accounts."
+    },
+    {
+      "word": "mid-decade",
+      "ipa": "/ˌmɪd ˈdekeɪd/",
+      "pos": "adjective",
+      "meaning": "happening in the middle of a ten-year period rather than at its usual start or end",
+      "zh": "十年周期中途的",
+      "context": "Used for redistricting done between the normal census-based cycles, which the historian says is highly unusual.",
+      "example": "A mid-decade strategy refresh is rare, but the market shift justified revisiting our ten-year plan."
+    },
+    {
+      "word": "dilute",
+      "ipa": "/daɪˈluːt/",
+      "pos": "verb",
+      "meaning": "to weaken the strength or effect of something by mixing it with something else",
+      "zh": "稀释；削弱",
+      "context": "Residents of Wilson argued that moving their community into a mostly white district weakens the impact of Black voters.",
+      "example": "Issuing new shares to fund the acquisition will dilute existing shareholders by roughly eight percent."
+    },
+    {
+      "word": "constituent",
+      "ipa": "/kənˈstɪtʃuənt/",
+      "pos": "noun",
+      "meaning": "a person who lives in an area and is represented by an elected official",
+      "zh": "选民；选区居民",
+      "context": "Mentioned when discussing whose interests a representative serves once district lines change.",
+      "example": "Treat each business unit as a constituent whose priorities the new operating model has to represent."
+    },
+    {
+      "word": "partisanship",
+      "ipa": "/ˌpɑːtɪˈzænʃɪp/",
+      "pos": "noun",
+      "meaning": "strong, often uncritical support for one party or side",
+      "zh": "党派偏见；党派之争",
+      "context": "The historian used the term negative partisanship to explain voters motivated mainly by opposing the other party.",
+      "example": "Functional partisanship between sales and finance stalled the pricing review for months."
+    },
+    {
+      "word": "polarisation",
+      "ipa": "/ˌpəʊləraɪˈzeɪʃn/",
+      "pos": "noun",
+      "meaning": "the division of a group into two sharply opposed sides",
+      "zh": "两极分化",
+      "context": "Cited as part of the backdrop that makes map-drawing battles so bitter today.",
+      "example": "Polarisation within the leadership team meant every option was judged by who had proposed it."
+    },
+    {
+      "word": "artefact",
+      "ipa": "/ˈɑːtɪfækt/",
+      "pos": "noun",
+      "meaning": "an object made by people, especially one of historical interest",
+      "zh": "历史文物；人工制品",
+      "context": "Library of Congress staff showed historical items such as an 1812 newspaper and the wooden blocks used to print the cartoon.",
+      "example": "Old org charts are useful artefacts: they show how decision rights drifted over time."
+    },
+    {
+      "word": "mythical",
+      "ipa": "/ˈmɪθɪkl/",
+      "pos": "adjective",
+      "meaning": "existing only in stories or imagination; imaginary",
+      "zh": "神话中的；虚构的",
+      "context": "Used for the invented winged beast the cartoonist built from the map's outline.",
+      "example": "The fully integrated customer view is still a mythical creature in most retail banks."
+    },
+    {
+      "word": "footprint",
+      "ipa": "/ˈfʊtprɪnt/",
+      "pos": "noun",
+      "meaning": "the area or extent that something covers or influences",
+      "zh": "覆盖范围；势力范围",
+      "context": "Describes the territory a colonial governor of North Carolina wanted to extend his control over.",
+      "example": "The client wants to expand its retail footprint into tier-two cities without cannibalising flagship stores."
+    },
+    {
+      "word": "demographics",
+      "ipa": "/ˌdeməˈɡræfɪks/",
+      "pos": "noun",
+      "meaning": "the characteristics of a population, such as age, race or income",
+      "zh": "人口结构；人口统计特征",
+      "context": "Used when discussing how map-drawers use data about who lives where to shape districts.",
+      "example": "Shifting demographics in the client's core market mean its loyalty programme is ageing with its customers."
+    },
+    {
+      "word": "rigged",
+      "ipa": "/rɪɡd/",
+      "pos": "adjective",
+      "meaning": "arranged dishonestly so that the result is decided in advance",
+      "zh": "被操纵的；作弊的",
+      "context": "Politicians on both sides accused rivals of fixing the electoral outcome through the new maps.",
+      "example": "Several bidders complained that the tender felt rigged in favour of the incumbent supplier."
+    },
+    {
+      "word": "fixture",
+      "ipa": "/ˈfɪkstʃə/",
+      "pos": "noun",
+      "meaning": "a person or thing that is always present in a particular place",
+      "zh": "常客；固定的一员",
+      "context": "The reporter described an older Wilson resident as a regular, ever-present figure at the local senior centre.",
+      "example": "She has been a fixture of the steering committee since the transformation programme began."
+    },
+    {
+      "word": "viral",
+      "ipa": "/ˈvaɪrəl/",
+      "pos": "adjective",
+      "meaning": "spreading very quickly and widely from person to person",
+      "zh": "迅速传播的；爆红的",
+      "context": "The historian joked that the 1812 cartoon was an early viral meme, copied by around a hundred newspapers.",
+      "example": "The CEO's internal memo went viral on LinkedIn within hours, so communications had to respond fast."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stack the deck",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to arrange a situation unfairly so that a particular result is guaranteed",
+      "zh": "暗中做手脚；事先操纵",
+      "context": "Used to say that when politicians draw the maps, the election outcome is effectively fixed beforehand.",
+      "example": "If the evaluation criteria favour one vendor, we are stacking the deck before the RFP even goes out."
+    },
+    {
+      "phrase": "the fox guarding the henhouse",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "a situation where the person in charge of protecting something is the one most likely to exploit it",
+      "zh": "监守自盗；让狐狸看守鸡舍",
+      "context": "The historian used this image to argue that elected officials should not draw their own districts.",
+      "example": "Letting the business unit audit its own cost savings is the fox guarding the henhouse."
+    },
+    {
+      "phrase": "pick up seats",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to win additional seats in an election",
+      "zh": "赢得更多席位",
+      "context": "Both party leaders predicted that their side would gain House seats thanks to the new maps.",
+      "example": "Our challenger brand picked up share in three of four regions, much as an opposition party picks up seats."
+    },
+    {
+      "phrase": "a sternly worded letter",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "a strongly phrased complaint that has little practical effect",
+      "zh": "措辞严厉（但无实际效力）的信",
+      "context": "The historian mocked weak constraints on map-drawing as amounting to little more than strongly phrased complaints.",
+      "example": "The regulator's response amounted to a sternly worded letter, so the client's risk exposure has not really changed."
+    },
+    {
+      "phrase": "have no backbone",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to lack courage or determination to stand up for something",
+      "zh": "没有骨气；缺乏魄力",
+      "context": "A congressional candidate's campaign clip criticised Congress for lacking the resolve to act.",
+      "example": "The board was accused of having no backbone when it shelved the restructuring at the first sign of pushback."
+    }
+  ]
+}
