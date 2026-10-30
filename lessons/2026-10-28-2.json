@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-28-2",
+  "added": "2026-10-30",
+  "show": "ABC NEWS",
+  "title": "Federal Reserve holds interest rates steady as midterm elections loom",
+  "url": "https://abcnews.com/Business/federal-reserve-set-issue-interest-rate-decision-midterm/story?id=137599228",
+  "youtubeId": "o2g0e62Bv1Q",
+  "duration": "",
+  "topic": "Economy · Federal Reserve",
+  "summary": "The Federal Reserve left its benchmark rate at 3.75% to 4% on October 28, its last decision before the midterms, saying it wants more data even though inflation hit 3.7% in September. Chair Kevin Warsh described growth as strong while job gains have slowed sharply, leaving the Fed caught between rising prices and a softening labour market. Traders now put high odds on a December hike, bank research notes weigh the risks of overtightening versus lost credibility, and President Trump renewed his demands for lower rates.",
+  "focus": "Shadow the correspondent's opening explanation of what the Fed decided and why, then her closing look ahead to the December meeting; both are short, clearly paced explainer passages.",
+  "vocab": [
+    {
+      "word": "monthslong",
+      "ipa": "/ˈmʌnθslɒŋ/",
+      "pos": "adjective",
+      "meaning": "lasting for several months",
+      "zh": "持续数月的",
+      "context": "ABC framed the decision against a run of rising prices that has now gone on for months.",
+      "example": "The monthslong pricing review finally gave the sales team a clear discount policy."
+    },
+    {
+      "word": "benchmark",
+      "ipa": "/ˈbentʃmɑːk/",
+      "pos": "noun / adjective",
+      "meaning": "a standard reference point that others are measured against; here, the Fed's main policy rate",
+      "zh": "基准；基准利率",
+      "context": "The Fed left its key reference rate in the 3.75% to 4% range.",
+      "example": "We used the top-quartile peer as the benchmark for the client's cost-to-serve."
+    },
+    {
+      "word": "lag",
+      "ipa": "/læɡ/",
+      "pos": "noun",
+      "meaning": "a delay between a cause and its effect",
+      "zh": "滞后；时间差",
+      "context": "The coverage explained that rate rises take months to feed through into the wider economy.",
+      "example": "There's a six-month lag between a price change and its full effect on churn, so don't judge it on one quarter."
+    },
+    {
+      "word": "elevated",
+      "ipa": "/ˈelɪveɪtɪd/",
+      "pos": "adjective",
+      "meaning": "higher than normal or than the target level",
+      "zh": "偏高的；处于高位的",
+      "context": "Officials said inflation is still running above where they want it.",
+      "example": "Attrition remains elevated in the graduate cohort, which points to an onboarding problem."
+    },
+    {
+      "word": "quandary",
+      "ipa": "/ˈkwɒndəri/",
+      "pos": "noun",
+      "meaning": "a difficult situation in which it is hard to decide what to do",
+      "zh": "困境；进退两难",
+      "context": "The Fed was described as stuck between hot inflation and a softening jobs market.",
+      "example": "The client is in a quandary: cutting prices protects share but destroys margin."
+    },
+    {
+      "word": "wobble",
+      "ipa": "/ˈwɒbl/",
+      "pos": "verb",
+      "meaning": "to become unsteady or show signs of weakness",
+      "zh": "摇摆；出现不稳迹象",
+      "context": "Weak September hiring was cited as a sign that the labour market is starting to look shaky.",
+      "example": "Customer confidence began to wobble after the second product recall."
+    },
+    {
+      "word": "sluggish",
+      "ipa": "/ˈslʌɡɪʃ/",
+      "pos": "adjective",
+      "meaning": "slow-moving and lacking energy",
+      "zh": "疲软的；迟缓的",
+      "context": "Analysts warned that further hikes could leave growth noticeably slower.",
+      "example": "Sluggish demand in Europe means we should phase the capacity expansion rather than build it all at once."
+    },
+    {
+      "word": "maelstrom",
+      "ipa": "/ˈmeɪlstrɒm/",
+      "pos": "noun",
+      "meaning": "a situation full of confusion, conflict or strong pressure",
+      "zh": "漩涡；混乱局面",
+      "context": "The piece described the central bank as caught in a swirl of political pressure ahead of the election.",
+      "example": "The CEO stepped into a maelstrom of activist pressure and supply-chain disruption."
+    },
+    {
+      "word": "reprimand",
+      "ipa": "/ˈreprɪmɑːnd/",
+      "pos": "noun / verb",
+      "meaning": "a sharp, formal criticism",
+      "zh": "斥责；训诫",
+      "context": "The president's repeated attacks on the Fed for raising rates were described this way.",
+      "example": "The regional head received a reprimand for sharing the forecast before it was approved."
+    },
+    {
+      "word": "insulated",
+      "ipa": "/ˈɪnsjuleɪtɪd/",
+      "pos": "adjective",
+      "meaning": "protected from outside influence or pressure",
+      "zh": "不受影响的；隔绝的",
+      "context": "The Fed's independence is meant to keep its decisions free from political pressure.",
+      "example": "Long-term contracts have kept the business insulated from spot-price swings so far."
+    },
+    {
+      "word": "overtightening",
+      "ipa": "/ˌəʊvəˈtaɪtnɪŋ/",
+      "pos": "noun",
+      "meaning": "raising interest rates or tightening policy more than needed, so that the economy is hurt",
+      "zh": "过度紧缩",
+      "context": "A bank research note said raising rates again carries the risk of going too far.",
+      "example": "Cutting headcount and capex at the same time risks overtightening just as demand recovers."
+    },
+    {
+      "word": "credibility",
+      "ipa": "/ˌkredəˈbɪləti/",
+      "pos": "noun",
+      "meaning": "the quality of being trusted and believed",
+      "zh": "信誉；公信力",
+      "context": "The same note warned that holding too long could damage trust in the Fed's fight against inflation.",
+      "example": "Missing guidance twice in a row has hurt management's credibility with investors."
+    },
+    {
+      "word": "peg",
+      "ipa": "/peɡ/",
+      "pos": "verb",
+      "meaning": "to estimate or fix something at a particular level",
+      "zh": "估定；将……定在某水平",
+      "context": "Futures traders put the chance of a December hike at about 80%.",
+      "example": "Most analysts peg the synergies at around $200 million, well below management's figure."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "eat away at",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to gradually reduce or damage something",
+      "zh": "逐渐侵蚀；慢慢消耗",
+      "context": "Higher rates were described as slowly wearing down demand over time.",
+      "example": "Rising freight costs are eating away at the margin on our lowest-priced SKUs."
+    },
+    {
+      "phrase": "cool off",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to become less intense, active or fast-growing",
+      "zh": "降温；放缓",
+      "context": "The hope is that tighter policy will make price rises ease.",
+      "example": "Hiring should cool off in Q1 once the backlog of open roles is cleared."
+    },
+    {
+      "phrase": "ratchet up",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to increase something step by step, often in a way that is hard to reverse",
+      "zh": "逐步加码；步步提高",
+      "context": "Markets expect the Fed to raise rates further in quarter-point steps.",
+      "example": "The competitor keeps ratcheting up its loyalty rewards, and we need a response."
+    },
+    {
+      "phrase": "press the brakes (on)",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to deliberately slow something down",
+      "zh": "踩刹车；放缓",
+      "context": "Rate hikes were described as the Fed deliberately slowing the economy.",
+      "example": "Given the cash position, we recommend pressing the brakes on new market entries until H2."
+    },
+    {
+      "phrase": "be thrust into",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to be forced suddenly into a situation or role",
+      "zh": "被推入（某种处境）",
+      "context": "The Fed found itself pulled into the political spotlight just before the midterms.",
+      "example": "The finance team was thrust into the integration with only two weeks' notice."
+    }
+  ]
+}
