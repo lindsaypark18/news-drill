@@ -1,0 +1,187 @@
+{
+  "date": "2026-10-29",
+  "added": "2026-10-31",
+  "show": "BLOOMBERG",
+  "title": "Google Erases a Record $500 Billion as AI Eats Into Sales",
+  "url": "https://finance.yahoo.com/video/google-erases-record-500-billion-171209543.html",
+  "youtubeId": "Ccg_XOTrkt8",
+  "duration": "8 min",
+  "topic": "Markets · Big Tech & AI",
+  "summary": "Alphabet shares fell more than 13% after its third-quarter results, wiping out over $500 billion in value as weaker search-ad growth fed fears that AI is eroding Google's core business. Bloomberg Intelligence's Mandeep Singh argues revenue was solid and cloud a bright spot, but the market doubts Google is still at the AI frontier, though better models and agentic search tied to Gmail could restore its valuation. The panel then weighs Marvell's possible pricey bid for Lumentum and DoorDash's $17 billion purchase of Instacart as signs that scale and consolidation now drive tech and delivery, with regulators a key question.",
+  "focus": "Shadow the guest's opening explanation of why the headline numbers look strong but search is the worry (about the first 40 seconds), then his short case for why agentic search could still favour Google (around 3:30–4:20).",
+  "vocab": [
+    {
+      "word": "top line",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a company's total revenue before any costs are taken out",
+      "zh": "营收；收入总额",
+      "context": "The analyst said Alphabet's top line grew strongly even though investors focused on weaker search ads.",
+      "example": "The client's top line looks healthy, but rising costs are squeezing margins."
+    },
+    {
+      "word": "print",
+      "ipa": "/prɪnt/",
+      "pos": "noun (finance slang)",
+      "meaning": "a company's reported quarterly results",
+      "zh": "（财报）公布的数据",
+      "context": "The guest used the word to refer to Alphabet's latest quarterly earnings release.",
+      "example": "Management wants a clean print this quarter before it announces the restructuring."
+    },
+    {
+      "word": "rerate",
+      "ipa": "/ˌriːˈreɪt/",
+      "pos": "verb",
+      "meaning": "to change the valuation multiple investors are willing to pay for a stock",
+      "zh": "重新估值",
+      "context": "The analyst argued that a strong new AI model could quickly rerate Alphabet's shares upward.",
+      "example": "If the turnaround plan delivers, the market should rerate the stock closer to its peers."
+    },
+    {
+      "word": "frontier",
+      "ipa": "/ˈfrʌntɪə/",
+      "pos": "noun",
+      "meaning": "the most advanced point reached in a field",
+      "zh": "前沿",
+      "context": "The sell-off was linked to doubts about whether Google's models are still at the frontier of AI.",
+      "example": "We advise clients to partner with labs at the frontier rather than build models in-house."
+    },
+    {
+      "word": "attrition",
+      "ipa": "/əˈtrɪʃn/",
+      "pos": "noun",
+      "meaning": "the gradual loss of staff who leave and are not replaced",
+      "zh": "人员流失",
+      "context": "The guest mentioned the departure of top researchers as a worry for Google's AI efforts.",
+      "example": "High attrition in the analytics team is delaying the client's digital roadmap."
+    },
+    {
+      "word": "leading edge",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "the most advanced position in a technology or industry",
+      "zh": "领先地位；最前沿",
+      "context": "The discussion asked whether Google can stay at the leading edge as rivals release stronger models.",
+      "example": "Their battery chemistry keeps them at the leading edge, so price is not their main lever."
+    },
+    {
+      "word": "agentic",
+      "ipa": "/eɪˈdʒentɪk/",
+      "pos": "adjective",
+      "meaning": "describing AI systems that can act and complete tasks on a user's behalf",
+      "zh": "智能体式的；能自主执行任务的",
+      "context": "The analyst suggested agentic search could favour Google because it can draw on users' Gmail and other Google data.",
+      "example": "The bank is piloting agentic tools that draft and file routine compliance reports."
+    },
+    {
+      "word": "mega deal",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "an unusually large merger or acquisition",
+      "zh": "超大型交易",
+      "context": "The panel described the possible Marvell–Lumentum combination as a very large deal for the chip sector.",
+      "example": "Two mega deals in one quarter have changed the competitive map of the industry."
+    },
+    {
+      "word": "premium",
+      "ipa": "/ˈpriːmiəm/",
+      "pos": "noun",
+      "meaning": "the extra amount a buyer pays above a company's current market value",
+      "zh": "溢价",
+      "context": "The guest noted that Marvell would be paying a sizeable extra price on top of Lumentum's already-high share price.",
+      "example": "A 30% premium is hard to justify unless the synergies are clearly bankable."
+    },
+    {
+      "word": "synergy",
+      "ipa": "/ˈsɪnədʒi/",
+      "pos": "noun",
+      "meaning": "extra value or cost savings expected from combining two businesses",
+      "zh": "协同效应",
+      "context": "The analyst said the benefits of the chip deal depend on cost and product combinations actually being realised.",
+      "example": "The board approved the merger on the strength of $400 million in cost synergies."
+    },
+    {
+      "word": "clout",
+      "ipa": "/klaʊt/",
+      "pos": "noun",
+      "meaning": "influence or bargaining power, often from size",
+      "zh": "影响力；话语权",
+      "context": "DoorDash's purchase of Instacart was described as a way to gain more power with grocers and retailers.",
+      "example": "Combining procurement across the regions gives the group far more clout with suppliers."
+    },
+    {
+      "word": "consolidate",
+      "ipa": "/kənˈsɒlɪdeɪt/",
+      "pos": "verb",
+      "meaning": "to combine many smaller players or units into fewer, larger ones",
+      "zh": "整合；合并",
+      "context": "The guest argued that delivery and chip markets are both being pulled together into fewer, bigger firms.",
+      "example": "Private equity firms are racing to consolidate fragmented dental practices."
+    },
+    {
+      "word": "end-to-end",
+      "ipa": "",
+      "pos": "adjective",
+      "meaning": "covering every stage of a process from start to finish",
+      "zh": "端到端的；全流程的",
+      "context": "The analyst said the delivery deal lets one company control the whole chain from store to doorstep.",
+      "example": "The client wants an end-to-end view of the order-to-cash process before choosing software."
+    },
+    {
+      "word": "bright spot",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "one positive part of a generally disappointing situation",
+      "zh": "亮点",
+      "context": "The cloud unit, whose revenue more than doubled, was treated as the good news in Alphabet's results.",
+      "example": "Asia was the only bright spot in an otherwise flat year for the division."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "come to fruition",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to finally succeed or happen as planned",
+      "zh": "实现；取得成果",
+      "context": "The guest said the chip deal's benefits would take time and execution before they actually materialise.",
+      "example": "It will be two years before the new pricing model comes to fruition."
+    },
+    {
+      "phrase": "the name of the game",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "the most important thing in a particular activity",
+      "zh": "关键所在；成败之道",
+      "context": "The analyst summed up the delivery deal by saying that getting bigger is what really matters in the sector now.",
+      "example": "In commoditised markets, cost leadership is the name of the game."
+    },
+    {
+      "phrase": "at the outset",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "at the very beginning",
+      "zh": "一开始；起初",
+      "context": "The discussion considered whether regulators would object to the DoorDash deal right from the start.",
+      "example": "We agreed the scope at the outset to avoid arguments about deliverables later."
+    },
+    {
+      "phrase": "run the risk (of)",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to be in a situation where something bad could happen",
+      "zh": "冒……的风险",
+      "context": "A host asked whether Google is exposed to falling behind if its models keep lagging rivals.",
+      "example": "If we delay the launch, we run the risk of losing the holiday season."
+    },
+    {
+      "phrase": "a sense of urgency",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "a feeling that something must be done quickly",
+      "zh": "紧迫感",
+      "context": "The panel suggested smaller chipmakers feel pressure to buy capabilities quickly rather than build them.",
+      "example": "The CEO's memo created a sense of urgency about cutting working capital."
+    }
+  ]
+}
