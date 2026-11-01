@@ -1,0 +1,178 @@
+{
+  "date": "2026-10-30",
+  "added": "2026-11-01",
+  "show": "CBS NEWS",
+  "title": "$6.3 billion Binance hack may be largest cyber heist in history",
+  "url": "https://www.cbsnews.com/video/63-billion-binance-hack-is-largest-cyber-heist-in-history/",
+  "youtubeId": "o2eHifgzskQ",
+  "duration": "4 min",
+  "topic": "Markets · Crypto & Cybersecurity",
+  "summary": "Hackers drained about $6.3 billion from Binance, the world's biggest crypto exchange, in what blockchain analysts call the largest theft on record and attribute to North Korea's TraderTraitor unit. CBS News talks with Mykolas Rambus, CEO of the security firm Hush, about the scale of the breach and what it signals for crypto security, while Binance pauses withdrawals, says roughly $3 billion has been frozen and promises to cover all customer losses. Experts add that freezing funds is not the same as recovering them, since bitcoin and ether cannot be frozen and court forfeiture can take months.",
+  "focus": "Shadow the short opening set-up that frames the size of the theft, then the guest's first answer on what the breach means for crypto security; both are brief, clearly paced passages rich in finance and security vocabulary.",
+  "vocab": [
+    {
+      "word": "heist",
+      "ipa": "/haɪst/",
+      "pos": "noun",
+      "meaning": "a large, carefully planned robbery",
+      "zh": "大劫案；巨额盗窃",
+      "context": "The $6.3 billion theft from Binance is framed as possibly the biggest cyber robbery ever recorded.",
+      "example": "The board treated the data leak as a digital heist and brought in forensic investigators within hours."
+    },
+    {
+      "word": "siphon",
+      "ipa": "/ˈsaɪfən/",
+      "pos": "verb",
+      "meaning": "to move money away gradually or secretly, often illegally",
+      "zh": "抽走；暗中转移（资金）",
+      "context": "Coverage explains how the attackers drained funds out of the exchange's internet-connected wallets.",
+      "example": "The audit showed that a subsidiary had been siphoning cash to an offshore vendor for two years."
+    },
+    {
+      "word": "launder",
+      "ipa": "/ˈlɔːndə/",
+      "pos": "verb",
+      "meaning": "to hide where illegally obtained money came from by passing it through other accounts",
+      "zh": "洗（钱）",
+      "context": "Experts note that the hackers will try to move the stolen crypto through many hops to disguise its origin.",
+      "example": "Banks now screen cross-border payments more tightly so that clients cannot launder proceeds through shell companies."
+    },
+    {
+      "word": "circumvent",
+      "ipa": "/ˌsɜːkəmˈvent/",
+      "pos": "verb",
+      "meaning": "to find a way around a rule or restriction",
+      "zh": "规避；绕过",
+      "context": "Analysts warn that unrecovered funds could help North Korea get around international sanctions.",
+      "example": "Several clients tried to circumvent the new export controls by routing shipments through third countries."
+    },
+    {
+      "word": "forfeiture",
+      "ipa": "/ˈfɔːfɪtʃə/",
+      "pos": "noun",
+      "meaning": "the legal loss of property because it is linked to a crime",
+      "zh": "没收（财产）",
+      "context": "A former prosecutor describes a court process in which the government must prove frozen funds are tied to the theft before keeping them.",
+      "example": "If the regulator wins, the firm faces forfeiture of all profits earned from the mis-sold products."
+    },
+    {
+      "word": "recoup",
+      "ipa": "/rɪˈkuːp/",
+      "pos": "verb",
+      "meaning": "to get back money that was lost or spent",
+      "zh": "收回；弥补（损失）",
+      "context": "The story asks how realistic it is to get the stolen billions back, since freezing is not the same as recovering.",
+      "example": "We expect the client to recoup the integration costs within eighteen months through procurement savings."
+    },
+    {
+      "word": "illicit",
+      "ipa": "/ɪˈlɪsɪt/",
+      "pos": "adjective",
+      "meaning": "illegal or not allowed",
+      "zh": "非法的；违禁的",
+      "context": "The coverage links the theft to illegal cyber activity that North Korea uses to raise money.",
+      "example": "Compliance flagged a pattern of illicit transfers between two dormant accounts."
+    },
+    {
+      "word": "multi-pronged",
+      "ipa": "/ˌmʌltiˈprɒŋd/",
+      "pos": "adjective",
+      "meaning": "having several separate parts or approaches working together",
+      "zh": "多管齐下的",
+      "context": "Binance's recovery effort is described as combining police, stablecoin issuers and analytics firms at once.",
+      "example": "The turnaround plan takes a multi-pronged approach: pricing, footprint reduction and a new channel strategy."
+    },
+    {
+      "word": "attribute",
+      "ipa": "/əˈtrɪbjuːt/",
+      "pos": "verb",
+      "meaning": "to say that something was caused or done by a particular person or group",
+      "zh": "把…归因于；认定…所为",
+      "context": "Blockchain intelligence firms pinned the attack on a known North Korean hacking unit with high confidence.",
+      "example": "Management attributes most of the margin decline to freight costs rather than weaker demand."
+    },
+    {
+      "word": "probe",
+      "ipa": "/prəʊb/",
+      "pos": "noun",
+      "meaning": "an official investigation",
+      "zh": "调查",
+      "context": "Binance says it will share more technical detail once its internal investigation is finished.",
+      "example": "The CFO declined to comment on guidance while the accounting probe is ongoing."
+    },
+    {
+      "word": "compromised",
+      "ipa": "/ˈkɒmprəmaɪzd/",
+      "pos": "adjective",
+      "meaning": "accessed or taken over by an attacker, so no longer secure",
+      "zh": "被入侵的；遭泄露的",
+      "context": "Early findings pointed to an employee laptop that attackers had taken control of.",
+      "example": "Once we learned the vendor's credentials were compromised, we froze all payments to that account."
+    },
+    {
+      "word": "felony",
+      "ipa": "/ˈfeləni/",
+      "pos": "noun",
+      "meaning": "a serious crime, punishable more severely than a minor offence",
+      "zh": "重罪",
+      "context": "Background in the story recalls that Binance's founder once pleaded guilty to a serious money-laundering-related charge.",
+      "example": "A felony conviction for a senior executive would trigger the change-of-control clause in the lending agreement."
+    },
+    {
+      "word": "pardon",
+      "ipa": "/ˈpɑːdn/",
+      "pos": "noun",
+      "meaning": "an official decision that cancels the punishment for a crime",
+      "zh": "赦免",
+      "context": "The coverage mentions that the founder later received a presidential act cancelling his punishment.",
+      "example": "Investors priced in the pardon long before it was announced, so the shares barely moved."
+    },
+    {
+      "word": "stakeholder",
+      "ipa": "/ˈsteɪkhəʊldə/",
+      "pos": "noun",
+      "meaning": "a person or group with an interest in an outcome",
+      "zh": "利益相关方",
+      "context": "An expert stresses that reaching the right parties quickly, before money moves again, is crucial to recovery.",
+      "example": "Before we finalise the restructuring, we need to map every stakeholder, from unions to key suppliers."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "half the battle",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "a large part of the work needed to succeed, though not all of it",
+      "zh": "成功了一半；关键的一大步",
+      "context": "An investigator suggests that tracing the stolen money is only part of the struggle; actually getting it back is harder.",
+      "example": "Getting the regional heads to agree on one data definition is half the battle."
+    },
+    {
+      "phrase": "make all the difference",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to have a decisive, very important effect",
+      "zh": "起决定性作用；大不相同",
+      "context": "Speed in contacting the right exchanges and issuers is described as the deciding factor in freezing funds.",
+      "example": "In due diligence, a single candid conversation with the former CFO can make all the difference."
+    },
+    {
+      "phrase": "in the wake of",
+      "ipa": "",
+      "pos": "preposition phrase",
+      "meaning": "following, and often because of, an event",
+      "zh": "在…之后；由于…",
+      "context": "The coverage places North Korea's turn to crypto theft after years of sanctions and economic trouble.",
+      "example": "In the wake of the recall, the client paused all new product launches for a quarter."
+    },
+    {
+      "phrase": "around the clock",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "all day and all night without stopping",
+      "zh": "日夜不停；全天候",
+      "context": "Binance says its teams are working nonstop on the response and on freezing assets.",
+      "example": "The deal team worked around the clock to sign before the regulatory deadline."
+    }
+  ]
+}
