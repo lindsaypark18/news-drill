@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-01",
+  "added": "2026-11-03",
+  "show": "CBS NEWS",
+  "title": "Endangered Republican Rep. Mike Lawler says \"I show up, and my constituents know me\"",
+  "url": "https://www.cbsnews.com/news/mike-lawler-new-york-republican-face-the-nation-transcript-11-01-2026/",
+  "youtubeId": "XdbpFvYx8oo",
+  "duration": "",
+  "topic": "Economy · Affordability & Policy",
+  "summary": "Two days before the midterms, Face the Nation host Margaret Brennan presses New York Republican Mike Lawler on why voters should trust his party on prices when wages have trailed inflation for months. Lawler blames earlier inflation and oil-market swings from the Middle East war, and points to recent growth, job creation, a big tax cut that lifted the SALT cap, a major housing bill and planned permitting reform to lower energy and utility costs. The interview then turns to expired Obamacare subsidies, Medicaid spending in New York, and AI regulation, where he defends his record against claims that Elon Musk-linked money is shaping his stance and accuses his opponent of breaking campaign-finance rules.",
+  "focus": "Shadow Lawler's answer on affordability, where he runs through inflation, growth, jobs and purchasing power in one fast, data-heavy stretch, and his short explanation of why permitting reform should bring down energy bills; both model how to defend a position with numbers under pressure.",
+  "vocab": [
+    {
+      "word": "parachute",
+      "ipa": "/ˈpærəʃuːt/",
+      "pos": "verb",
+      "meaning": "to bring someone in from outside, especially into a role or place they have no ties to",
+      "zh": "空降（外来者）",
+      "context": "Lawler mocks his opponent as an outsider who was dropped into the district from another state.",
+      "example": "The board parachuted in a CFO from a rival firm, which unsettled the finance team."
+    },
+    {
+      "word": "cumulatively",
+      "ipa": "/ˈkjuːmjələtɪvli/",
+      "pos": "adverb",
+      "meaning": "when all the amounts are added together over time",
+      "zh": "累计地；总计",
+      "context": "He says prices rose about a fifth in total under the previous administration.",
+      "example": "Cumulatively, the small pricing leaks cost the client nearly three points of margin."
+    },
+    {
+      "word": "volatility",
+      "ipa": "/ˌvɒləˈtɪləti/",
+      "pos": "noun",
+      "meaning": "sudden, unpredictable movements in prices or markets",
+      "zh": "波动；不稳定",
+      "context": "He links the recent jump in prices to unstable oil markets caused by the Middle East war.",
+      "example": "We stress-tested the plan against commodity volatility of up to thirty per cent."
+    },
+    {
+      "word": "spike",
+      "ipa": "/spaɪk/",
+      "pos": "noun",
+      "meaning": "a sudden, sharp increase",
+      "zh": "骤增；激增",
+      "context": "He describes the latest rise in inflation as a short, sharp jump driven by energy.",
+      "example": "A spike in customer churn after the price change triggered an urgent review."
+    },
+    {
+      "word": "rectify",
+      "ipa": "/ˈrektɪfaɪ/",
+      "pos": "verb",
+      "meaning": "to correct or put right something that is wrong",
+      "zh": "纠正；矫正",
+      "context": "He argues New York's high utility costs are a problem that must be fixed through more energy supply.",
+      "example": "The new controls are designed to rectify the billing errors flagged in the audit."
+    },
+    {
+      "word": "lapse",
+      "ipa": "/læps/",
+      "pos": "verb",
+      "meaning": "to end or stop being valid because it was not renewed",
+      "zh": "（因未续期而）失效；终止",
+      "context": "The host notes that extra health insurance subsidies expired and asks whether he would restore them.",
+      "example": "The licence agreement lapsed in March, so the client is now negotiating from a weaker position."
+    },
+    {
+      "word": "rogue",
+      "ipa": "/rəʊɡ/",
+      "pos": "adjective",
+      "meaning": "acting independently in a harmful or uncontrolled way",
+      "zh": "失控的；不受控制的",
+      "context": "He names an AI bill aimed at AI agents and bots that behave dangerously or outside human control.",
+      "example": "A single rogue trader exposed the bank to losses its risk systems failed to catch."
+    },
+    {
+      "word": "amnesty",
+      "ipa": "/ˈæmnəsti/",
+      "pos": "noun",
+      "meaning": "an official pardon that removes legal penalties for a group of people",
+      "zh": "大赦；特赦",
+      "context": "He says campaign mailers falsely claimed he supports a pardon for people living in the country illegally.",
+      "example": "The tax authority's amnesty programme let firms correct past filings without penalties."
+    },
+    {
+      "word": "mailer",
+      "ipa": "/ˈmeɪlə(r)/",
+      "pos": "noun",
+      "meaning": "a printed leaflet sent by post to many people, often for advertising or campaigns",
+      "zh": "邮寄宣传单",
+      "context": "The dispute centres on campaign leaflets he says spread false claims about him.",
+      "example": "The direct mailer drove more trial sign-ups than the entire paid social budget."
+    },
+    {
+      "word": "condemn",
+      "ipa": "/kənˈdem/",
+      "pos": "verb",
+      "meaning": "to say publicly that something is very wrong or unacceptable",
+      "zh": "谴责",
+      "context": "He complains that his opponent has not publicly criticised the misleading mailings.",
+      "example": "The CEO was quick to condemn the supplier's labour practices and suspend the contract."
+    },
+    {
+      "word": "endorse",
+      "ipa": "/ɪnˈdɔːs/",
+      "pos": "verb",
+      "meaning": "to publicly support a person, product or plan",
+      "zh": "支持；公开背书",
+      "context": "He highlights that a Democratic congressman has publicly backed his re-election.",
+      "example": "The steering committee endorsed the phased rollout over the big-bang option."
+    },
+    {
+      "word": "uninsured",
+      "ipa": "/ˌʌnɪnˈʃʊəd/",
+      "pos": "adjective",
+      "meaning": "not covered by insurance, especially health insurance",
+      "zh": "未投保的；没有医疗保险的",
+      "context": "The host cites a forecast that hundreds of thousands more New Yorkers will lack health coverage.",
+      "example": "Uninsured losses from the flood forced the manufacturer to delay its capital plan."
+    },
+    {
+      "word": "permitting",
+      "ipa": "/pəˈmɪtɪŋ/",
+      "pos": "noun",
+      "meaning": "the official process of getting government approval to build or operate something",
+      "zh": "审批许可（流程）",
+      "context": "He promises a bill to speed up approvals so more energy projects can be built.",
+      "example": "Slow permitting, not capital, is the real bottleneck for the client's data-centre pipeline."
+    },
+    {
+      "word": "victorious",
+      "ipa": "/vɪkˈtɔːriəs/",
+      "pos": "adjective",
+      "meaning": "having won a contest, battle or election",
+      "zh": "获胜的",
+      "context": "He predicts confidently that he will win on election night.",
+      "example": "The firm emerged victorious from the bidding war but overpaid by most estimates."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "home stretch",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "the final part of a long effort or process",
+      "zh": "最后阶段；冲刺阶段",
+      "context": "The host opens by noting the campaign is in its last few days.",
+      "example": "We are in the home stretch of the diligence, so keep the data requests tightly scoped."
+    },
+    {
+      "phrase": "purchasing power",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "how much goods and services money can actually buy",
+      "zh": "购买力",
+      "context": "He claims workers' real buying power has started to improve again.",
+      "example": "Falling purchasing power in the core segment explains the shift toward private labels."
+    },
+    {
+      "phrase": "pop up",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to appear suddenly or unexpectedly",
+      "zh": "突然出现；冒出来",
+      "context": "He says a new political group suddenly appeared late in the race to attack him.",
+      "example": "Several low-cost competitors have popped up in the market since tariffs changed."
+    },
+    {
+      "phrase": "clean extension",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "renewing a law or deal unchanged, without adding new conditions or reforms",
+      "zh": "无附加条件的延期",
+      "context": "He says Democratic leaders wanted the subsidies renewed for three years without any changes.",
+      "example": "The lender offered a clean extension of the facility, so we avoided renegotiating covenants."
+    }
+  ]
+}
