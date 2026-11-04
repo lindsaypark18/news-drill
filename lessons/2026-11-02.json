@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-02",
+  "added": "2026-11-04",
+  "show": "CNBC",
+  "title": "What the 2026 midterm election could mean for businesses and investors",
+  "url": "https://www.cnbc.com/video/2026/11/02/what-wall-street-is-watching-ahead-of-the-2026-midterm-elections.html",
+  "youtubeId": "FmL6OT0-mvs",
+  "duration": "",
+  "topic": "Markets · Policy & Midterms",
+  "summary": "On the eve of the midterms, CNBC's Luke Fountain looks at how a shift in control of Congress could reach into corporate America, from committee investigations of big companies to changes in where federal money flows. The reporting walks sector by sector: Medicaid cuts and pricing scrutiny for insurers and hospitals, budget fights over defence and Iran-related spending, stalled crypto market-structure rules, bank capital requirements, and growing local backlash against AI data centres. Strategists from Morgan Stanley, LPL and CFRA argue that history under divided government may not repeat and that investors should be selective rather than trade whole sectors on the result.",
+  "focus": "Shadow the opening stretch on congressional oversight, where the reporter explains how committee control turns into investigations of companies, and the short defence passage about budgets and selective stock picking; both pack policy mechanics into tight, fast business English.",
+  "vocab": [
+    {
+      "word": "gavel",
+      "ipa": "/ˈɡævəl/",
+      "pos": "noun",
+      "meaning": "the small hammer a chair uses; by extension, control of a committee",
+      "zh": "（委员会）主席槌；主导权",
+      "context": "The report explains that winning a chamber hands a party the committee gavels and the agenda that comes with them.",
+      "example": "Whoever holds the gavel on the steering committee will decide which workstreams get funded."
+    },
+    {
+      "word": "subpoena",
+      "ipa": "/səˈpiːnə/",
+      "pos": "noun",
+      "meaning": "a legal order forcing someone to hand over documents or testify",
+      "zh": "传票",
+      "context": "CNBC notes that committee control would give Democrats the power to compel records and testimony from companies.",
+      "example": "Legal warned that sloppy email trails could surface if a regulator ever issues a subpoena."
+    },
+    {
+      "word": "bandwidth",
+      "ipa": "/ˈbændwɪdθ/",
+      "pos": "noun",
+      "meaning": "the time and mental capacity someone has to deal with things",
+      "zh": "精力；处理能力",
+      "context": "The piece suggests investigations would eat into executives' capacity to run their businesses.",
+      "example": "The CEO has no bandwidth for a second transformation programme this year."
+    },
+    {
+      "word": "gridlock",
+      "ipa": "/ˈɡrɪdlɒk/",
+      "pos": "noun",
+      "meaning": "a situation where nothing can progress, especially in government",
+      "zh": "僵局；（立法）停滞",
+      "context": "Analysts describe a divided Congress as producing deadlock that limits big policy shifts.",
+      "example": "Investors often prefer gridlock because it reduces the odds of sudden regulatory change."
+    },
+    {
+      "word": "stall",
+      "ipa": "/stɔːl/",
+      "pos": "verb",
+      "meaning": "to stop making progress",
+      "zh": "停滞；搁浅",
+      "context": "The crypto market-structure bill and the data-center cost measure are both described as having stopped advancing in the Senate.",
+      "example": "The integration stalled once the two IT teams disagreed on the target platform."
+    },
+    {
+      "word": "haul",
+      "ipa": "/hɔːl/",
+      "pos": "verb",
+      "meaning": "to force someone to go somewhere unwillingly, e.g. before a hearing",
+      "zh": "强行传唤；拖去",
+      "context": "The report says a new majority could drag executives in front of congressional hearings.",
+      "example": "Nobody wants to be hauled before the audit committee to explain a missed forecast."
+    },
+    {
+      "word": "relish",
+      "ipa": "/ˈrelɪʃ/",
+      "pos": "verb",
+      "meaning": "to enjoy or look forward to something",
+      "zh": "乐于；享受",
+      "context": "It is used in the negative to say few chief executives look forward to testifying.",
+      "example": "Few partners relish telling a client that the business case does not add up."
+    },
+    {
+      "word": "cushion",
+      "ipa": "/ˈkʊʃən/",
+      "pos": "verb",
+      "meaning": "to reduce the harm or impact of something",
+      "zh": "缓冲；减轻（冲击）",
+      "context": "A rural health fund is described as softening, though not fully offsetting, the hit from Medicaid cuts.",
+      "example": "A larger cash buffer would cushion the group against a slower recovery in demand."
+    },
+    {
+      "word": "squeeze",
+      "ipa": "/skwiːz/",
+      "pos": "noun",
+      "meaning": "financial pressure that reduces money or margins",
+      "zh": "挤压；紧缩",
+      "context": "Hospitals are said to face pressure from more uninsured patients and tighter state budgets.",
+      "example": "Rising input costs have put a real squeeze on mid-market manufacturers' margins."
+    },
+    {
+      "word": "blueprint",
+      "ipa": "/ˈbluːprɪnt/",
+      "pos": "noun",
+      "meaning": "a model or plan that others follow",
+      "zh": "蓝图；范本",
+      "context": "Historical market performance under different party control is treated as a pattern that may not repeat.",
+      "example": "Their pricing overhaul became the blueprint for every other business unit."
+    },
+    {
+      "word": "durable",
+      "ipa": "/ˈdjʊərəbl/",
+      "pos": "adjective",
+      "meaning": "able to last for a long time",
+      "zh": "持久的；稳固的",
+      "context": "The report asks whether any crypto rule changes would last beyond one political cycle.",
+      "example": "Clients want a durable cost advantage, not a one-off saving from deferred maintenance."
+    },
+    {
+      "word": "backlash",
+      "ipa": "/ˈbæklæʃ/",
+      "pos": "noun",
+      "meaning": "a strong negative reaction from many people",
+      "zh": "强烈反对；反弹",
+      "context": "Local opposition to data centres over power, water and infrastructure costs is a key theme.",
+      "example": "The rebrand triggered a backlash among loyal customers within a week."
+    },
+    {
+      "word": "vacancy",
+      "ipa": "/ˈveɪkənsi/",
+      "pos": "noun",
+      "meaning": "an unfilled position",
+      "zh": "空缺（职位）",
+      "context": "Senate control matters because it shapes who fills future openings at financial regulators.",
+      "example": "Two board vacancies give the activist an opening to push its own candidates."
+    },
+    {
+      "word": "must-pass",
+      "ipa": "",
+      "pos": "adjective",
+      "meaning": "describing legislation that has to be approved, often used to attach other measures",
+      "zh": "必须通过的（法案）",
+      "context": "Budget bills are described as must-pass vehicles that give the opposition leverage over defence spending.",
+      "example": "Treat the annual budget review as a must-pass moment to lock in the cost programme."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "cut both ways",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to have both advantages and disadvantages",
+      "zh": "有利有弊；双刃剑",
+      "context": "The report says Democratic gains could help healthcare firms in some ways and hurt them in others.",
+      "example": "A lower price point cuts both ways: volume rises, but so does the strain on margins."
+    },
+    {
+      "phrase": "cast a wide net",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to search or investigate very broadly",
+      "zh": "广撒网；大范围调查",
+      "context": "A Morgan Stanley analyst expects congressional investigations to be broad rather than narrowly targeted.",
+      "example": "We cast a wide net in the target screen before narrowing to five acquisition candidates."
+    },
+    {
+      "phrase": "ride the whole sector",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "to invest in an entire industry rather than picking individual companies",
+      "zh": "押注整个板块",
+      "context": "On defence, the advice is to select specific niches instead of buying the industry as a whole.",
+      "example": "Rather than ride the whole sector, the fund concentrated on two niche software players."
+    },
+    {
+      "phrase": "stock picker",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "an investor who chooses individual shares rather than buying the whole market",
+      "zh": "选股者",
+      "context": "Defence is framed as a field where careful selection matters more than broad exposure.",
+      "example": "In a fragmented market like this, you need a stock picker's discipline, not an index mindset."
+    }
+  ]
+}
