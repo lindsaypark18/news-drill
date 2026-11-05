@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-04",
+  "added": "2026-11-05",
+  "show": "CBS NEWS",
+  "title": "How the stock markets reacted to the midterm blue wave",
+  "url": "https://www.cbsnews.com/video/stock-market-surges-in-response-to-blue-wave/",
+  "youtubeId": "cekMYubSeT4",
+  "duration": "3 min",
+  "topic": "Markets · Midterms & Policy",
+  "summary": "On the morning after Democrats were projected to win both chambers of Congress, CBS MoneyWatch correspondent Kelly O'Grady explains why stocks jumped instead of falling, with the Dow up more than a thousand points soon after the opening bell. Analysts quoted in CBS's coverage argue that divided government tends to calm markets because it blocks sweeping tax and spending laws, while the president's veto and the lack of a 60-seat Senate majority limit how much policy can change in the near term. The coverage also notes that historically stocks have done well in the months after midterms, and that energy, affordability and the AI data-center buildout are areas where the two parties might still find common ground.",
+  "focus": "Shadow the opening stretch where the correspondent sets out how far each major index moved, and the short explanation of why gridlock in Washington is read as good news for investors; both are dense with market vocabulary delivered at a brisk, newsroom pace.",
+  "vocab": [
+    {
+      "word": "digest",
+      "ipa": "/daɪˈdʒest/",
+      "pos": "verb",
+      "meaning": "to take in and think through new information until you understand its implications",
+      "zh": "消化（信息）；理解吸收",
+      "context": "Investors spent the morning absorbing what a Democratic Congress would mean before deciding how to trade.",
+      "example": "Give the client a day to digest the pricing scenarios before we push for a decision."
+    },
+    {
+      "word": "blue-chip",
+      "ipa": "/ˌbluː ˈtʃɪp/",
+      "pos": "adjective",
+      "meaning": "describing large, well-established, financially reliable companies",
+      "zh": "蓝筹的；绩优的",
+      "context": "The Dow, made up of big established companies, led the rally after the results.",
+      "example": "The fund only buys blue-chip names, so our small-cap target will not fit its mandate."
+    },
+    {
+      "word": "tech-heavy",
+      "ipa": "/ˌtek ˈhevi/",
+      "pos": "adjective",
+      "meaning": "containing a large proportion of technology companies",
+      "zh": "以科技股为主的",
+      "context": "The Nasdaq, which leans toward technology firms, also gained strongly on the day.",
+      "example": "Because the index is tech-heavy, any AI spending scare hits it harder than the S&P."
+    },
+    {
+      "word": "derail",
+      "ipa": "/dɪˈreɪl/",
+      "pos": "verb",
+      "meaning": "to stop a plan or trend from continuing as expected",
+      "zh": "使脱轨；破坏（进程）",
+      "context": "Analysts considered whether the political shift could knock the bull market off its track.",
+      "example": "A single regulatory delay could derail the whole integration timeline."
+    },
+    {
+      "word": "robust",
+      "ipa": "/rəʊˈbʌst/",
+      "pos": "adjective",
+      "meaning": "strong, healthy and unlikely to fail",
+      "zh": "强劲的；稳健的",
+      "context": "Strategists argued that solid corporate earnings matter more to stocks than which party controls Congress.",
+      "example": "Demand remains robust in the mid-market segment, even as enterprise budgets tighten."
+    },
+    {
+      "word": "wield",
+      "ipa": "/wiːld/",
+      "pos": "verb",
+      "meaning": "to have and use power or influence",
+      "zh": "行使（权力）；运用",
+      "context": "The president can still use his veto to block bills the new Congress sends him.",
+      "example": "The largest customer wields enormous leverage in every contract renewal."
+    },
+    {
+      "word": "heighten",
+      "ipa": "/ˈhaɪtn/",
+      "pos": "verb",
+      "meaning": "to make a feeling or situation stronger or more intense",
+      "zh": "加剧；提高",
+      "context": "Divided control of Washington was expected to intensify the deadlock between the parties.",
+      "example": "Delaying the announcement will only heighten anxiety among the sales team."
+    },
+    {
+      "word": "filibuster-proof",
+      "ipa": "/ˈfɪlɪbʌstə pruːf/",
+      "pos": "adjective",
+      "meaning": "large enough (60 Senate votes) to stop opponents from blocking a bill by endless debate",
+      "zh": "可防止冗长辩论阻挠的（参议院60票多数）",
+      "context": "Analysts noted that Democrats still fall short of the 60 seats needed to pass bills without Republican help.",
+      "example": "Without a filibuster-proof majority, the subsidy expansion in our base case looks unlikely."
+    },
+    {
+      "word": "buildout",
+      "ipa": "/ˈbɪldaʊt/",
+      "pos": "noun",
+      "meaning": "the large-scale construction or expansion of infrastructure",
+      "zh": "（基础设施的）大规模建设、扩建",
+      "context": "The coverage flagged the data-center expansion behind AI as an area where both parties might cooperate.",
+      "example": "The fibre buildout will absorb most of the capex budget over the next three years."
+    },
+    {
+      "word": "standoff",
+      "ipa": "/ˈstændɒf/",
+      "pos": "noun",
+      "meaning": "a situation where two sides refuse to give way, so nothing moves forward",
+      "zh": "僵持；对峙",
+      "context": "Analysts warned that a fight over spending and the debt limit could push bond yields higher.",
+      "example": "The pricing standoff with the distributor has frozen shipments for two weeks."
+    },
+    {
+      "word": "selloff",
+      "ipa": "/ˈselɒf/",
+      "pos": "noun",
+      "meaning": "a period when many investors sell an asset at once, causing its price to fall sharply",
+      "zh": "抛售；（股市）大跌",
+      "context": "One strategist said that if a Democratic win did trigger a sharp drop, it would be a chance to buy.",
+      "example": "Last week's selloff in software stocks has made the acquisition cheaper on paper."
+    },
+    {
+      "word": "veto",
+      "ipa": "/ˈviːtəʊ/",
+      "pos": "noun",
+      "meaning": "the official power to reject a law or decision",
+      "zh": "否决（权）",
+      "context": "Commentators stressed that the president's power to reject bills limits what the new majority can achieve.",
+      "example": "The minority investor has a veto over any new debt above ten million dollars."
+    },
+    {
+      "word": "near-term",
+      "ipa": "/ˌnɪə ˈtɜːm/",
+      "pos": "adjective",
+      "meaning": "relating to the immediate future, usually the next few months",
+      "zh": "近期的；短期的",
+      "context": "An economist argued that the size of the win changes little about what policy will look like in the coming months.",
+      "example": "Our near-term priority is cash preservation; growth investments can wait until Q3."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "shifting political winds",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "changes in the political climate that may affect business or markets",
+      "zh": "政治风向的变化",
+      "context": "The coverage framed the market move as a reaction to changing political conditions in Washington.",
+      "example": "Our scenario plan has to hold up under shifting political winds on tariffs."
+    },
+    {
+      "phrase": "a buying opportunity",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "a moment when prices have fallen enough that buying looks attractive",
+      "zh": "买入良机",
+      "context": "A strategist argued that any big drop after the election should be seen as a chance to buy cheaply.",
+      "example": "If the target's shares slide on the earnings miss, the board may see it as a buying opportunity."
+    },
+    {
+      "phrase": "split government",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "a situation in which different parties control the presidency and Congress",
+      "zh": "分治政府（行政与立法由不同党派控制）",
+      "context": "Wall Street analysts said divided control usually means fewer big laws and calmer markets.",
+      "example": "Under split government, we assume no major tax changes in the client's five-year model."
+    },
+    {
+      "phrase": "shortly after the open",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "soon after the stock market starts trading for the day",
+      "zh": "开盘后不久",
+      "context": "The Dow was already up sharply in the first minutes of Wednesday's trading.",
+      "example": "The stock jumped shortly after the open once the deal terms leaked."
+    }
+  ]
+}
