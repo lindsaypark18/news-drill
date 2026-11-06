@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-04-2",
+  "added": "2026-11-06",
+  "show": "BLOOMBERG",
+  "title": "AI Buildout Faces Upheaval After US Election Rout",
+  "url": "https://www.bloomberg.com/news/videos/2026-11-04/ai-buildout-faces-upheaval-after-us-election-rout-video",
+  "youtubeId": "97v5kIM3yAg",
+  "duration": "",
+  "topic": "Tech · AI Data Centers & Policy",
+  "summary": "Bloomberg looks at how Democratic wins in Texas, Ohio, Georgia and Pennsylvania put roughly half of planned US AI data-center capacity under tougher local scrutiny, with Texas's governor-elect promising to halt approvals altogether. Analysts from GLJ Research, SemiAnalysis and Jefferies sort projects by risk: those with power, permits and steel should go ahead, while those still waiting on permits could slip a year or more or move to neighbouring states. A PIMCO policy expert expects slower permitting and more concessions rather than outright bans, and the worries knocked chip and tech stocks lower despite strong earnings.",
+  "focus": "Shadow the passage where the analyst splits Texas projects into three groups by how far along they are, and the closing point about delays and concessions instead of bans; both pack dense business vocabulary into short, clear clauses.",
+  "vocab": [
+    {
+      "word": "upheaval",
+      "ipa": "/ʌpˈhiːvl/",
+      "pos": "noun",
+      "meaning": "a sudden, major disruption that changes how things work",
+      "zh": "剧变；动荡",
+      "context": "The story warns that the AI data-center boom is heading into a period of disruption after the election results.",
+      "example": "A merger of this size will cause real upheaval in the sales organisation, so we need a change-management plan."
+    },
+    {
+      "word": "rout",
+      "ipa": "/raʊt/",
+      "pos": "noun",
+      "meaning": "a heavy, decisive defeat",
+      "zh": "惨败；溃败",
+      "context": "Republicans' heavy losses in the midterms are described as a rout that now threatens the buildout.",
+      "example": "After the rout in the pricing war, the client decided to exit the low-end segment entirely."
+    },
+    {
+      "word": "moratorium",
+      "ipa": "/ˌmɒrəˈtɔːriəm/",
+      "pos": "noun",
+      "meaning": "an official, temporary stop on an activity",
+      "zh": "暂停令；暂缓执行",
+      "context": "Texas's governor-elect has called for an immediate freeze on new data-center development.",
+      "example": "The board placed a moratorium on new hires until the restructuring plan is approved."
+    },
+    {
+      "word": "suspension",
+      "ipa": "/səˈspenʃn/",
+      "pos": "noun",
+      "meaning": "a temporary halt, especially of approvals or permissions",
+      "zh": "暂停；中止",
+      "context": "Developers in Texas were already coping with a pause in approvals ordered by the outgoing governor.",
+      "example": "The suspension of the export licence wiped two quarters of revenue off the forecast."
+    },
+    {
+      "word": "stunt",
+      "ipa": "/stʌnt/",
+      "pos": "noun",
+      "meaning": "an action done mainly to attract attention rather than to achieve something real",
+      "zh": "噱头；作秀",
+      "context": "The incoming governor dismissed her predecessor's approval pause as a show put on for election season.",
+      "example": "The competitor's price cut looks like a publicity stunt; they cannot sustain those margins."
+    },
+    {
+      "word": "bearish",
+      "ipa": "/ˈbeərɪʃ/",
+      "pos": "adjective",
+      "meaning": "expecting prices or prospects to fall; pessimistic",
+      "zh": "看跌的；悲观的",
+      "context": "A research firm said the Texas result is a more pessimistic signal for data-center capacity coming online.",
+      "example": "Analysts are bearish on the sector, so the IPO window may close before we are ready."
+    },
+    {
+      "word": "tier",
+      "ipa": "/tɪə(r)/",
+      "pos": "noun",
+      "meaning": "one level in a ranked system",
+      "zh": "层级；等级",
+      "context": "A bank sorted states into risk levels and moved Texas into a riskier one after the vote.",
+      "example": "We grouped suppliers into three tiers according to how critical they are to production."
+    },
+    {
+      "word": "wrest",
+      "ipa": "/rest/",
+      "pos": "verb",
+      "meaning": "to take control of something from someone with effort",
+      "zh": "（费力）夺取",
+      "context": "Democrats took control of key governorships away from Republicans in several big states.",
+      "example": "The challenger brand has wrested nearly ten points of share from the incumbent in two years."
+    },
+    {
+      "word": "flip",
+      "ipa": "/flɪp/",
+      "pos": "verb",
+      "meaning": "to change a seat or position from one party or side to the other",
+      "zh": "翻转（席位）；使转向",
+      "context": "Democrats turned several governor's offices from red to blue, including in states that host many projects.",
+      "example": "If we can flip two of the regional distributors, the whole channel strategy becomes viable."
+    },
+    {
+      "word": "rebuke",
+      "ipa": "/rɪˈbjuːk/",
+      "pos": "noun",
+      "meaning": "a sharp expression of disapproval",
+      "zh": "斥责；强烈反对",
+      "context": "The election result is framed as voters sharply rejecting the rapid spread of data centers.",
+      "example": "The shareholder vote against the pay package was a clear rebuke of the board."
+    },
+    {
+      "word": "status quo",
+      "ipa": "/ˌsteɪtəs ˈkwəʊ/",
+      "pos": "noun",
+      "meaning": "the existing state of affairs",
+      "zh": "现状",
+      "context": "Analysts debated whether projects already under way will simply carry on as before.",
+      "example": "Doing nothing is not a neutral option; the status quo is costing the client market share every month."
+    },
+    {
+      "word": "rail against",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to complain loudly and angrily about something",
+      "zh": "痛斥；激烈抱怨",
+      "context": "Candidates in several states campaigned by angrily attacking data centers and rising power bills.",
+      "example": "Store managers have been railing against the new scheduling tool since it launched."
+    },
+    {
+      "word": "overshadow",
+      "ipa": "/ˌəʊvəˈʃædəʊ/",
+      "pos": "verb",
+      "meaning": "to make something seem less important by being more noticeable",
+      "zh": "使相形见绌；盖过",
+      "context": "Worries about the election outcome eclipsed strong earnings from chipmakers earlier in the week.",
+      "example": "Supply-chain problems overshadowed an otherwise strong quarter for the division."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "sand in the gears",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "something that slows a process down without stopping it completely",
+      "zh": "（制造）阻碍；掣肘",
+      "context": "A policy expert expects more delays and concessions for builders even if no state bans projects outright.",
+      "example": "New compliance checks will put sand in the gears of the procurement process, so build in extra lead time."
+    },
+    {
+      "phrase": "bake in",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to include an expected event in a price or plan in advance",
+      "zh": "预先计入；已反映在价格中",
+      "context": "The story discusses how much of the political risk investors had already priced into AI stocks.",
+      "example": "The market has baked in two rate cuts, so anything less will hit valuations."
+    },
+    {
+      "phrase": "worst-case scenario",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "the most damaging outcome that could realistically happen",
+      "zh": "最坏情况",
+      "context": "Analysts outlined the most damaging outcome for projects that lack permits in Texas.",
+      "example": "In the worst-case scenario, the plant closure delays our break-even by eighteen months."
+    },
+    {
+      "phrase": "touch off",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to cause something to start suddenly",
+      "zh": "引发；触发",
+      "context": "Strong chip earnings had sparked a rally that faded once the election news landed.",
+      "example": "The tariff announcement touched off a scramble for alternative suppliers in Vietnam."
+    }
+  ]
+}
