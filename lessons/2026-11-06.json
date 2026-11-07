@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-06",
+  "added": "2026-11-07",
+  "show": "NBC NEWS",
+  "title": "J.P. Morgan global market strategist on tech stock selloff",
+  "url": "https://www.nbcnews.com/video/j-p-morgan-global-market-strategist-on-tech-stock-selloff-273006149910",
+  "youtubeId": "NCpObnNpSh0",
+  "duration": "",
+  "topic": "Markets · AI Investment & Tech Selloff",
+  "summary": "After one of the worst routs for US tech stocks in years, shares steadied as investors weighed whether the AI investment boom will slow now that Democrats have won broadly in the midterms. NBC News' Christine Romans asks Jordan Jackson, global market strategist at J.P. Morgan, how much the election and data-centre politics change the outlook for AI spending. Jackson argues the long-term case for AI investment is intact and that the selloff could be a buying opportunity for patient investors.",
+  "focus": "Shadow Romans' opening set-up of the week's market moves and Jackson's answer on why the selloff may be an opportunity; both are short, clearly paced stretches of market vocabulary (no transcript was available this run, so vocabulary is drawn from same-day coverage of the selloff).",
+  "vocab": [
+    {
+      "word": "hyperscaler",
+      "ipa": "/ˈhaɪpəskeɪlə/",
+      "pos": "noun",
+      "meaning": "one of the giant cloud companies that build and run huge data centres",
+      "zh": "超大规模云服务商",
+      "context": "The giant cloud providers are the ones whose AI spending plans investors are now questioning after the rout.",
+      "example": "Three hyperscalers account for most of the demand in this market, so customer concentration is our biggest risk."
+    },
+    {
+      "word": "bottleneck",
+      "ipa": "/ˈbɒtlnek/",
+      "pos": "noun",
+      "meaning": "the single point that limits how fast a whole process can move",
+      "zh": "瓶颈",
+      "context": "Analysts covering the selloff argue that electricity, not chips, is what really limits how fast AI data centres can be built.",
+      "example": "Approval from the regional office is the real bottleneck, so let's fix that before we hire more staff."
+    },
+    {
+      "word": "carnage",
+      "ipa": "/ˈkɑːnɪdʒ/",
+      "pos": "noun",
+      "meaning": "heavy, widespread damage or losses (used loosely for a market crash)",
+      "zh": "惨重损失；大屠杀（喻股市暴跌）",
+      "context": "Business anchors used the word to describe how badly tech shares were hit on the worst day of the week.",
+      "example": "After the carnage in last quarter's results, the board wants a credible turnaround plan, not more slides."
+    },
+    {
+      "word": "obliterate",
+      "ipa": "/əˈblɪtəreɪt/",
+      "pos": "verb",
+      "meaning": "to destroy something completely",
+      "zh": "彻底摧毁；抹去",
+      "context": "Coverage of the rout described tech and chip stocks as having been wiped out in a single session.",
+      "example": "A low-cost entrant could obliterate our margins in this segment within two years."
+    },
+    {
+      "word": "teeter",
+      "ipa": "/ˈtiːtə/",
+      "pos": "verb",
+      "meaning": "to be unsteady, close to falling one way or the other",
+      "zh": "摇摇欲坠；处于边缘",
+      "context": "Tech shares were described as wobbling on the edge of a deeper decline before buyers returned.",
+      "example": "The deal is teetering on the edge, so the partners need to call the CFO today."
+    },
+    {
+      "word": "debacle",
+      "ipa": "/deɪˈbɑːkl/",
+      "pos": "noun",
+      "meaning": "a sudden, embarrassing failure",
+      "zh": "惨败；溃败",
+      "context": "The week's coverage pointed to earlier failed bets in the AI space as a warning about overspending.",
+      "example": "The ERP rollout was a debacle, and we're still cleaning up the data two years later."
+    },
+    {
+      "word": "blip",
+      "ipa": "/blɪp/",
+      "pos": "noun",
+      "meaning": "a small, short-lived change that doesn't affect the overall trend",
+      "zh": "短暂波动；小插曲",
+      "context": "Strategists debated whether the crash was a temporary blip or the start of a longer reassessment of AI.",
+      "example": "The dip in Q3 churn looks like a blip, but let's watch two more months before we celebrate."
+    },
+    {
+      "word": "haemorrhage",
+      "ipa": "/ˈhemərɪdʒ/",
+      "pos": "verb",
+      "meaning": "to lose something, especially money, quickly and in large amounts",
+      "zh": "大量流失（资金等）",
+      "context": "Investors worry about AI projects that keep losing cash at a fast rate before they earn anything back.",
+      "example": "The startup is haemorrhaging cash on customer acquisition, so its runway is shorter than the deck suggests."
+    },
+    {
+      "word": "hurdle",
+      "ipa": "/ˈhɜːdl/",
+      "pos": "noun",
+      "meaning": "an obstacle or difficulty that must be overcome",
+      "zh": "障碍；难关",
+      "context": "New local opposition and tougher approvals were described as fresh obstacles for data-centre builders.",
+      "example": "Regulatory approval is the last hurdle before we can close the acquisition."
+    },
+    {
+      "word": "positioning",
+      "ipa": "/pəˈzɪʃənɪŋ/",
+      "pos": "noun",
+      "meaning": "how investors have arranged their holdings and bets in the market",
+      "zh": "持仓布局",
+      "context": "Part of the selloff was blamed on how heavily investors had piled into the same chip stocks beforehand.",
+      "example": "Before the pitch, map competitors' positioning so we can show the client where the white space is."
+    },
+    {
+      "word": "unwind",
+      "ipa": "/ʌnˈwaɪnd/",
+      "pos": "verb",
+      "meaning": "to reverse or close out a position or arrangement",
+      "zh": "平仓；解除（交易或安排）",
+      "context": "Analysts said heavily borrowed bets on AI stocks were being reversed all at once, which deepened the fall.",
+      "example": "Unwinding the joint venture will take longer than setting it up, so plan for a 12-month exit."
+    },
+    {
+      "word": "dump",
+      "ipa": "/dʌmp/",
+      "pos": "verb",
+      "meaning": "to sell something quickly and in large amounts, often at a loss",
+      "zh": "抛售",
+      "context": "Investors sold chip and AI shares in large volumes on the day after the election results.",
+      "example": "If the lock-up expires in March, early investors may dump their shares and pressure the price."
+    },
+    {
+      "word": "tumble",
+      "ipa": "/ˈtʌmbl/",
+      "pos": "verb",
+      "meaning": "to fall suddenly and sharply",
+      "zh": "暴跌；骤降",
+      "context": "The Nasdaq fell sharply on Thursday before tech shares steadied on Friday.",
+      "example": "Our win rate tumbled after the price increase, which suggests we overestimated willingness to pay."
+    },
+    {
+      "word": "oversold",
+      "ipa": "/ˌəʊvəˈsəʊld/",
+      "pos": "adjective",
+      "meaning": "having fallen so far, so fast, that the price may now be too low",
+      "zh": "超卖的",
+      "context": "After the steep drop, some analysts argued AI and chip stocks had been pushed below what their fundamentals justify.",
+      "example": "The sector looks oversold, so this may be a good moment to approach targets about an acquisition."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "correction territory",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a fall of 10% or more from a recent peak",
+      "zh": "进入调整区间（较高点下跌10%以上）",
+      "context": "The Nasdaq closed the worst day of the week down more than 10% from its high.",
+      "example": "Once the stock slips into correction territory, the activist investor will have a stronger case for change."
+    },
+    {
+      "phrase": "crowded trade",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "an investment that so many people already hold that it can fall hard when they all sell",
+      "zh": "拥挤交易（大量投资者持有同一头寸）",
+      "context": "Semiconductors were described as the market's most crowded bet before the selloff began.",
+      "example": "Data-centre real estate has become a crowded trade, so our client should look at adjacent niches instead."
+    },
+    {
+      "phrase": "buyer's strike",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a situation in which buyers refuse to buy, pushing prices down",
+      "zh": "买方罢工（买家集体观望不买）",
+      "context": "Market commentators used the term to describe investors refusing to step in and buy tech shares.",
+      "example": "Procurement teams are on a buyer's strike until the new budget is approved, so expect a slow Q4 pipeline."
+    },
+    {
+      "phrase": "hand over fist",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "very quickly and in large amounts (usually money)",
+      "zh": "大量而迅速地（赚钱或赔钱）",
+      "context": "Retail investors were described as selling tech stocks rapidly and in large amounts during the rout.",
+      "example": "The incumbent was losing customers hand over fist until it fixed its onboarding process."
+    },
+    {
+      "phrase": "wade into",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to start getting involved in something gradually or cautiously",
+      "zh": "（谨慎地）涉足；逐步进入",
+      "context": "Strategists suggested investors could step back into tech slowly rather than all at once.",
+      "example": "Let's wade into the Southeast Asian market with one pilot country before committing a full team."
+    }
+  ]
+}
