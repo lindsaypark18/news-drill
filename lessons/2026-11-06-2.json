@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-06-2",
+  "added": "2026-11-08",
+  "show": "BLOOMBERG",
+  "title": "Anthropic IPO Valuation Under Pressure After Tech Rout",
+  "url": "https://www.bloomberg.com/news/videos/2026-11-06/anthropic-ipo-valuation-under-pressure-after-tech-rout-video",
+  "youtubeId": "ozd5ySBPLO8",
+  "duration": "",
+  "topic": "Tech · IPOs",
+  "summary": "The steep fall in AI and chip stocks after the midterms is weighing on Anthropic's planned IPO, with prospective buyers now discussing a valuation of about $1.2–1.3 trillion, below the roughly $1.5 trillion many had expected. Bloomberg Intelligence's Mandeep Singh explains how the tech rout and the threat of tougher oversight of data centers are reshaping the deal. The listing could still happen before Thanksgiving, possibly starting smaller and raising its targets if investor demand proves strong.",
+  "focus": "Shadow Mandeep Singh's explanation of why the valuation range has slipped, then the short exchange on IPO timing and how the deal might be sized.",
+  "vocab": [
+    {
+      "word": "battered",
+      "ipa": "/ˈbætəd/",
+      "pos": "adjective",
+      "meaning": "badly hurt or weakened by a series of blows or losses",
+      "zh": "重创的；饱受打击的",
+      "context": "Coverage of the story described Wall Street as badly hit after the tech rout, just as Anthropic was preparing to list.",
+      "example": "After three quarters of price cuts, the client's margins are battered and the board wants a turnaround plan."
+    },
+    {
+      "word": "buzzsaw",
+      "ipa": "/ˈbʌzsɔː/",
+      "pos": "noun",
+      "meaning": "(informal) a powerful, destructive force that something runs straight into",
+      "zh": "强大阻力；致命打击",
+      "context": "The IPO plans were said to have run into a market buzzsaw when tech shares collapsed on Thursday.",
+      "example": "Their expansion into Europe ran into a regulatory buzzsaw, and they had to pull out within a year."
+    },
+    {
+      "word": "pullback",
+      "ipa": "/ˈpʊlbæk/",
+      "pos": "noun",
+      "meaning": "a fall in prices after a period of gains, usually smaller than a crash",
+      "zh": "回调；回落",
+      "context": "The broad drop in chip and AI stocks was described as a pullback that weighed on the deal's valuation.",
+      "example": "A modest pullback in demand is normal after a record year, so we shouldn't overreact in the forecast."
+    },
+    {
+      "word": "flashpoint",
+      "ipa": "/ˈflæʃpɔɪnt/",
+      "pos": "noun",
+      "meaning": "an issue or place where conflict or anger is likely to break out",
+      "zh": "引爆点；冲突焦点",
+      "context": "Data-center construction had become a heated political issue in the run-up to the midterms.",
+      "example": "Pricing for legacy customers is the real flashpoint in this negotiation, so let's address it first."
+    },
+    {
+      "word": "hinder",
+      "ipa": "/ˈhɪndə/",
+      "pos": "verb",
+      "meaning": "to make something slower or more difficult to do",
+      "zh": "阻碍；妨碍",
+      "context": "Some planned AI projects could be cancelled or slowed down under tougher local rules after the election.",
+      "example": "Fragmented IT systems will hinder any attempt to integrate the two businesses quickly."
+    },
+    {
+      "word": "appetite",
+      "ipa": "/ˈæpɪtaɪt/",
+      "pos": "noun",
+      "meaning": "how willing people, especially investors, are to buy or take on something",
+      "zh": "（投资者的）兴趣；需求",
+      "context": "The listing is seen as a test of how keen investors still are to buy into AI companies.",
+      "example": "Investor appetite for long-duration infrastructure deals has cooled, so we should temper the valuation."
+    },
+    {
+      "word": "prospective",
+      "ipa": "/prəˈspektɪv/",
+      "pos": "adjective",
+      "meaning": "expected or likely to become something in the future",
+      "zh": "潜在的；预期的",
+      "context": "Potential buyers of the shares were reported to be discussing a lower valuation range.",
+      "example": "We interviewed twelve prospective customers to test whether they would pay for the premium tier."
+    },
+    {
+      "word": "deliberations",
+      "ipa": "/dɪˌlɪbəˈreɪʃnz/",
+      "pos": "noun",
+      "meaning": "careful discussions before a decision is made",
+      "zh": "审议；斟酌",
+      "context": "Reports stressed that talks on pricing were still under way and nothing was final.",
+      "example": "The steering committee's deliberations took longer than planned, so the launch moved to Q2."
+    },
+    {
+      "word": "oversight",
+      "ipa": "/ˈəʊvəsaɪt/",
+      "pos": "noun",
+      "meaning": "official supervision to make sure rules are followed",
+      "zh": "监管；监督",
+      "context": "A Democratic Congress raised the prospect of closer supervision of data-center building.",
+      "example": "Weak oversight of third-party vendors is the biggest gap our audit found."
+    },
+    {
+      "word": "book",
+      "ipa": "/bʊk/",
+      "pos": "noun",
+      "meaning": "(finance) the list of investor orders collected for a share or bond sale",
+      "zh": "（发行）订单簿",
+      "context": "Advisers want to build a strong list of quality investor orders before setting the final price.",
+      "example": "The bankers say the book is three times covered, so we can push the price toward the top of the range."
+    },
+    {
+      "word": "unlisted",
+      "ipa": "/ʌnˈlɪstɪd/",
+      "pos": "adjective",
+      "meaning": "not traded on a public stock exchange",
+      "zh": "未上市的",
+      "context": "Anthropic is still a private company whose shares do not yet trade on an exchange.",
+      "example": "Valuing an unlisted competitor is tricky, so we triangulated from recent funding rounds."
+    },
+    {
+      "word": "swing",
+      "ipa": "/swɪŋ/",
+      "pos": "noun",
+      "meaning": "a large, sudden change in a price or level",
+      "zh": "大幅波动",
+      "context": "One strategist argued a lower price could reduce the risk of violent share moves after listing.",
+      "example": "A ten-point swing in the exchange rate would wipe out the project's entire margin."
+    },
+    {
+      "word": "valuation",
+      "ipa": "/ˌvæljuˈeɪʃn/",
+      "pos": "noun",
+      "meaning": "an estimate of how much a company is worth",
+      "zh": "估值",
+      "context": "The range of the company's estimated worth slipped from about 1.5 trillion dollars toward 1.2–1.3 trillion.",
+      "example": "The valuation hinges on the growth assumption, so let's show the board three scenarios."
+    },
+    {
+      "word": "prediction market",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a platform where people bet on whether future events will happen, used as a gauge of probabilities",
+      "zh": "预测市场",
+      "context": "Betting odds on these platforms for an IPO filing by the end of November fell sharply in one day.",
+      "example": "We checked prediction markets as one input on the election outcome, alongside traditional polls."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "run up against",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to meet a difficult problem or obstacle",
+      "zh": "遭遇（阻碍）",
+      "context": "The IPO timetable met a hostile market just as the company was about to start marketing the deal.",
+      "example": "The rollout ran up against union opposition in two plants, so we staggered the timeline."
+    },
+    {
+      "phrase": "seize on",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to quickly use something as an opportunity or argument",
+      "zh": "抓住（机会/话题）",
+      "context": "Politicians from both parties used voter anger about data centers as a campaign issue.",
+      "example": "The competitor seized on our outage to pitch our biggest accounts within a week."
+    },
+    {
+      "phrase": "go public",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to list a company's shares on a stock exchange for the first time",
+      "zh": "上市",
+      "context": "The company could list its shares before Thanksgiving if market conditions allow.",
+      "example": "Before you go public, the finance function needs at least two clean years of audited accounts."
+    },
+    {
+      "phrase": "in the lead-up to",
+      "ipa": "",
+      "pos": "prepositional phrase",
+      "meaning": "during the period just before an important event",
+      "zh": "在……前夕；在……的筹备期",
+      "context": "Opposition to data centers grew into a major campaign theme in the weeks before the election.",
+      "example": "In the lead-up to the board meeting, we pre-wired each director on the restructuring proposal."
+    },
+    {
+      "phrase": "fetch a valuation",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to achieve or command a particular value when sold",
+      "zh": "获得（某一）估值",
+      "context": "The company had been expected to command a value of 1.5 to 2 trillion dollars when it lists.",
+      "example": "With recurring revenue at this level, the unit could fetch a valuation of ten times EBITDA."
+    }
+  ]
+}
