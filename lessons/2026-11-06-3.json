@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-06-3",
+  "added": "2026-11-09",
+  "show": "CBS NEWS",
+  "title": "U.S. added 165,000 jobs in October, a positive update after the stock market purge",
+  "url": "https://www.cbsnews.com/video/us-added-165000-jobs-in-october-a-positive-update-after-the-stock-market-purge/",
+  "youtubeId": "bQbR08ZpuMk",
+  "duration": "5 min",
+  "topic": "Economy · Jobs & the Fed",
+  "summary": "CBS News' Jill Schlesinger and Aaron Navarro walk through an October jobs report that showed employers adding 165,000 positions, far more than forecasters expected, with unemployment edging lower and earlier months revised up. The good news landed just a day after a sharp stock selloff driven by worries over AI spending, and strategists cited in CBS's coverage read the data as a rebuttal to fears that the economy was starting to give way. Because hiring is strong and inflation remains stubborn, economists in the coverage say the Federal Reserve is likely to stay focused on prices, with some now discussing whether a December rate hike is back on the table.",
+  "focus": "Shadow the opening segment where the headline job and unemployment figures are set against the previous day's market slump, and the short exchange on what a hotter-than-expected report means for the Fed's next move; both pack in core macro vocabulary at a brisk broadcast pace.",
+  "vocab": [
+    {
+      "word": "purge",
+      "ipa": "/pɜːdʒ/",
+      "pos": "noun",
+      "meaning": "a sudden, sweeping removal; in markets, a sharp selloff that flushes out many positions at once",
+      "zh": "清洗；（市场）大规模抛售",
+      "context": "The headline used it to describe the steep stock drop that came the day before the jobs data.",
+      "example": "After last quarter's purge of underperforming SKUs, the client's margins finally started to recover."
+    },
+    {
+      "word": "rebuttal",
+      "ipa": "/rɪˈbʌtl/",
+      "pos": "noun",
+      "meaning": "evidence or an argument that shows a claim to be wrong",
+      "zh": "反驳；驳斥",
+      "context": "A strategist framed the strong hiring numbers as a rebuttal to talk of an imminent slowdown.",
+      "example": "Our benchmarking data is the best rebuttal to the CFO's view that the cost base is already lean."
+    },
+    {
+      "word": "buckle",
+      "ipa": "/ˈbʌkl/",
+      "pos": "verb",
+      "meaning": "to begin to give way or collapse under pressure",
+      "zh": "（在压力下）垮掉；屈服",
+      "context": "Analysts said the data showed no sign that the economy was buckling under higher borrowing costs.",
+      "example": "The supply chain held up in the first wave of tariffs, but it may buckle if they rise again."
+    },
+    {
+      "word": "absorb",
+      "ipa": "/əbˈzɔːb/",
+      "pos": "verb",
+      "meaning": "to take in something, such as new workers or a cost, without serious strain",
+      "zh": "吸收；承受",
+      "context": "Economists noted the labour market was absorbing new workers without obvious stress.",
+      "example": "Can the regional team absorb two new accounts without adding headcount?"
+    },
+    {
+      "word": "dip",
+      "ipa": "/dɪp/",
+      "pos": "verb",
+      "meaning": "to fall slightly and usually briefly",
+      "zh": "小幅下降",
+      "context": "The unemployment rate dipped a little in October, according to the report.",
+      "example": "Utilisation dipped in August, which is normal for the holiday season."
+    },
+    {
+      "word": "revival",
+      "ipa": "/rɪˈvaɪvl/",
+      "pos": "noun",
+      "meaning": "a return to strength or activity after a weak period",
+      "zh": "复苏；复兴",
+      "context": "The coverage described hiring as staging a revival after a sluggish stretch last year.",
+      "example": "The proposal bets on a revival in mid-market deal volume next year."
+    },
+    {
+      "word": "jitters",
+      "ipa": "/ˈdʒɪtəz/",
+      "pos": "noun (plural)",
+      "meaning": "nervous worry, especially among investors",
+      "zh": "紧张不安；担忧",
+      "context": "Investor jitters about heavy AI spending had driven stocks lower the day before.",
+      "example": "Rate-hike jitters are making clients hesitate to sign multi-year contracts."
+    },
+    {
+      "word": "stubborn",
+      "ipa": "/ˈstʌbən/",
+      "pos": "adjective",
+      "meaning": "(of a problem) difficult to get rid of or reduce",
+      "zh": "顽固的；难以消除的",
+      "context": "Inflation was described as stubborn, which keeps pressure on the central bank.",
+      "example": "Churn has been stubborn at around 8%, despite three retention initiatives."
+    },
+    {
+      "word": "tame",
+      "ipa": "/teɪm/",
+      "pos": "verb",
+      "meaning": "to bring something under control and make it less extreme",
+      "zh": "控制；抑制",
+      "context": "The Fed's priority was framed as taming prices that are still running too high.",
+      "example": "The first step is to tame discretionary spend before we touch headcount."
+    },
+    {
+      "word": "bolster",
+      "ipa": "/ˈbəʊlstə/",
+      "pos": "verb",
+      "meaning": "to strengthen or support an argument, position or structure",
+      "zh": "加强；支持",
+      "context": "Strong hiring was said to bolster the case for the Fed to tighten further.",
+      "example": "Adding customer interviews will bolster our recommendation in front of the board."
+    },
+    {
+      "word": "fuel",
+      "ipa": "/ˈfjuːəl/",
+      "pos": "verb",
+      "meaning": "to make something increase or become stronger",
+      "zh": "推动；助长",
+      "context": "Economists worried that solid wage growth could fuel further inflation.",
+      "example": "Cheap financing fuelled a wave of add-on acquisitions across the sector."
+    },
+    {
+      "word": "payroll",
+      "ipa": "/ˈpeɪrəʊl/",
+      "pos": "noun",
+      "meaning": "the total number of people employed and paid by employers; also the list of them",
+      "zh": "就业人数；工资名单",
+      "context": "The report's payroll figures for earlier months were also revised higher.",
+      "example": "Payroll is the single largest cost line, so any restructuring has to start there."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "hotter than expected",
+      "ipa": "",
+      "pos": "adjective phrase",
+      "meaning": "(of economic data) stronger or higher than forecasts, often implying inflation pressure",
+      "zh": "高于预期（经济数据过热）",
+      "context": "The jobs report came in hotter than expected, surprising economists.",
+      "example": "Q3 demand ran hotter than expected, so we need to revisit the capacity plan."
+    },
+    {
+      "phrase": "revise up",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to officially raise an earlier estimate or figure",
+      "zh": "上调（数据或预测）",
+      "context": "Job gains for prior months were revised up alongside the new figure.",
+      "example": "Given the pipeline, we're revising up our revenue forecast by two points."
+    },
+    {
+      "phrase": "tighter financial conditions",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a situation in which borrowing is more expensive and credit is harder to get",
+      "zh": "金融环境收紧",
+      "context": "The economy was holding up despite tighter financial conditions.",
+      "example": "Tighter financial conditions mean the client should lock in refinancing early."
+    },
+    {
+      "phrase": "pick up speed",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to start moving or growing faster",
+      "zh": "加速",
+      "context": "The coverage said the job market appeared to be picking up speed.",
+      "example": "Adoption only began to pick up speed after we simplified the onboarding flow."
+    },
+    {
+      "phrase": "rate hike",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "an increase in the central bank's benchmark interest rate",
+      "zh": "加息",
+      "context": "Some economists said the data pushed a December rate hike back into the conversation.",
+      "example": "A rate hike would raise the client's floating-rate debt costs by roughly $4 million."
+    }
+  ]
+}
