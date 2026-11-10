@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-09",
+  "added": "2026-11-10",
+  "show": "BLOOMBERG",
+  "title": "Nvidia Spy Probe: What We Know Now",
+  "url": "https://www.youtube.com/watch?v=0k6R9NWNoLs",
+  "youtubeId": "0k6R9NWNoLs",
+  "duration": "5 min",
+  "topic": "Tech · Policy · Chips",
+  "summary": "Bloomberg's Michael Shepard explains why Nvidia is so central to the AI boom, from its chips to its financing of AI cloud providers, and why the probe into Jensen Huang's affair with a suspected Chinese spy unsettles the whole sector. He traces how Huang lobbied Washington to loosen chip-export limits to China against bipartisan opposition, and how reporting on a halted US probe of Singapore-based Megaspeed raises questions about the administration's role. The hosts ask whether rivals such as Google can now gain ground, and Shepard concludes the scandal will weaken Nvidia's influence in Washington.",
+  "focus": "Shadow the opening explainer on why Nvidia matters to the AI economy and its financing ties, then the later passage on export controls and the bipartisan resistance to selling chips to China.",
+  "vocab": [
+    {
+      "word": "linchpin",
+      "ipa": "/ˈlɪntʃpɪn/",
+      "pos": "noun",
+      "meaning": "the one part or person that everything else depends on",
+      "zh": "关键；核心支柱",
+      "context": "Nvidia was described as the central piece holding the whole AI boom together, from chips to financing.",
+      "example": "The regional distribution hub is the linchpin of the client's next-day delivery promise."
+    },
+    {
+      "word": "neocloud",
+      "ipa": "/ˈniːəʊklaʊd/",
+      "pos": "noun",
+      "meaning": "a newer cloud provider built mainly to rent out AI computing power",
+      "zh": "新兴AI云服务商",
+      "context": "The guest explained that Nvidia has helped finance these AI-focused cloud start-ups that then buy its chips.",
+      "example": "Several neoclouds are bidding for the same GPU capacity, which is pushing lease rates up."
+    },
+    {
+      "word": "circular financing",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "deals in which a supplier invests in customers who then use the money to buy from that supplier",
+      "zh": "循环融资",
+      "context": "The segment raised concerns that money is moving in loops between Nvidia, AI labs and their partners.",
+      "example": "Investors are discounting revenue that looks like circular financing, so we stripped it out of the base case."
+    },
+    {
+      "word": "bully pulpit",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a prominent position that gives someone a strong platform to push their views",
+      "zh": "可借以大力宣扬主张的显要地位",
+      "context": "Huang was said to have used his high profile to argue publicly for looser chip-sale rules.",
+      "example": "The CEO used the investor day as a bully pulpit for the industry's push on permitting reform."
+    },
+    {
+      "word": "direction of travel",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "the general way a situation or policy is developing",
+      "zh": "发展方向；大趋势",
+      "context": "The guest noted that Washington's broad trend on China was moving against what Huang wanted.",
+      "example": "Regardless of this quarter's numbers, the direction of travel for the category is clearly towards subscriptions."
+    },
+    {
+      "word": "China hawk",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a politician or official who favours a tough approach towards China",
+      "zh": "对华鹰派",
+      "context": "Opposition to selling advanced chips to China was said to come from tough-on-China lawmakers in both parties.",
+      "example": "With China hawks on the committee, any deal involving Chinese capital will face a long review."
+    },
+    {
+      "word": "prowess",
+      "ipa": "/ˈpraʊəs/",
+      "pos": "noun",
+      "meaning": "great skill or ability in a particular area",
+      "zh": "高超的本领；实力",
+      "context": "Nvidia's skill at lobbying in Washington was held up as one of its quiet strengths.",
+      "example": "Their engineering prowess is real, but their go-to-market capability is far behind the competition."
+    },
+    {
+      "word": "undercut",
+      "ipa": "/ˌʌndəˈkʌt/",
+      "pos": "verb",
+      "meaning": "to weaken or damage something, often indirectly",
+      "zh": "削弱；破坏",
+      "context": "The scandal was expected to weaken the influence Nvidia had built with policymakers.",
+      "example": "Discounting this aggressively would undercut the premium positioning we've spent two years building."
+    },
+    {
+      "word": "export controls",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "government rules that restrict selling certain goods or technology to other countries",
+      "zh": "出口管制",
+      "context": "The discussion traced how limits on shipping advanced chips to China were set and then reopened for debate.",
+      "example": "We need a scenario in which tighter export controls cut the client's Asia revenue by a third."
+    },
+    {
+      "word": "impose",
+      "ipa": "/ɪmˈpəʊz/",
+      "pos": "verb",
+      "meaning": "to officially put a rule, tax or restriction in place",
+      "zh": "强制实施；施加",
+      "context": "The guest recalled the restrictions that had been placed on chip sales to China before Trump's return.",
+      "example": "If the regulator imposes a price cap, the payback period on the investment roughly doubles."
+    },
+    {
+      "word": "revisit",
+      "ipa": "/ˌriːˈvɪzɪt/",
+      "pos": "verb",
+      "meaning": "to look at or consider a decision or issue again",
+      "zh": "重新审视；重新考虑",
+      "context": "The chip-sale rules were said to have been reopened for discussion once the new administration arrived.",
+      "example": "Given the rate environment, we should revisit the hurdle rate before approving the next tranche."
+    },
+    {
+      "word": "halt",
+      "ipa": "/hɔːlt/",
+      "pos": "verb",
+      "meaning": "to stop something, especially suddenly or officially",
+      "zh": "叫停；中止",
+      "context": "A newspaper report claimed a US inquiry into a Singapore firm was stopped after Nvidia stepped in.",
+      "example": "The board halted the acquisition talks once due diligence uncovered the pension liabilities."
+    },
+    {
+      "word": "intervene",
+      "ipa": "/ˌɪntəˈviːn/",
+      "pos": "verb",
+      "meaning": "to become involved in a situation in order to change what happens",
+      "zh": "介入；干预",
+      "context": "The hosts asked about reporting that Nvidia had stepped into a government probe of a partner company.",
+      "example": "If the pilot keeps slipping, the steering committee will have to intervene and reset the scope."
+    },
+    {
+      "word": "roll back",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to reverse or loosen a rule, policy or change",
+      "zh": "撤回；放宽（限制）",
+      "context": "The guest described how some limits on chip exports were eased after lobbying by Huang.",
+      "example": "The client rolled back the hiring freeze once bookings recovered in the second quarter."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "look the other way",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to deliberately ignore something wrong or problematic",
+      "zh": "睁一只眼闭一只眼；视而不见",
+      "context": "The guest suggested the reporting raised the possibility that officials chose to ignore concerns about a chip partner.",
+      "example": "Compliance can't look the other way just because the distributor is our biggest channel partner."
+    },
+    {
+      "phrase": "make headway",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to make progress, especially when it is difficult",
+      "zh": "取得进展",
+      "context": "A host asked whether rival AI bosses could now gain ground with lawmakers while Nvidia is distracted.",
+      "example": "We're finally making headway with procurement, but legal still hasn't signed off on the terms."
+    },
+    {
+      "phrase": "mount a challenge",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to organise and start a serious attempt to compete with or oppose someone",
+      "zh": "发起挑战",
+      "context": "Google's new chip plans were described as a real effort to compete against Nvidia.",
+      "example": "A private-label entrant could mount a challenge in the value segment within eighteen months."
+    },
+    {
+      "phrase": "to (someone's) credit",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "used to give someone praise they deserve, even amid criticism",
+      "zh": "说句公道话；值得称赞的是",
+      "context": "The guest acknowledged that Huang had been effective in winning over the president, whatever else happened.",
+      "example": "To her credit, the CFO flagged the working-capital issue long before it showed up in the numbers."
+    },
+    {
+      "phrase": "a disturbance in the force",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "a major shake-up felt across a whole system or industry (from Star Wars)",
+      "zh": "全局性的震荡；整个行业感受到的冲击",
+      "context": "The scandal was framed as a shock that rippled through the entire AI ecosystem, not just one company.",
+      "example": "When the market leader slashed prices overnight, everyone felt a disturbance in the force."
+    }
+  ]
+}
