@@ -1,0 +1,170 @@
+{
+  "date": "2026-11-10",
+  "added": "2026-11-11",
+  "show": "PBS NEWS HOUR",
+  "title": "U.S. inflation report highlights strain of rising food, energy and housing costs",
+  "url": "https://www.pbs.org/newshour/show/u-s-inflation-report-highlights-strain-of-rising-food-energy-and-housing-costs",
+  "youtubeId": "",
+  "pbsPlayerId": "3115373365",
+  "duration": "",
+  "topic": "Economy · Inflation & the Fed",
+  "summary": "October consumer prices rose about 0.4% in a month, driven by food, energy and housing, and full-year inflation is now expected to run near 4%, faster than wage growth. Geoff Bennett asks Chicago Fed president Austan Goolsbee what stands out, and Goolsbee calls the report disappointing to the point of worrying, noting that energy and tariff effects have not faded and services prices are still climbing. Goolsbee adds that the AI data center boom is acting like extra stimulus on construction and chip costs, warns that past predictions of short-lived inflation were wrong, and declines to rule anything in or out for the Fed's December rate decision.",
+  "focus": "Shadow Goolsbee's short answer on the Fed having only one real tool and what cooling demand would mean, and his later reply explaining why calling inflation temporary has backfired before: both are clear, measured central-banker English.",
+  "vocab": [
+    {
+      "word": "transitory",
+      "ipa": "/ˈtræn.zɪ.tər.i/",
+      "pos": "adjective",
+      "meaning": "Lasting only a short time; temporary.",
+      "zh": "暂时的；短暂的",
+      "context": "Goolsbee recalls that earlier forecasts calling price rises short-lived turned out to be wrong.",
+      "example": "The board was told the cost spike was transitory, but it has now lasted three quarters."
+    },
+    {
+      "word": "outpace",
+      "ipa": "/ˌaʊtˈpeɪs/",
+      "pos": "verb",
+      "meaning": "To grow or move faster than something else.",
+      "zh": "超过（增速）；领先于",
+      "context": "Bennett notes that expected yearly inflation is rising faster than pay.",
+      "example": "Competitor revenue has outpaced ours in every region except APAC."
+    },
+    {
+      "word": "distressing",
+      "ipa": "/dɪˈstres.ɪŋ/",
+      "pos": "adjective",
+      "meaning": "Causing worry or unhappiness.",
+      "zh": "令人不安的；令人苦恼的",
+      "context": "Goolsbee describes the monthly price figures as a worrying result.",
+      "example": "The churn numbers from the pilot market are distressing and need a root-cause review."
+    },
+    {
+      "word": "borderline",
+      "ipa": "/ˈbɔː.də.laɪn/",
+      "pos": "adjective / adverb",
+      "meaning": "Very close to being a particular (usually bad) thing.",
+      "zh": "接近于……的；临界的",
+      "context": "Goolsbee says the report went beyond disappointing to nearly alarming.",
+      "example": "The project's ROI is borderline, so a small cost overrun could kill it."
+    },
+    {
+      "word": "overheat",
+      "ipa": "/ˌəʊ.vəˈhiːt/",
+      "pos": "verb",
+      "meaning": "(Of an economy) to grow so fast that prices rise sharply.",
+      "zh": "（经济）过热",
+      "context": "The interview weighs whether strong spending is pushing the economy to run too hot.",
+      "example": "If the regional economy overheats, wage inflation will erode our labour-cost advantage."
+    },
+    {
+      "word": "persistent",
+      "ipa": "/pəˈsɪs.tənt/",
+      "pos": "adjective",
+      "meaning": "Continuing for a long time and hard to get rid of.",
+      "zh": "持续的；顽固的",
+      "context": "Rising service costs are presented as a lasting problem rather than a one-off.",
+      "example": "Persistent delays at the port are now a structural issue, not a seasonal one."
+    },
+    {
+      "word": "stimulus",
+      "ipa": "/ˈstɪm.jə.ləs/",
+      "pos": "noun",
+      "meaning": "Money or measures used to encourage economic activity.",
+      "zh": "刺激（措施）",
+      "context": "Goolsbee compares the AI construction boom's effect to a classic spending boost.",
+      "example": "The government stimulus will lift demand for building materials through next year."
+    },
+    {
+      "word": "conventional",
+      "ipa": "/kənˈven.ʃən.əl/",
+      "pos": "adjective",
+      "meaning": "Of the usual, traditional kind.",
+      "zh": "传统的；常规的",
+      "context": "He contrasts data center spending with the usual kind of government stimulus.",
+      "example": "A conventional cost-cutting programme won't close a gap this large."
+    },
+    {
+      "word": "dual mandate",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "The US Federal Reserve's two goals: stable prices and maximum employment.",
+      "zh": "双重使命（物价稳定与充分就业）",
+      "context": "The discussion turns on which of the Fed's two goals is under more pressure right now.",
+      "example": "Like the Fed's dual mandate, our brief balances growth targets against margin protection."
+    },
+    {
+      "word": "demand-side",
+      "ipa": "",
+      "pos": "adjective",
+      "meaning": "Caused by or relating to how much people and firms want to buy.",
+      "zh": "需求侧的",
+      "context": "Goolsbee separates inflation caused by strong buying from inflation caused by rising input costs.",
+      "example": "The slowdown looks demand-side, so price cuts alone won't fix volume."
+    },
+    {
+      "word": "excess demand",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "A situation where buyers want more than can be supplied, pushing prices up.",
+      "zh": "超额需求；需求过剩",
+      "context": "The rush to build data centers is described as adding more demand than suppliers can meet.",
+      "example": "Excess demand for GPUs gives the supplier strong pricing power this year."
+    },
+    {
+      "word": "services inflation",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "Rising prices for services such as health care, rent and repairs.",
+      "zh": "服务业通胀",
+      "context": "Goolsbee flags that prices for services are not coming down as hoped.",
+      "example": "Services inflation is driving up our outsourced IT and facilities costs."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "stay in its lane",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Stay limited to one area without spreading to others.",
+      "zh": "局限在某一领域；不越界",
+      "context": "Goolsbee wonders whether price pressure from AI construction will remain confined to that sector.",
+      "example": "As long as the price war stays in its lane, our premium segment should be safe."
+    },
+    {
+      "phrase": "the hair on the back of your neck stands up",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "You feel a strong sense of alarm or warning.",
+      "zh": "令人汗毛直竖；感到警觉",
+      "context": "Goolsbee uses this image to say the inflation data should make policymakers uneasy.",
+      "example": "When three key accounts asked for contract reviews in one week, the hair on the back of my neck stood up."
+    },
+    {
+      "phrase": "tie someone's hands",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Limit someone's freedom to act or decide.",
+      "zh": "束缚某人的手脚",
+      "context": "He refuses to pre-commit to a rate decision so the Fed keeps its options open.",
+      "example": "Don't tie our hands by promising the client a fixed fee before scoping."
+    },
+    {
+      "phrase": "on the table",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "Being considered as a possible option.",
+      "zh": "在考虑之中；可供讨论",
+      "context": "Goolsbee says every policy option remains under consideration for December.",
+      "example": "A divestiture of the logistics unit is now on the table."
+    },
+    {
+      "phrase": "on everyone's mind",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "Something many people are thinking or worrying about.",
+      "zh": "大家都在关注的；众人心头的事",
+      "context": "He says rising costs are a top worry for businesses and families in the Midwest.",
+      "example": "Tariffs were on everyone's mind at the leadership offsite."
+    }
+  ]
+}
