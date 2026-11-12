@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-10",
+  "added": "2026-11-12",
+  "show": "CBS NEWS",
+  "title": "Nvidia in crisis amid probe into CEO's affair with alleged Chinese spy",
+  "url": "https://www.cbsnews.com/video/nvidia-in-crisis-amid-probe-into-ceos-affair-with-alleged-chinese-spy/",
+  "youtubeId": "BWpvWIBKWFg",
+  "duration": "5 min",
+  "topic": "Companies · Corporate Governance",
+  "summary": "CBS News correspondent Bradley Blackburn reports on the turmoil at Nvidia after CEO Jensen Huang admitted an affair with a woman U.S. intelligence suspects of spying for China, which has triggered a board inquiry, a shareholder lawsuit and questions from lawmakers. Nvidia's shares have lost hundreds of billions of dollars in value as investors ask whether Huang can stay, while the company insists no secrets were compromised and Beijing rejects the spying claims. Financial journalist Bill Cohan then weighs in on the fallout, including how dependent Nvidia is on a single leader and how the board's lack of an obvious successor complicates any decision.",
+  "focus": "Shadow Blackburn's opening report that lays out the allegations and the market reaction, then the stretch where Cohan explains what the board's options are and why replacing Huang would be so difficult.",
+  "vocab": [
+    {
+      "word": "embroiled",
+      "ipa": "/ɪmˈbrɔɪld/",
+      "pos": "adjective",
+      "meaning": "deeply caught up in a conflict, scandal or investigation",
+      "zh": "卷入（纠纷、丑闻）",
+      "context": "Huang was described as caught up in several overlapping investigations at once, from the board to Congress.",
+      "example": "The target company is embroiled in a patent dispute, so we have flagged litigation risk in the diligence report."
+    },
+    {
+      "word": "oust",
+      "ipa": "/aʊst/",
+      "pos": "verb",
+      "meaning": "to force someone out of a position of power",
+      "zh": "罢免；驱逐",
+      "context": "The coverage discussed whether the board might push Huang out of the CEO role.",
+      "example": "Activist investors are trying to oust the chairman ahead of the annual meeting."
+    },
+    {
+      "word": "spooked",
+      "ipa": "/spuːkt/",
+      "pos": "adjective",
+      "meaning": "suddenly frightened or made nervous, often causing hasty action",
+      "zh": "受惊的；（投资者）恐慌的",
+      "context": "Investors were said to be rattled by the scandal and dumped the shares.",
+      "example": "Lenders were spooked by the weak cash-flow forecast and tightened the covenants."
+    },
+    {
+      "word": "shed",
+      "ipa": "/ʃed/",
+      "pos": "verb",
+      "meaning": "to lose something, such as value, jobs or weight",
+      "zh": "（价值等）下跌；失去",
+      "context": "Nvidia's stock was reported to have lost about a tenth of its value over two trading days.",
+      "example": "The retailer shed 15% of its market value after cutting full-year guidance."
+    },
+    {
+      "word": "overhang",
+      "ipa": "/ˈəʊvəhæŋ/",
+      "pos": "noun",
+      "meaning": "a lingering risk or uncertainty that keeps weighing on a price",
+      "zh": "（压制股价的）悬而未决的风险",
+      "context": "An analyst warned that the open question over the CEO's future would keep pressing on the stock.",
+      "example": "Until the regulatory review is settled, it will remain an overhang on the deal valuation."
+    },
+    {
+      "word": "outlier",
+      "ipa": "/ˈaʊtlaɪə(r)/",
+      "pos": "noun",
+      "meaning": "a case that is very different from the usual pattern",
+      "zh": "异常值；特例",
+      "context": "Nvidia was presented as unusual because so much of its value seems tied to a single leader.",
+      "example": "Excluding the one outlier client, margins across the portfolio are fairly consistent."
+    },
+    {
+      "word": "mega-cap",
+      "ipa": "/ˈmeɡə kæp/",
+      "pos": "noun / adjective",
+      "meaning": "a company with an extremely large stock-market value",
+      "zh": "超大市值（公司）",
+      "context": "An expert contrasted how a giant listed company should be run with a founder-led family business.",
+      "example": "Mega-cap tech stocks now make up a third of the index, which concentrates risk."
+    },
+    {
+      "word": "bruised",
+      "ipa": "/bruːzd/",
+      "pos": "adjective",
+      "meaning": "damaged or weakened, though not destroyed",
+      "zh": "受挫的；受损的",
+      "context": "The shares were described as already battered by earlier worries about the AI trade before the scandal broke.",
+      "example": "After two missed quarters, management credibility with investors is bruised."
+    },
+    {
+      "word": "sell-off",
+      "ipa": "/ˈsel ɒf/",
+      "pos": "noun",
+      "meaning": "a period when many investors sell, pushing prices down sharply",
+      "zh": "抛售潮",
+      "context": "Nvidia had already fallen sharply in the prior month during a wider wave of selling in AI stocks.",
+      "example": "The sell-off in regional banks created a window for the client to acquire deposits cheaply."
+    },
+    {
+      "word": "draconian",
+      "ipa": "/drəˈkəʊniən/",
+      "pos": "adjective",
+      "meaning": "extremely harsh or severe (of rules or laws)",
+      "zh": "严苛的；严厉的",
+      "context": "One analyst warned the affair could lead Washington to impose much harsher limits on chip sales to China.",
+      "example": "The new data-localisation rules are draconian enough to make the market entry case unviable."
+    },
+    {
+      "word": "fallout",
+      "ipa": "/ˈfɔːlaʊt/",
+      "pos": "noun",
+      "meaning": "the bad consequences that follow an event",
+      "zh": "（负面）后果；余波",
+      "context": "Bill Cohan was brought in to assess the consequences of the scandal for Nvidia and its investors.",
+      "example": "We need a communications plan to contain the fallout from the plant closure."
+    },
+    {
+      "word": "governance",
+      "ipa": "/ˈɡʌvənəns/",
+      "pos": "noun",
+      "meaning": "the system of rules and oversight by which a company is directed and controlled",
+      "zh": "公司治理",
+      "context": "Experts debated whether Nvidia's board structure and code of conduct were strong enough to handle the crisis.",
+      "example": "Weak governance at the subsidiary level was the root cause of the reporting errors."
+    },
+    {
+      "word": "baseless",
+      "ipa": "/ˈbeɪsləs/",
+      "pos": "adjective",
+      "meaning": "not supported by any facts or evidence",
+      "zh": "毫无根据的",
+      "context": "China's foreign ministry dismissed the spying allegations as having no factual basis.",
+      "example": "Management called the short-seller's accusations baseless, but the share price still fell."
+    },
+    {
+      "word": "succession plan",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a plan for who will take over a key leadership role and how",
+      "zh": "继任计划",
+      "context": "Analysts noted Nvidia had no publicly known plan for who would replace Huang.",
+      "example": "The board asked us to stress-test the succession plan for the top three roles."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "a black eye",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "an event that damages someone's reputation",
+      "zh": "（声誉上的）污点；丢脸的事",
+      "context": "An analyst called the scandal a reputation-damaging moment for the company.",
+      "example": "The data breach was a black eye for a firm that markets itself on security."
+    },
+    {
+      "phrase": "between a rock and a hard place",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "facing two choices that are both bad",
+      "zh": "进退两难",
+      "context": "A Harvard professor said the board had no good options because there is no obvious successor.",
+      "example": "With costs rising and customers resisting price increases, the client is between a rock and a hard place."
+    },
+    {
+      "phrase": "changing of the guard",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "a change in who leads or holds power",
+      "zh": "新老交替；权力更替",
+      "context": "One commentator said any move away from Huang would mark a major shift in Nvidia's leadership.",
+      "example": "The CFO's retirement signals a broader changing of the guard in the executive team."
+    },
+    {
+      "phrase": "ripple effect",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a spreading series of indirect consequences from one event",
+      "zh": "连锁反应",
+      "context": "Analysts warned that trouble at Nvidia could spread to the wider AI and chip sector.",
+      "example": "A delay at the one key supplier would have a ripple effect across the entire production schedule."
+    }
+  ]
+}
