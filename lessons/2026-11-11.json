@@ -1,0 +1,188 @@
+{
+  "date": "2026-11-11",
+  "added": "2026-11-13",
+  "show": "PBS NEWS HOUR",
+  "title": "How companies are using AI to make you spend more money",
+  "url": "https://www.pbs.org/newshour/show/how-companies-are-using-ai-to-make-you-spend-more-money",
+  "youtubeId": "IYMjw7m5yf4",
+  "pbsPlayerId": "3115395186",
+  "duration": "9 min",
+  "topic": "Companies · AI Pricing",
+  "summary": "Economics correspondent Paul Solman investigates how retailers, delivery apps and restaurant chains are using AI and shopper data to charge different people different prices, from a test where hundreds of Instacart users saw varying prices for the same basket to a newsroom experiment with Uber Eats fees. Lindsay Owens and Elizabeth Pancotti of the Groundwork Collaborative explain how location, purchase history and loyalty data feed pricing algorithms, point to patents and app behaviour at big retailers, and argue that prices should stay tied to cost plus a fair profit. Nobel economist Richard Thaler recalls his research showing most people see opportunistic price hikes as unfair, while companies including Walmart, McDonald's and Instacart insist they are not setting personalised prices or fixing them.",
+  "focus": "Shadow Owens's steady, list-like explanation of the data points algorithms use to work out who you are, then the quick back-and-forth in the Uber Eats test where the order totals are read out, which is great practice for spoken numbers.",
+  "vocab": [
+    {
+      "word": "finagle",
+      "ipa": "/fɪˈneɪɡl/",
+      "pos": "verb",
+      "meaning": "to arrange or obtain something by clever, slightly dishonest means",
+      "zh": "耍手段获取；巧妙操纵",
+      "context": "Solman used it to describe how firms can quietly manipulate what each shopper ends up paying.",
+      "example": "The supplier tried to finagle a price increase into the renewal by burying it in the service terms."
+    },
+    {
+      "word": "jiggle",
+      "ipa": "/ˈdʒɪɡl/",
+      "pos": "verb",
+      "meaning": "to move or adjust something slightly and repeatedly",
+      "zh": "轻微调整；来回微调",
+      "context": "Solman described algorithms constantly nudging prices up and down for different customers.",
+      "example": "If we jiggle the discount tiers by a few points, we can test which bundle the mid-market segment responds to."
+    },
+    {
+      "word": "tethered",
+      "ipa": "/ˈteðəd/",
+      "pos": "adjective",
+      "meaning": "tied or closely linked to something",
+      "zh": "与……挂钩的；拴住的",
+      "context": "Owens argued that prices ought to stay tied to what a product actually costs to make and sell.",
+      "example": "Management bonuses are tethered to free cash flow rather than headline revenue."
+    },
+    {
+      "word": "supercharged",
+      "ipa": "/ˈsuːpətʃɑːdʒd/",
+      "pos": "adjective",
+      "meaning": "made much more powerful or intense than before",
+      "zh": "大大增强的；加速的",
+      "context": "Owens said AI has dramatically intensified tactics companies have long used to extract more money from customers.",
+      "example": "Cheap cloud compute has supercharged the client's ability to run thousands of pricing experiments a week."
+    },
+    {
+      "word": "ascertain",
+      "ipa": "/ˌæsəˈteɪn/",
+      "pos": "verb",
+      "meaning": "to find out for certain",
+      "zh": "查明；确定",
+      "context": "Owens used it when explaining how algorithms work out who a shopper is and how much they might pay.",
+      "example": "Before we size the market, we need to ascertain how many of these clinics actually buy direct."
+    },
+    {
+      "word": "swift",
+      "ipa": "/swɪft/",
+      "pos": "adjective",
+      "meaning": "happening quickly or immediately",
+      "zh": "迅速的",
+      "context": "Owens noted that public anger can arrive quickly once customers realise they are being charged differently.",
+      "example": "The board wants a swift decision on the divestment before the quarter closes."
+    },
+    {
+      "word": "scrutiny",
+      "ipa": "/ˈskruːtəni/",
+      "pos": "noun",
+      "meaning": "close, critical examination",
+      "zh": "审查；仔细检查",
+      "context": "The segment noted that pricing tools at fast-food chains have drawn close attention from critics and regulators.",
+      "example": "Any deal above that size will face regulatory scrutiny, so build six extra months into the timeline."
+    },
+    {
+      "word": "costless",
+      "ipa": "/ˈkɒstləs/",
+      "pos": "adjective",
+      "meaning": "involving no cost or effort",
+      "zh": "无成本的",
+      "context": "Owens said changing a price digitally is now almost free for a company to do, unlike relabelling shelves.",
+      "example": "Switching vendors is not costless; the client would lose two years of integration work."
+    },
+    {
+      "word": "empirical",
+      "ipa": "/ɪmˈpɪrɪkl/",
+      "pos": "adjective",
+      "meaning": "based on observation and data rather than theory",
+      "zh": "实证的；以经验为依据的",
+      "context": "Thaler said whether customer anger actually deters firms is something that has to be tested with real evidence.",
+      "example": "Whether loyalty drops after the price change is an empirical question, so let's run a pilot in two regions first."
+    },
+    {
+      "word": "brick-and-mortar",
+      "ipa": "",
+      "pos": "adjective",
+      "meaning": "relating to physical shops rather than online stores",
+      "zh": "实体（店）的",
+      "context": "Owens mentioned it when explaining that comparing prices across apps, websites and physical stores can reveal gaps.",
+      "example": "The retailer's brick-and-mortar footprint is shrinking, but each remaining store is a fulfilment hub."
+    },
+    {
+      "word": "daypart",
+      "ipa": "/ˈdeɪpɑːt/",
+      "pos": "noun",
+      "meaning": "a segment of the day used by restaurants and media for planning offers",
+      "zh": "时段（餐饮/广告业按时段划分）",
+      "context": "In an archival clip, Wendy's former CEO listed offerings tailored to different times of day among the chain's plans.",
+      "example": "Breakfast is the weakest daypart for the chain, so the menu team is testing a value bundle before 10 a.m."
+    },
+    {
+      "word": "price fixing",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "illegal agreement among competitors to set prices",
+      "zh": "价格操纵；串通定价",
+      "context": "The segment raised whether shared pricing software could lead franchisees to coordinate prices, which the company denied.",
+      "example": "Sharing forward-looking price data with rivals in that benchmarking group could look like price fixing."
+    },
+    {
+      "word": "dynamic pricing",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "changing prices frequently in response to demand, time or customer data",
+      "zh": "动态定价",
+      "context": "Wendy's former CEO had said the chain would test prices that change with demand, which sparked criticism.",
+      "example": "Dynamic pricing could lift margins at peak hours, but we need to model the reputational risk."
+    },
+    {
+      "word": "fair margin",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a reasonable amount of profit added on top of cost",
+      "zh": "合理利润率",
+      "context": "Owens argued that a price should reflect cost plus a reasonable profit, not a guess about what each person will tolerate.",
+      "example": "Procurement accepted the increase once the supplier showed it was cost plus a fair margin."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "nickel-and-dime",
+      "ipa": "",
+      "pos": "verb",
+      "meaning": "to charge many small extra fees that add up",
+      "zh": "斤斤计较地加收小额费用",
+      "context": "Owens described firms squeezing customers through lots of small add-on charges.",
+      "example": "Customers churn when they feel nickel-and-dimed, so fold the setup fee into the subscription price."
+    },
+    {
+      "phrase": "fork over",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to pay money, usually reluctantly",
+      "zh": "（不情愿地）掏钱",
+      "context": "Owens used it for how much an algorithm thinks a particular shopper will hand over.",
+      "example": "Clients won't fork over a premium unless the dashboard saves their analysts real hours."
+    },
+    {
+      "phrase": "spring for",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to agree to pay for something, often something extra",
+      "zh": "花钱买（较贵的东西）",
+      "context": "Owens used it when describing whether a shopper is likely to pay for an upgrade.",
+      "example": "Most SMB buyers won't spring for the enterprise tier until they hit the user cap."
+    },
+    {
+      "phrase": "under the hood",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "in the hidden internal workings of something",
+      "zh": "内部运作中；幕后机制",
+      "context": "Owens used it to describe the data and algorithms working behind a price tag that looks simple.",
+      "example": "The P&L looks healthy, but under the hood the growth is coming from one-off contracts."
+    },
+    {
+      "phrase": "take one's business elsewhere",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to stop buying from a company and go to a competitor",
+      "zh": "转投他家；换供应商",
+      "context": "Solman raised the idea that unhappy customers can simply shop with a rival instead.",
+      "example": "If service levels slip again, the client has made it clear they will take their business elsewhere."
+    }
+  ]
+}
