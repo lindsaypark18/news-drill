@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-12",
+  "added": "2026-11-14",
+  "show": "CNN",
+  "title": "White House alarmed by Lutnick not blacklisting Nvidia-linked firm",
+  "url": "https://www.cnn.com/2026/11/12/politics/video/ebof-randi-kaye-jensen-huang-alleged-chinese-spy-affair-howard-lutnick-nvidia-trump",
+  "youtubeId": "uLOSnKlHsgw",
+  "duration": "",
+  "topic": "Trade · Chips & Export Controls",
+  "summary": "CNN reports that Treasury Secretary Scott Bessent clashed with Commerce Secretary Howard Lutnick over Commerce's failure to put Megaspeed, a Singapore-based buyer of more than $4 billion in Nvidia chips, on the entity list despite suspicions it routed advanced processors to China. The pressure grew after Nvidia CEO Jensen Huang admitted an affair with a former Megaspeed executive suspected by US intelligence of Chinese links, prompting lawmakers in both parties to demand testimony and investigations. Senator Richard Blumenthal then discusses the national security stakes and possible conflicts of interest, before the piece turns to questions about political donations and how the Justice Department is responding.",
+  "focus": "Shadow the opening stretch where the reporter lays out the Treasury-versus-Commerce dispute and what the entity list does, then Blumenthal's measured answer on national security risks, which is a good model for calm, structured argument under pressure.",
+  "vocab": [
+    {
+      "word": "blacklist",
+      "ipa": "/ˈblæklɪst/",
+      "pos": "verb",
+      "meaning": "to put a person or company on an official list of those to be banned or avoided",
+      "zh": "列入黑名单",
+      "context": "The video's title described White House alarm that Commerce had not put the chip buyer on its banned list.",
+      "example": "Procurement threatened to blacklist the vendor after a second data breach went unreported for weeks."
+    },
+    {
+      "word": "reluctance",
+      "ipa": "/rɪˈlʌktəns/",
+      "pos": "noun",
+      "meaning": "unwillingness or hesitation to do something",
+      "zh": "不情愿；勉强",
+      "context": "CNN said Commerce showed hesitation about labelling the Nvidia customer a possible security threat.",
+      "example": "The board's reluctance to write down the acquisition is making the auditors nervous."
+    },
+    {
+      "word": "funnel",
+      "ipa": "/ˈfʌnl/",
+      "pos": "verb",
+      "meaning": "to send money, goods or information through a particular channel, often secretly",
+      "zh": "输送；（暗中）转移",
+      "context": "The report described advanced chips allegedly being channelled through the Singapore firm into China.",
+      "example": "Regional teams were funnelling budget into pet projects that never appeared on the portfolio review."
+    },
+    {
+      "word": "designation",
+      "ipa": "/ˌdezɪɡˈneɪʃn/",
+      "pos": "noun",
+      "meaning": "the act of officially giving someone or something a particular label or status",
+      "zh": "认定；指定；（正式）列名",
+      "context": "Bessent complained that the formal label marking the company as a national security risk had been held up.",
+      "example": "Getting the strategic-supplier designation unlocks longer contracts and earlier payment terms."
+    },
+    {
+      "word": "friction",
+      "ipa": "/ˈfrɪkʃn/",
+      "pos": "noun",
+      "meaning": "disagreement or tension between people or groups",
+      "zh": "摩擦；不和",
+      "context": "Coverage described growing tension between Treasury and Commerce over how the case was handled.",
+      "example": "There's real friction between sales and finance over how aggressively we recognise multi-year revenue."
+    },
+    {
+      "word": "fault",
+      "ipa": "/fɔːlt/",
+      "pos": "verb",
+      "meaning": "to criticise someone or say they are responsible for a mistake",
+      "zh": "指责；归咎于",
+      "context": "Bessent was reported to have blamed Lutnick's department for the delay.",
+      "example": "It's hard to fault the team's analysis; the problem was that leadership ignored it."
+    },
+    {
+      "word": "leakage",
+      "ipa": "/ˈliːkɪdʒ/",
+      "pos": "noun",
+      "meaning": "the escape of something to places it should not go; in business, value or goods slipping out of a controlled channel",
+      "zh": "泄漏；流失",
+      "context": "Bessent used it for powerful US chips slipping into China despite restrictions.",
+      "example": "We traced most of the margin leakage to off-contract discounts in the distributor channel."
+    },
+    {
+      "word": "jaundiced",
+      "ipa": "/ˈdʒɔːndɪst/",
+      "pos": "adjective",
+      "meaning": "negative or distrustful because of past experience",
+      "zh": "有偏见的；持怀疑态度的",
+      "context": "Coverage recalled that Lutnick had once promised to take a distrustful view of China.",
+      "example": "After three failed transformations, staff take a jaundiced view of any new restructuring plan."
+    },
+    {
+      "word": "vigilant",
+      "ipa": "/ˈvɪdʒɪlənt/",
+      "pos": "adjective",
+      "meaning": "watchful and alert to possible danger or problems",
+      "zh": "警惕的；警觉的",
+      "context": "Lutnick had pledged to stay watchful about Chinese attempts to obtain US technology.",
+      "example": "Compliance needs to stay vigilant as we expand into markets with weaker anti-bribery enforcement."
+    },
+    {
+      "word": "compliant",
+      "ipa": "/kəmˈplaɪənt/",
+      "pos": "adjective",
+      "meaning": "acting in accordance with rules, laws or standards",
+      "zh": "合规的",
+      "context": "The Singapore firm insisted it was a law-abiding company that followed the rules.",
+      "example": "Before the IPO, every subsidiary must be fully compliant with the new data-privacy rules."
+    },
+    {
+      "word": "aftermath",
+      "ipa": "/ˈɑːftəmæθ/",
+      "pos": "noun",
+      "meaning": "the period and consequences following a damaging or shocking event",
+      "zh": "余波；后果",
+      "context": "The story was framed around the administration's response after Huang stepped down.",
+      "example": "In the aftermath of the recall, the brand spent two years rebuilding trust with retailers."
+    },
+    {
+      "word": "reeling",
+      "ipa": "/ˈriːlɪŋ/",
+      "pos": "adjective",
+      "meaning": "shocked and struggling to recover from a sudden blow",
+      "zh": "（因打击）不知所措的；踉跄的",
+      "context": "Advisers were described as still shaken after Huang's sudden resignation.",
+      "example": "The sales team is still reeling from losing its two largest accounts in the same quarter."
+    },
+    {
+      "word": "rift",
+      "ipa": "/rɪft/",
+      "pos": "noun",
+      "meaning": "a serious break in a relationship between people or groups",
+      "zh": "裂痕；分歧",
+      "context": "The dispute was presented as exposing a split inside the president's cabinet.",
+      "example": "The rift between the founders became public when one of them voted against the budget."
+    },
+    {
+      "word": "grill",
+      "ipa": "/ɡrɪl/",
+      "pos": "verb",
+      "meaning": "to question someone intensely and at length",
+      "zh": "盘问；严加追问",
+      "context": "Lawmakers were expected to question Lutnick hard about how Commerce handled the firm.",
+      "example": "The investment committee grilled us on our churn assumptions for nearly an hour."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "have the pen",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to hold the authority to draft or make the final decision on something",
+      "zh": "拥有最终决定权；执笔负责",
+      "context": "Bessent said Commerce's export bureau was the agency that actually controls the listing decision.",
+      "example": "Legal has the pen on the contract, so send your comments to them rather than editing the draft yourself."
+    },
+    {
+      "phrase": "the blame game",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a situation where people keep accusing each other instead of solving a problem",
+      "zh": "互相推诿；相互指责",
+      "context": "Commentators described officials trading accusations in public over who let the chips through.",
+      "example": "Once the launch slipped, the steering committee descended into the blame game instead of fixing the plan."
+    },
+    {
+      "phrase": "vouch for",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to say that you believe someone or something is reliable or honest",
+      "zh": "为……担保；担保……可靠",
+      "context": "An activist short-seller alleged that Nvidia had spoken up for the Singapore firm's reliability.",
+      "example": "I can vouch for her team; they delivered the Asia integration on time and under budget."
+    },
+    {
+      "phrase": "bring something into the open",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to make a hidden disagreement or problem publicly known",
+      "zh": "公开（矛盾、问题）",
+      "context": "The episode turned a private cabinet dispute into a public one.",
+      "example": "The employee survey brought into the open how frustrated middle managers are with the new structure."
+    },
+    {
+      "phrase": "at one's disposal",
+      "ipa": "",
+      "pos": "prepositional phrase",
+      "meaning": "available for someone to use whenever they need",
+      "zh": "可供某人支配",
+      "context": "The Senate committee chair warned he would use every tool available to make witnesses appear.",
+      "example": "With the full data team at our disposal, we can rebuild the pricing model in two weeks."
+    }
+  ]
+}
