@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-15",
+  "added": "2026-11-16",
+  "show": "CBS NEWS",
+  "title": "Ground stop proves \"we have to get off old network,\" Transportation Secretary Sean Duffy says",
+  "url": "https://www.cbsnews.com/video/ground-stop-proves-we-have-to-get-off-old-network-transportation-secretary-sean-duffy-says/",
+  "youtubeId": "Pnli_EJXtSE",
+  "duration": "9 min",
+  "topic": "Policy · Aviation Infrastructure",
+  "summary": "On Face the Nation, Margaret Brennan presses Transportation Secretary Sean Duffy on Friday's nationwide FAA ground stop, which cancelled well over a thousand flights and left aircraft and crews scattered across the country. Duffy traces the failure to work by contractor L3Harris on a router and an aging copper telecom line in Arkansas, rejects a union's account of what went wrong, and argues the episode shows the FAA must abandon a decades-old network. Brennan challenges him with a GAO warning about speed versus cost and Democrats' claim that most of the money already approved sits unspent, while Duffy insists the funds are committed to radar and radio contracts and confirms he wants about $50 billion in total from Congress.",
+  "focus": "Shadow Duffy's early explanation of why planes and crews are stranded and how airlines must carefully plan the restart, then the fast funding exchange near the end where he distinguishes money that is committed from money that is spent, which is great practice for numbers and contract language.",
+  "vocab": [
+    {
+      "word": "choreograph",
+      "ipa": "/ˈkɒrɪəɡrɑːf/",
+      "pos": "verb",
+      "meaning": "to plan and coordinate a complex set of actions so they happen in the right order",
+      "zh": "精心编排；统筹协调",
+      "context": "Duffy explained that airlines need time to carefully coordinate getting planes and crews back into normal service.",
+      "example": "The integration office choreographed the system cutover so that no customer region went dark at the same time."
+    },
+    {
+      "word": "decommission",
+      "ipa": "/ˌdiːkəˈmɪʃn/",
+      "pos": "verb",
+      "meaning": "to officially take equipment or a facility out of service",
+      "zh": "使退役；停止使用",
+      "context": "Duffy said the old copper line at the Arkansas site was due to be retired and replaced with fibre.",
+      "example": "We recommend decommissioning the two legacy data centres once the cloud migration passes its final stress test."
+    },
+    {
+      "word": "underinvested",
+      "ipa": "/ˌʌndərɪnˈvestɪd/",
+      "pos": "adjective",
+      "meaning": "having received less money or resources than needed over time",
+      "zh": "投资不足的",
+      "context": "Duffy argued that air traffic control infrastructure has gone without adequate funding for years.",
+      "example": "The diligence team flagged the target's IT stack as badly underinvested, so we built a catch-up capex line into the model."
+    },
+    {
+      "word": "obligate",
+      "ipa": "/ˈɒblɪɡeɪt/",
+      "pos": "verb",
+      "meaning": "(of public money) to formally commit funds to a specific contract or purpose, even if not yet paid out",
+      "zh": "（资金）指定用途、承诺拨付",
+      "context": "Duffy pushed back on claims of unspent money by saying the funds were already committed to radar and radio contracts.",
+      "example": "Most of the grant has been obligated to vendors, but actual cash outflows will not peak until the second half of next year."
+    },
+    {
+      "word": "reprogramming",
+      "ipa": "/riːˈprəʊɡræmɪŋ/",
+      "pos": "noun",
+      "meaning": "moving budgeted money from one use to another within the same funding",
+      "zh": "（预算）资金调拨、重新分配",
+      "context": "Brennan asked whether shifting existing funds to other priorities could cover the FAA's needs.",
+      "example": "Rather than request new budget, the CFO proposed a reprogramming of unused marketing funds into the pricing project."
+    },
+    {
+      "word": "flood",
+      "ipa": "/flʌd/",
+      "pos": "verb",
+      "meaning": "to overwhelm something with far more of something than it can handle",
+      "zh": "使充斥；使不堪重负",
+      "context": "Duffy described faulty data spreading into the system and overwhelming the FAA's network.",
+      "example": "When the promotion went live, orders flooded the call centre and service levels collapsed within an hour."
+    },
+    {
+      "word": "airspace",
+      "ipa": "/ˈeəspeɪs/",
+      "pos": "noun",
+      "meaning": "the area of the sky above a country or region that is controlled for air travel",
+      "zh": "空域",
+      "context": "Duffy said some delays persisted in parts of the controlled sky even as flights resumed.",
+      "example": "Airline clients asked us to model the revenue hit if regional airspace closures lasted more than a week."
+    },
+    {
+      "word": "lion's share",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "the largest part of something",
+      "zh": "最大份额；大头",
+      "context": "Brennan cited critics who said most of the previously approved money had not been spent.",
+      "example": "The top three accounts generate the lion's share of profit, so any churn there would hit margins hard."
+    },
+    {
+      "word": "off the shelf",
+      "ipa": "",
+      "pos": "adjective / adverb phrase",
+      "meaning": "ready-made and available to buy immediately, not custom-built",
+      "zh": "现成的；成品的",
+      "context": "Duffy said radar systems cannot simply be bought ready-made, which is why delivery takes time.",
+      "example": "An off-the-shelf CRM will cover eighty percent of their needs at a fraction of the cost of a bespoke build."
+    },
+    {
+      "word": "out of position",
+      "ipa": "",
+      "pos": "adjective phrase",
+      "meaning": "not in the place where it needs to be to work properly",
+      "zh": "不在应在的位置；调度错位",
+      "context": "Duffy noted that after the shutdown many planes and crews were stranded in the wrong cities.",
+      "example": "After the warehouse outage, inventory was badly out of position, with surplus in the east and stockouts in the west."
+    },
+    {
+      "word": "without incident",
+      "ipa": "",
+      "pos": "adverb phrase",
+      "meaning": "smoothly, with no problems or accidents",
+      "zh": "顺利地；未出意外",
+      "context": "Duffy said similar daytime upgrades at remote sites had been done many times with no trouble.",
+      "example": "The first two waves of the ERP rollout went live without incident, which gave the board confidence to accelerate."
+    },
+    {
+      "word": "switch over",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to change from one system or method to another",
+      "zh": "切换；转换",
+      "context": "Duffy used it when describing how hundreds of radios and copper lines had been moved to new technology.",
+      "example": "We plan to switch over the European entities to the new billing platform at quarter-end to keep reporting clean."
+    },
+    {
+      "word": "caught off guard",
+      "ipa": "",
+      "pos": "adjective phrase",
+      "meaning": "surprised by something you were not prepared for",
+      "zh": "措手不及",
+      "context": "Brennan asked whether the FAA had been surprised by the failure.",
+      "example": "Management was caught off guard by the activist's stake, so we drafted a response plan over the weekend."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "well on the way",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "making good progress towards a goal",
+      "zh": "进展顺利；即将达成",
+      "context": "Duffy said recovery from the disruption was progressing and full schedules would soon return.",
+      "example": "With three of five plants converted, we are well on the way to the cost-reduction target."
+    },
+    {
+      "phrase": "make the case",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to argue persuasively for something",
+      "zh": "陈述理由；论证必要性",
+      "context": "Duffy said he was trying to persuade Congress and the public that a new network was needed.",
+      "example": "To make the case for the acquisition, we need hard numbers on revenue synergies, not just strategic fit."
+    },
+    {
+      "phrase": "at the risk of",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "while accepting the possibility of a negative outcome",
+      "zh": "冒着……的风险",
+      "context": "Brennan summarised a GAO finding that the FAA was moving fast while accepting uncertainty over costs.",
+      "example": "They pushed the launch forward at the risk of a weaker product, betting that being first mattered more."
+    },
+    {
+      "phrase": "take the extraordinary step of",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to do something unusual and drastic, often as a last resort",
+      "zh": "采取非常措施",
+      "context": "Duffy framed halting all air traffic as a rare measure used only when safety demanded it.",
+      "example": "The board took the extraordinary step of suspending guidance until the audit was complete."
+    }
+  ]
+}
