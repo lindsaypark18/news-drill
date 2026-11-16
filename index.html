@@ -169,7 +169,7 @@ async function mountPlayer(){
   try{await loadYT()}catch(e){showPlayerError();return}
   if(!$("#ytmount")) return;
   S.yt=new YT.Player("ytmount",{
-    host:"https://www.youtube-nocookie.com",
+    host:"https://www.youtube.com",
     videoId:L.youtubeId,
     playerVars:{cc_load_policy:1,cc_lang_pref:"en",hl:"en",rel:0,playsinline:1,modestbranding:1},
     events:{
