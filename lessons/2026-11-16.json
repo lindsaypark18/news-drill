@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-16",
+  "added": "2026-11-17",
+  "show": "BLOOMBERG",
+  "title": "Fed's Warsh Says Staff Are Sketching Out AI Contingencies",
+  "url": "https://www.youtube.com/watch?v=Je9EHM1-lOY",
+  "youtubeId": "Je9EHM1-lOY",
+  "duration": "",
+  "topic": "Economy · Fed & AI",
+  "summary": "Opening the San Francisco Fed's Productivity and Jobs Task Force, Fed Chair Kevin Warsh calls super intelligence the most transformative force of his lifetime and argues, drawing on growth theory, that it could automate the very process of generating new ideas, while insisting humans must remain the ones making final decisions. He says the Fed will neither cheer nor resist the technology but will plan for it, and he lays out three staff scenarios that he stresses are illustrations rather than forecasts. In the first the gains are widely shared and employment stays strong, in the second growth is fast but workers are displaced and unemployment rises, and in the third AI disappoints, valuations fall and the economy slows before recovering without the hoped-for productivity boost.",
+  "focus": "Shadow the passage where Warsh walks through the three staff scenarios one by one, since each follows the same clear structure of growth, jobs and outcome, and then his short explanation of why the Fed is doing contingency planning rather than forecasting, which is ideal practice for measured, hedged policy language.",
+  "vocab": [
+    {
+      "word": "fleeting",
+      "ipa": "/ˈfliːtɪŋ/",
+      "pos": "adjective",
+      "meaning": "lasting only a very short time",
+      "zh": "转瞬即逝的；短暂的",
+      "context": "Warsh said the new task forces are meant to look beyond short-lived monthly data points and focus on deeper trends.",
+      "example": "We should not reprice the whole portfolio on the back of a fleeting dip in one quarter's demand."
+    },
+    {
+      "word": "conjuncture",
+      "ipa": "/kənˈdʒʌŋktʃə/",
+      "pos": "noun",
+      "meaning": "a particular combination of events or circumstances, especially a critical moment",
+      "zh": "（关键的）时局；局势交汇点",
+      "context": "He described the present as a pivotal moment in which the economy and technology are changing at the same time.",
+      "example": "At this conjuncture of rising rates and slowing demand, the board needs a clear view on which units to fund."
+    },
+    {
+      "word": "stylized",
+      "ipa": "/ˈstaɪlaɪzd/",
+      "pos": "adjective",
+      "meaning": "simplified to show only the main features, not every real detail",
+      "zh": "简化的；程式化的",
+      "context": "Warsh described the economic models he drew on as simplified frameworks that capture the big picture.",
+      "example": "This is a stylized cost curve, so treat the numbers as directional rather than precise."
+    },
+    {
+      "word": "endogenous",
+      "ipa": "/enˈdɒdʒənəs/",
+      "pos": "adjective",
+      "meaning": "coming from inside a system rather than from outside it",
+      "zh": "内生的",
+      "context": "He referred to the school of growth theory in which new ideas, produced within the economy, drive long-run prosperity.",
+      "example": "The client's margin squeeze is largely endogenous, driven by its own pricing decisions rather than the market."
+    },
+    {
+      "word": "nonrival",
+      "ipa": "/ˌnɒnˈraɪvl/",
+      "pos": "adjective",
+      "meaning": "able to be used by many people at once without being used up",
+      "zh": "非竞争性的（可同时被多人使用）",
+      "context": "Warsh explained that ideas are expensive to discover but, once found, can be shared by everyone at almost no cost.",
+      "example": "Because software is nonrival, the marginal cost of serving one more customer is close to zero."
+    },
+    {
+      "word": "taper",
+      "ipa": "/ˈteɪpə/",
+      "pos": "verb",
+      "meaning": "to gradually become smaller or weaker",
+      "zh": "逐渐减弱；逐步缩减",
+      "context": "One of his open questions was when the productivity gains from AI might start to fade.",
+      "example": "We expect cost savings to taper after year two, once the easy automation wins are captured."
+    },
+    {
+      "word": "impartial",
+      "ipa": "/ɪmˈpɑːʃl/",
+      "pos": "adjective",
+      "meaning": "fair and not favouring any side",
+      "zh": "公正的；不偏不倚的",
+      "context": "Warsh joked that he is not entirely neutral, admitting he wants America to lead in the technology.",
+      "example": "We brought in an impartial third party to run the vendor evaluation so no business unit could steer it."
+    },
+    {
+      "word": "humble",
+      "ipa": "/ˈhʌmbl/",
+      "pos": "adjective",
+      "meaning": "modest; not claiming to be very important",
+      "zh": "谦逊的；不起眼的",
+      "context": "He called the Fed's role a modest one, focused on asking the right questions rather than predicting the future.",
+      "example": "Our ask is humble: a three-month pilot in one region before any wider rollout."
+    },
+    {
+      "word": "contingency",
+      "ipa": "/kənˈtɪndʒənsi/",
+      "pos": "noun",
+      "meaning": "a possible future event that you prepare for in case it happens",
+      "zh": "意外情况；应急预案",
+      "context": "Warsh said Fed staff are preparing for several possible AI outcomes instead of betting on one forecast.",
+      "example": "The integration plan includes a contingency for losing key engineers in the first six months."
+    },
+    {
+      "word": "decider",
+      "ipa": "/dɪˈsaɪdə/",
+      "pos": "noun",
+      "meaning": "the person who makes the final decision",
+      "zh": "决策者；拍板的人",
+      "context": "He stressed that however capable the technology becomes, people must remain the ones who make the final calls.",
+      "example": "The steering committee can advise, but the CFO is the decider on capital allocation."
+    },
+    {
+      "word": "secular stagnation",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a long-lasting period of weak economic growth, not caused by the normal business cycle",
+      "zh": "长期停滞",
+      "context": "Warsh mentioned the long-running worry that growth has slowed because good ideas are becoming harder to find.",
+      "example": "If the sector is in secular stagnation, cost cutting alone will not restore the growth story investors want."
+    },
+    {
+      "word": "general-purpose technology",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a technology that spreads across the whole economy and changes many industries, like electricity",
+      "zh": "通用技术",
+      "context": "He compared super intelligence to earlier breakthroughs such as electricity and the engine that transformed every sector.",
+      "example": "Treat generative AI as a general-purpose technology, so the question is not whether to adopt it but where first."
+    },
+    {
+      "word": "total factor productivity",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "the part of output growth not explained by more labour or capital, often seen as a measure of innovation and efficiency",
+      "zh": "全要素生产率",
+      "context": "Warsh listed how AI might change this measure of efficiency as one of the key questions for the task force.",
+      "example": "The plant added headcount and machines, but total factor productivity barely moved, so the process itself is the problem."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "snap inspection",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a check made suddenly, without warning",
+      "zh": "突击检查",
+      "context": "Warsh opened with a joke that his first visit to a regional Reserve Bank as chair was a surprise inspection.",
+      "example": "The new COO likes to do snap inspections of the warehouses rather than rely on monthly reports."
+    },
+    {
+      "phrase": "team sport",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "an activity that only succeeds when people work together",
+      "zh": "需要团队协作的事",
+      "context": "He thanked the organisers and described central banking as something no one can do alone.",
+      "example": "Post-merger integration is a team sport, so we need finance, HR and IT in the room from day one."
+    },
+    {
+      "phrase": "fit for purpose",
+      "ipa": "",
+      "pos": "adjective phrase",
+      "meaning": "good enough and suitable for the job it is meant to do",
+      "zh": "适合用途的；符合需要的",
+      "context": "Warsh used the idea as part of his motto for making sure the Fed is suited to the challenges ahead.",
+      "example": "The legacy ERP is no longer fit for purpose for a company operating in twelve markets."
+    },
+    {
+      "phrase": "neither boom nor bust",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "a period that is neither very strong nor very weak economically",
+      "zh": "不温不火；既不繁荣也不萧条",
+      "context": "He recalled the Bay Area of the late 1980s as a calm period between tech cycles.",
+      "example": "The market is neither boom nor bust right now, which is a good window to negotiate long-term supplier contracts."
+    },
+    {
+      "phrase": "bad actors",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "people or groups who behave dishonestly or try to cause harm",
+      "zh": "不法分子；居心不良者",
+      "context": "Warsh named the possibility of the technology being misused by harmful players as one of the risks.",
+      "example": "Tighter onboarding checks will keep bad actors off the platform without slowing down legitimate sellers."
+    }
+  ]
+}
