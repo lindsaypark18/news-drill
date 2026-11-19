@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-18",
+  "added": "2026-11-19",
+  "show": "CNBC",
+  "title": "Fed Governor Waller: Need to get a little more aggressive in our rate hikes to tame inflation",
+  "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+  "youtubeId": "SuzARBoNncQ",
+  "duration": "",
+  "topic": "Economy · Fed & inflation",
+  "summary": "On CNBC's Squawk Box, Fed Governor Christopher Waller tells Steve Liesman he is very worried that inflation is moving the wrong way and spreading beyond energy as businesses pass higher costs on to customers. He argues the Fed should first reverse the three insurance cuts it made in 2025 and may need to go further, and says a half-point increase at the December meeting would be better than a quarter point plus a hint about January. His aim, he explains, is to jolt households and firms out of treating roughly three per cent inflation as the new normal, even though markets had mostly expected a smaller move.",
+  "focus": "Shadow the stretch where Waller explains why he would rather do a single half-point hike in December than a smaller move with a signal about January, and the short passage where he describes inflation spreading beyond energy, since both model calm, conditional policy reasoning.",
+  "vocab": [
+    {
+      "word": "pass-through",
+      "ipa": "/ˈpɑːs θruː/",
+      "pos": "noun",
+      "meaning": "the degree to which a business's higher costs are passed on to customers as higher prices",
+      "zh": "成本转嫁；价格传导",
+      "context": "Waller said companies pushing their rising costs onto shoppers is a key reason he wants the Fed to act more forcefully.",
+      "example": "Our pricing review found near-full pass-through of freight costs in the grocery segment but almost none in apparel."
+    },
+    {
+      "word": "anchor",
+      "ipa": "/ˈæŋkə/",
+      "pos": "verb",
+      "meaning": "to fix expectations or beliefs firmly around a particular level",
+      "zh": "锚定（预期）",
+      "context": "He worried that the public has started to treat roughly three per cent inflation as normal and build its plans around that figure.",
+      "example": "If the board anchors on last year's 20% growth, any realistic target will look like a failure."
+    },
+    {
+      "word": "reignite",
+      "ipa": "/ˌriːɪɡˈnaɪt/",
+      "pos": "verb",
+      "meaning": "to cause something that had calmed down to start again, often more strongly",
+      "zh": "重新点燃；再度引发",
+      "context": "The coverage explained that the conflict involving Iran and shipping limits in the Strait of Hormuz pushed energy costs up and brought inflation back.",
+      "example": "A single price cut by the new entrant could reignite the discounting war we spent two years ending."
+    },
+    {
+      "word": "linger",
+      "ipa": "/ˈlɪŋɡə/",
+      "pos": "verb",
+      "meaning": "to continue to exist or have an effect for longer than expected",
+      "zh": "持续存在；挥之不去",
+      "context": "The report noted that the effects of earlier tariffs have stayed in the system, helping keep most inflation measures above three per cent.",
+      "example": "Integration costs from the acquisition are likely to linger well into the second year."
+    },
+    {
+      "word": "seasonal",
+      "ipa": "/ˈsiːzənl/",
+      "pos": "adjective",
+      "meaning": "happening or changing at a particular time of year in a regular pattern",
+      "zh": "季节性的",
+      "context": "Petrol prices were described as easing because of normal autumn patterns, though still higher than before the war.",
+      "example": "Strip out the seasonal uplift from Black Friday before you compare November with October."
+    },
+    {
+      "word": "gradual",
+      "ipa": "/ˈɡrædʒuəl/",
+      "pos": "adjective",
+      "meaning": "happening slowly and in small steps rather than suddenly",
+      "zh": "逐步的；渐进的",
+      "context": "Some other Fed officials were reported to prefer a slower, step-by-step series of rate increases rather than a big move.",
+      "example": "We recommend a gradual price increase over three quarters to limit churn among smaller accounts."
+    },
+    {
+      "word": "pre-war",
+      "ipa": "/ˌpriːˈwɔː/",
+      "pos": "adjective",
+      "meaning": "existing or happening before a particular war started",
+      "zh": "战前的",
+      "context": "Fuel costs were compared with where they stood before the conflict began, and were still above that level.",
+      "example": "Shipping rates on the Asia–Europe lane have still not returned to pre-war levels."
+    },
+    {
+      "word": "shock",
+      "ipa": "/ʃɒk/",
+      "pos": "verb",
+      "meaning": "to surprise people suddenly and strongly so that they change their view or behaviour",
+      "zh": "使震惊；（以出人意料之举）震动",
+      "context": "Waller argued that a bigger-than-expected move might be needed to jolt people out of assuming inflation will stay high.",
+      "example": "Sometimes you have to shock the organisation with a hard deadline before people take the restructuring seriously."
+    },
+    {
+      "word": "basis point",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "one hundredth of one percentage point, used to describe changes in interest rates or yields",
+      "zh": "基点（0.01%）",
+      "context": "Waller talked about raising rates by fifty of these units in December instead of the twenty-five that markets expected.",
+      "example": "Refinancing now would save the client about 80 basis points on its term loan."
+    },
+    {
+      "word": "policy rate",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "the main short-term interest rate that a central bank sets to steer the economy",
+      "zh": "政策利率",
+      "context": "He said the level the Fed's key rate had been at was clearly not strong enough to bring prices down.",
+      "example": "The client's FX hedging strategy assumes the central bank's policy rate peaks early next year."
+    },
+    {
+      "word": "insurance cut",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "an interest-rate reduction made as a precaution against a possible slowdown, not because the economy is already weak",
+      "zh": "预防性降息",
+      "context": "Waller said the Fed first needs to reverse the precautionary cuts it made in 2025 before going any further.",
+      "example": "Management treated the hiring freeze as an insurance cut to costs in case the second-half order book weakened."
+    },
+    {
+      "word": "forward guidance",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a central bank's public signals about where interest rates are likely to go in future",
+      "zh": "前瞻性指引",
+      "context": "The coverage noted that Fed Chair Warsh dislikes signalling future moves, and Waller said he would rather act now than hint at a January increase.",
+      "example": "Investors punished the stock because the CFO offered no forward guidance on margins for next year."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "price in",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "(of financial markets) to reflect an expected future event in current prices before it happens",
+      "zh": "（市场）提前消化；计入价格",
+      "context": "Futures markets were described as already assuming a quarter-point increase in December was highly likely.",
+      "example": "The share price already prices in a successful product launch, so there is little upside left."
+    },
+    {
+      "phrase": "run hot",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to stay above the normal or target level, especially of inflation or an economy",
+      "zh": "（通胀/经济）持续偏高；过热运行",
+      "context": "The reporting described inflation as staying above the Fed's goal for an extended period.",
+      "example": "Labour costs have been running hot in the Gulf region, so we have budgeted a 9% wage uplift."
+    },
+    {
+      "phrase": "headed in the wrong direction",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "getting worse instead of better",
+      "zh": "朝错误的方向发展；每况愈下",
+      "context": "Waller used this idea to describe inflation moving further away from the Fed's target and spreading beyond energy.",
+      "example": "Customer satisfaction scores are headed in the wrong direction, and the churn data will follow."
+    },
+    {
+      "phrase": "take back",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to reverse an earlier action or decision",
+      "zh": "收回；撤销（此前的举措）",
+      "context": "He said the Fed must undo the three rate cuts from 2025, and possibly go further than that.",
+      "example": "If input costs fall next year, we may have to take back part of this price increase to stay competitive."
+    }
+  ]
+}
