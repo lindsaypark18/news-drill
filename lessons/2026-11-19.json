@@ -1,0 +1,179 @@
+{
+  "date": "2026-11-19",
+  "added": "2026-11-20",
+  "show": "PBS NEWS HOUR",
+  "title": "Anthropic's trillion-dollar valuation tests its promise to develop AI responsibly",
+  "url": "https://www.pbs.org/newshour/show/anthropics-trillion-dollar-valuation-tests-its-promise-to-develop-ai-responsibly",
+  "youtubeId": "",
+  "pbsPlayerId": "3115592675",
+  "duration": "",
+  "topic": "Markets · AI IPO",
+  "summary": "William Brangham reports that Anthropic's record IPO, priced at $83 a share, jumped about 30 percent at the open before settling near $97, valuing the company above a trillion dollars, and frames the listing as the first real market test of the AI boom. The Information's Jessica Lessin explains that the money will mostly fund costly computing power, that investors are betting on fast revenue growth and better efficiency than rivals, and that one company's success should not be read as proof the whole sector is sound. They then weigh whether shareholder pressure can coexist with Dario Amodei's safety pledges, with Lessin noting the company's trustee-led governance offers some protection but arguing the hype around AI still outruns what it actually delivers.",
+  "focus": "Shadow Brangham's numbers-heavy opening on the share price and valuation for clear stress on figures, then Lessin's answer on whether the IPO proves the AI boom is healthy, which models measured, hedged analyst language.",
+  "vocab": [
+    {
+      "word": "blockbuster",
+      "ipa": "/ˈblɒkbʌstə/",
+      "pos": "adjective",
+      "meaning": "extremely large or successful, attracting huge attention",
+      "zh": "轰动的；巨额的",
+      "context": "Nawaz opened the segment by calling Anthropic's first day of trading a record-setting, headline-grabbing event.",
+      "example": "The client's blockbuster acquisition doubled its market share overnight but left integration teams badly stretched."
+    },
+    {
+      "word": "debut",
+      "ipa": "/ˈdeɪbjuː/",
+      "pos": "noun",
+      "meaning": "the first public appearance of a company, product or person; for a company, its first day of trading",
+      "zh": "首次亮相；（股票）首日上市",
+      "context": "The segment used the word for the moment Anthropic's shares started trading on the Nasdaq.",
+      "example": "A strong market debut gives management currency for acquisitions, but it also sets expectations that every quarter must meet."
+    },
+    {
+      "word": "reiterate",
+      "ipa": "/riˈɪtəreɪt/",
+      "pos": "verb",
+      "meaning": "to say something again, usually to stress that you still mean it",
+      "zh": "重申；反复强调",
+      "context": "Brangham noted that the CEO had restated his pledge to build AI responsibly ahead of the listing.",
+      "example": "On the earnings call, the CFO reiterated full-year guidance to calm investors after a weak first quarter."
+    },
+    {
+      "word": "unequivocally",
+      "ipa": "/ˌʌnɪˈkwɪvəkəli/",
+      "pos": "adverb",
+      "meaning": "in a completely clear way that leaves no doubt",
+      "zh": "毫不含糊地；明确地",
+      "context": "In the clip, Amodei said he wanted to state his safety commitment in terms that could not be misread.",
+      "example": "The steering committee unequivocally backed the phased rollout, which ended weeks of internal debate."
+    },
+    {
+      "word": "pace",
+      "ipa": "/peɪs/",
+      "pos": "verb",
+      "meaning": "to control the speed of an activity so it does not go faster than is wise",
+      "zh": "控制……的节奏；把握进度",
+      "context": "Amodei said the company would slow or time the training and release of its models until it was sure they were safe.",
+      "example": "We recommend pacing the store closures over eighteen months so the supply chain can adjust."
+    },
+    {
+      "word": "extrapolate",
+      "ipa": "/ɪkˈstræpəleɪt/",
+      "pos": "verb",
+      "meaning": "to use known facts about one case or period to guess about a wider situation or the future",
+      "zh": "推断；外推",
+      "context": "Lessin warned against drawing conclusions about the whole AI industry from one company's results.",
+      "example": "It is risky to extrapolate a pilot region's growth to the national market, where competitors are far stronger."
+    },
+    {
+      "word": "singularly",
+      "ipa": "/ˈsɪŋɡjələli/",
+      "pos": "adverb",
+      "meaning": "in a way that is remarkable or unlike anything else",
+      "zh": "非常；独特地",
+      "context": "Lessin described Anthropic as a company that is unusual in many respects, which makes comparisons hard.",
+      "example": "The founder was singularly focused on unit economics, even when the board pushed for faster expansion."
+    },
+    {
+      "word": "panacea",
+      "ipa": "/ˌpænəˈsiːə/",
+      "pos": "noun",
+      "meaning": "a solution that is supposed to solve every problem",
+      "zh": "万灵药；灵丹妙药",
+      "context": "Lessin said big AI labs have a reason to present the technology as a cure-all, even though progress is uneven.",
+      "example": "Automation is not a panacea for margin pressure if the underlying pricing model is broken."
+    },
+    {
+      "word": "square",
+      "ipa": "/skweə/",
+      "pos": "verb",
+      "meaning": "to make two things that seem to conflict fit together; to reconcile",
+      "zh": "使一致；调和",
+      "context": "Brangham asked how the company could reconcile its duty to shareholders with its safety promises.",
+      "example": "Management could not square its premium positioning with the steep discounts the sales team kept offering."
+    },
+    {
+      "word": "trustee",
+      "ipa": "/trʌˈstiː/",
+      "pos": "noun",
+      "meaning": "a person given legal power to manage something for the benefit of others",
+      "zh": "受托人；托管人",
+      "context": "Lessin explained that a group of independent overseers has the power to choose the company's board.",
+      "example": "The family business appointed an outside trustee to oversee the holding company during the succession."
+    },
+    {
+      "word": "compute",
+      "ipa": "/kəmˈpjuːt/",
+      "pos": "noun",
+      "meaning": "computing power, especially the chips and data centres needed to train and run AI",
+      "zh": "算力",
+      "context": "Lessin said most of the IPO money will go towards paying for the enormous processing power AI models need.",
+      "example": "Securing long-term compute contracts has become a board-level priority for every software company we advise."
+    },
+    {
+      "word": "narrative",
+      "ipa": "/ˈnærətɪv/",
+      "pos": "noun",
+      "meaning": "the story or explanation that people widely accept about a situation",
+      "zh": "叙事；说法",
+      "context": "Lessin argued that the popular story about AI has moved faster than what the technology can actually deliver.",
+      "example": "The equity story needs a clear narrative about why the margin dip is temporary."
+    },
+    {
+      "word": "recursive",
+      "ipa": "/rɪˈkɜːsɪv/",
+      "pos": "adjective",
+      "meaning": "repeating by applying a process to its own results; in AI, a system improving itself",
+      "zh": "递归的；自我循环的",
+      "context": "Brangham asked whether AI systems that improve themselves are close, and Lessin said researchers disagree.",
+      "example": "The model creates a recursive loop in which each round of customer data sharpens the next pricing decision."
+    },
+    {
+      "word": "run amok",
+      "ipa": "",
+      "pos": "verb phrase",
+      "meaning": "to behave in a wild, uncontrolled and dangerous way",
+      "zh": "失控；横冲直撞",
+      "context": "Brangham referred to public fears of AI slipping out of human control.",
+      "example": "Without clear approval limits, discretionary spending can run amok across business units."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "answer to someone",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to be responsible to someone and have to explain your actions to them",
+      "zh": "向……负责；受……问责",
+      "context": "Brangham pointed out that as a public company, Anthropic's leaders now have to explain themselves to shareholders.",
+      "example": "Once the business is listed, the founders will answer to a board that is far less patient with long-term bets."
+    },
+    {
+      "phrase": "keep the party going",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to make a period of success, excitement or growth continue",
+      "zh": "让好势头延续下去",
+      "context": "Lessin used it to describe how the IPO money keeps investors and talent flowing into AI companies.",
+      "example": "The new product line kept the party going for another two years, but it masked the decline of the core business."
+    },
+    {
+      "phrase": "get ahead of reality",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "for expectations or a story to move faster than the actual facts justify",
+      "zh": "脱离实际；超前于现实",
+      "context": "Lessin said the hype around AI has outrun what the technology is really doing today.",
+      "example": "Analyst expectations have got ahead of reality, so even a solid quarter could trigger a sell-off."
+    },
+    {
+      "phrase": "carry through",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to continue to have an effect in a later period or situation",
+      "zh": "延续；贯彻到底",
+      "context": "Lessin said investors believe Anthropic's efficiency gains will continue to keep its costs down.",
+      "example": "We need to check whether the procurement savings carry through to the P&L or get absorbed by higher volumes."
+    }
+  ]
+}
