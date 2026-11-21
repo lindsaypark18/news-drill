@@ -1,0 +1,160 @@
+{
+  "date": "2026-11-20",
+  "added": "2026-11-21",
+  "show": "CNBC",
+  "title": "Without a recession, this is a correction not a bear market, says Ed Yardeni",
+  "url": "https://www.cnbc.com/video/2026/11/20/without-a-recession-this-is-a-correction-not-a-bear-market-says-ed-yardeni.html",
+  "youtubeId": "jvSpZhK9QfY",
+  "duration": "",
+  "topic": "Markets · AI stocks",
+  "summary": "On CNBC's Power Lunch, market veteran Ed Yardeni of Yardeni Research and UBS Global Wealth Management's David Lefkowitz react to the Friday selloff that pushed the S&P 500 into a correction and wiped out the Nasdaq's gains for 2026. Yardeni's core argument is that a drop of this kind only becomes a true bear market if the economy tips into recession, which he does not expect, so he treats the slide as a reset of overheated AI valuations rather than the end of the bull run. The discussion weighs the political and physical obstacles facing the AI buildout, the fading of Anthropic's IPO pop, and whether lower valuation multiples now make stocks attractive again.",
+  "focus": "Shadow Yardeni's opening explanation of why a correction without a recession is not a bear market, then the exchange where the guests weigh whether today's lower valuations are a reason to buy.",
+  "vocab": [
+    {
+      "word": "recession",
+      "ipa": "/rɪˈseʃn/",
+      "pos": "noun",
+      "meaning": "a period when the economy shrinks, usually for two quarters or more, with rising unemployment",
+      "zh": "经济衰退",
+      "context": "Yardeni made the absence of a recession the dividing line between a normal pullback and a lasting market slump.",
+      "example": "Our base case assumes no recession next year, but we stress-tested the plan against a 3% drop in demand."
+    },
+    {
+      "word": "bear market",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a market in which prices have fallen 20% or more from a recent peak and pessimism is widespread",
+      "zh": "熊市",
+      "context": "The segment turned on whether the AI-led slide would deepen into this kind of prolonged downturn.",
+      "example": "If we enter a bear market, the client's IPO window will almost certainly close until valuations recover."
+    },
+    {
+      "word": "constraint",
+      "ipa": "/kənˈstreɪnt/",
+      "pos": "noun",
+      "meaning": "a limit or restriction that stops something from growing or happening freely",
+      "zh": "约束；限制",
+      "context": "Financial, political and physical limits on the AI buildout were described as forces that could slow it without stopping it.",
+      "example": "Power availability, not capital, is now the binding constraint on the client's data-centre expansion."
+    },
+    {
+      "word": "adverse",
+      "ipa": "/ˈædvɜːs/",
+      "pos": "adjective",
+      "meaning": "harmful or unfavourable",
+      "zh": "不利的；有害的",
+      "context": "Yardeni argued that letting the AI bubble shrink gradually lowers the risk of harmful knock-on effects for the wider economy.",
+      "example": "We modelled the adverse scenario in which tariffs rise again and input costs jump by 15%."
+    },
+    {
+      "word": "deflate",
+      "ipa": "/dɪˈfleɪt/",
+      "pos": "verb",
+      "meaning": "to let air out of something; figuratively, to make inflated prices or expectations fall",
+      "zh": "（使）缩小；（使）泄气；挤出泡沫",
+      "context": "The idea of a bubble slowly losing air rather than popping ran through the discussion of AI stocks.",
+      "example": "The disappointing pilot results deflated the board's enthusiasm for a full rollout."
+    },
+    {
+      "word": "intraday",
+      "ipa": "/ˌɪntrəˈdeɪ/",
+      "pos": "adjective",
+      "meaning": "happening within a single trading day",
+      "zh": "日内的；盘中的",
+      "context": "The swings in Anthropic's shares, from an early high to a much lower close, were used to illustrate how fast sentiment turned.",
+      "example": "The stock hit an intraday low just before our client announced the acquisition."
+    },
+    {
+      "word": "consensus",
+      "ipa": "/kənˈsensəs/",
+      "pos": "noun",
+      "meaning": "the average view or forecast that most analysts share",
+      "zh": "一致预期；共识",
+      "context": "Yardeni contrasted Wall Street's average earnings forecasts with his own, lower estimates.",
+      "example": "Our revenue projection sits about 5% below consensus because we expect slower enterprise adoption."
+    },
+    {
+      "word": "imminent",
+      "ipa": "/ˈɪmɪnənt/",
+      "pos": "adjective",
+      "meaning": "about to happen very soon",
+      "zh": "即将发生的；迫在眉睫的",
+      "context": "The guests discussed whether the damage to the charts meant a deeper slump was about to begin, and suggested it did not.",
+      "example": "With a downgrade looking imminent, the CFO wants the refinancing closed this month."
+    },
+    {
+      "word": "reversal",
+      "ipa": "/rɪˈvɜːsl/",
+      "pos": "noun",
+      "meaning": "a change to the opposite direction",
+      "zh": "反转；逆转",
+      "context": "The market's turn from an early rally into steep losses was a key backdrop for the conversation.",
+      "example": "The sudden reversal in consumer demand forced us to rework the second-half forecast."
+    },
+    {
+      "word": "multiple",
+      "ipa": "/ˈmʌltɪpl/",
+      "pos": "noun",
+      "meaning": "a valuation ratio, such as share price divided by expected earnings",
+      "zh": "估值倍数；市盈率倍数",
+      "context": "Lower price-to-forward-earnings ratios were presented as evidence that stocks had become cheaper after the selloff.",
+      "example": "Comparable software deals have been priced at a lower revenue multiple since the rate hikes began."
+    },
+    {
+      "word": "short seller",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "an investor who profits by betting that a share price will fall",
+      "zh": "卖空者；做空者",
+      "context": "A critical report from a bearish investor about a chipmaker was listed among the latest political and corporate shocks to the AI trade.",
+      "example": "After the short seller's report came out, the client asked us to prepare a rapid response for investors."
+    },
+    {
+      "word": "panic selling",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a rush by many investors to sell at once out of fear, often pushing prices below fair value",
+      "zh": "恐慌性抛售",
+      "context": "Yardeni expected the fear-driven dumping of AI shares to calm down soon.",
+      "example": "Management should avoid any announcement that might trigger panic selling ahead of the restructuring."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "irrational exuberance",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "excessive, unjustified optimism that pushes prices or forecasts too high",
+      "zh": "非理性繁荣；过度乐观",
+      "context": "Yardeni used this famous expression to describe analysts' rosy long-range earnings forecasts.",
+      "example": "The steering committee worried that irrational exuberance about AI was inflating the business case."
+    },
+    {
+      "phrase": "speed bump",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a temporary obstacle that slows progress but does not stop it",
+      "zh": "（暂时的）小障碍；减速带",
+      "context": "Political shocks such as export controls and corporate scandals were framed as obstacles that slow the AI trade rather than end it.",
+      "example": "The regulatory review is a speed bump, not a deal-breaker, so we keep the closing date in Q2."
+    },
+    {
+      "phrase": "let the air out of",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to reduce hype or inflated value gradually rather than suddenly",
+      "zh": "慢慢挤出泡沫；给……降温",
+      "context": "Yardeni suggested that the selloff was letting the air out of the AI bubble in a relatively orderly way.",
+      "example": "The weak guidance let the air out of the sector's valuations before the IPO roadshow."
+    },
+    {
+      "phrase": "cautiously bullish",
+      "ipa": "",
+      "pos": "adjective phrase",
+      "meaning": "optimistic about future gains, but with reservations",
+      "zh": "谨慎乐观",
+      "context": "Yardeni kept a positive but guarded stance, maintaining his year-ahead index target despite the rout.",
+      "example": "We remain cautiously bullish on the Asia expansion, provided the pilot markets hit their margin targets."
+    }
+  ]
+}
