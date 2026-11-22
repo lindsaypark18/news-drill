@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-20-2",
+  "added": "2026-11-22",
+  "show": "CBS NEWS",
+  "title": "Anthropic IPO mints new billionaires as AI models advance at faster pace, study shows",
+  "url": "https://www.cbsnews.com/video/anthropic-ipo-mints-new-billionaires-as-new-ai-models-advance-at-faster-pace-study-shows/",
+  "youtubeId": "V3mWoae0uZ0",
+  "duration": "6 min",
+  "topic": "Tech · AI business",
+  "summary": "CBS News correspondent Jarred Hill looks at how Anthropic's record-setting stock market debut has turned its co-founders and many early employees into very wealthy people almost overnight. The report links that windfall to a new outside study suggesting Anthropic's models are improving roughly twice as fast as a year ago, partly because AI is now helping to build AI. Connor Leahy of the campaign group ControlAI then argues that this acceleration is dangerous and that governments need to step in and slow frontier labs down.",
+  "focus": "Shadow Hill's short explanation of what the new study found about the speed of Anthropic's progress, then Leahy's answer on why he thinks governments should rein in the frontier labs.",
+  "vocab": [
+    {
+      "word": "mint",
+      "ipa": "/mɪnt/",
+      "pos": "verb",
+      "meaning": "to create something new in large numbers, especially new rich people or new money",
+      "zh": "造就；大量产生（富豪等）",
+      "context": "The segment described the record listing as instantly turning a group of founders and early staff into billionaires.",
+      "example": "The software IPO is expected to mint dozens of millionaires among the client's early engineering hires."
+    },
+    {
+      "word": "windfall",
+      "ipa": "/ˈwɪndfɔːl/",
+      "pos": "noun",
+      "meaning": "a large, unexpected amount of money that someone receives",
+      "zh": "意外之财；横财",
+      "context": "The sudden jump in the value of employees' shares was framed as a huge financial gift arriving all at once.",
+      "example": "Management wants to use the tax windfall to pay down debt rather than fund another acquisition."
+    },
+    {
+      "word": "vest",
+      "ipa": "/vest/",
+      "pos": "verb",
+      "meaning": "(of shares or options) to become fully owned by an employee after a set period of time",
+      "zh": "（股权）归属；兑现",
+      "context": "The report touched on the fact that staff wealth depends on when their stock awards become theirs to sell.",
+      "example": "Most of the founders' equity won't vest until 2028, which helps keep the leadership team in place."
+    },
+    {
+      "word": "superintelligence",
+      "ipa": "/ˌsuːpərɪnˈtelɪdʒəns/",
+      "pos": "noun",
+      "meaning": "a hypothetical AI system that is far more capable than humans at almost every task",
+      "zh": "超级智能",
+      "context": "The guest argued that the race among labs is ultimately aimed at building machines smarter than any person.",
+      "example": "The scenario workshop asked executives how their business model would survive if superintelligence arrived within a decade."
+    },
+    {
+      "word": "reckless",
+      "ipa": "/ˈrekləs/",
+      "pos": "adjective",
+      "meaning": "acting without caring about danger or the possible results",
+      "zh": "鲁莽的；不计后果的",
+      "context": "The AI-safety campaigner characterised the speed of frontier development as dangerously careless.",
+      "example": "Expanding into five new markets at once would be reckless given the company's thin cash buffer."
+    },
+    {
+      "word": "unchecked",
+      "ipa": "/ʌnˈtʃekt/",
+      "pos": "adjective",
+      "meaning": "not controlled or limited by any rules or authority",
+      "zh": "不受控制的；不受约束的",
+      "context": "The worry raised was that AI progress is racing ahead without regulators or outside bodies able to slow it.",
+      "example": "If cost growth goes unchecked, the division will slip into losses by the third quarter."
+    },
+    {
+      "word": "trajectory",
+      "ipa": "/trəˈdʒektəri/",
+      "pos": "noun",
+      "meaning": "the path or direction in which something is developing over time",
+      "zh": "发展轨迹；走向",
+      "context": "The study was presented as evidence that the curve of AI capability is bending upward faster than expected.",
+      "example": "The client's revenue trajectory looks strong, but margins have been flat for three years."
+    },
+    {
+      "word": "guardrail",
+      "ipa": "/ˈɡɑːdreɪl/",
+      "pos": "noun",
+      "meaning": "a rule or limit designed to stop something from going wrong or causing harm",
+      "zh": "防护措施；约束规则",
+      "context": "Calls for stronger safety rules were framed as protective barriers that the industry still lacks.",
+      "example": "We recommend clear guardrails on discounting so the sales team can't erode pricing power."
+    },
+    {
+      "word": "alarmist",
+      "ipa": "/əˈlɑːmɪst/",
+      "pos": "adjective",
+      "meaning": "causing unnecessary fear by exaggerating a danger",
+      "zh": "危言耸听的",
+      "context": "The discussion acknowledged that warnings like the guest's are sometimes dismissed by critics as overblown.",
+      "example": "The board felt the first draft was too alarmist, so we reframed the risks with probabilities."
+    },
+    {
+      "word": "compounding",
+      "ipa": "/kəmˈpaʊndɪŋ/",
+      "pos": "adjective",
+      "meaning": "increasing at a growing rate because each gain builds on the last",
+      "zh": "复合增长的；层层叠加的",
+      "context": "The study's finding that AI tools help speed up AI research was explained as a self-reinforcing loop of gains.",
+      "example": "Small efficiency wins have a compounding effect when they are rolled out across forty plants."
+    },
+    {
+      "word": "caveat",
+      "ipa": "/ˈkæviæt/",
+      "pos": "noun",
+      "meaning": "a warning or condition that limits how something should be understood",
+      "zh": "附加说明；告诫",
+      "context": "The researchers' own warnings about the limits of their data were noted alongside the headline finding.",
+      "example": "One caveat: the survey only covered large enterprises, so the results may not apply to SMEs."
+    },
+    {
+      "word": "redact",
+      "ipa": "/rɪˈdækt/",
+      "pos": "verb",
+      "meaning": "to remove or hide sensitive parts of a document before it is shared",
+      "zh": "（对文件）删改；涂黑保密信息",
+      "context": "It was mentioned that the company held back some internal details, which limited how precise the outside review could be.",
+      "example": "Please redact client names from the case study before it goes into the proposal."
+    },
+    {
+      "word": "lucrative",
+      "ipa": "/ˈluːkrətɪv/",
+      "pos": "adjective",
+      "meaning": "producing a lot of money or profit",
+      "zh": "利润丰厚的；赚钱的",
+      "context": "The segment set the huge personal fortunes from the listing against the risks of the technology behind them.",
+      "example": "Enterprise licensing has become the most lucrative part of the business, ahead of consumer subscriptions."
+    },
+    {
+      "word": "trade-off",
+      "ipa": "/ˈtreɪd ɒf/",
+      "pos": "noun",
+      "meaning": "a balance between two things you want, where gaining more of one means accepting less of the other",
+      "zh": "权衡；取舍",
+      "context": "The interview weighed the economic rewards of moving fast against the safety cost of doing so.",
+      "example": "The key trade-off is between speed to market and the depth of testing we can do before launch."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "on paper",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "in theory or according to official figures, but not yet real or realised in cash",
+      "zh": "账面上；理论上",
+      "context": "The new fortunes were described as largely tied up in share value rather than money already in the bank.",
+      "example": "On paper the merger creates 300 million in synergies, but integration risk is high."
+    },
+    {
+      "phrase": "rein in",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to control or limit something that is moving too fast or getting out of hand",
+      "zh": "控制；约束",
+      "context": "The guest pressed for governments to step in and slow the pace of frontier AI labs.",
+      "example": "The new CFO's first priority is to rein in discretionary spending across the regions."
+    },
+    {
+      "phrase": "race to the bottom",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "a competition in which rivals keep lowering standards or safeguards to win",
+      "zh": "逐底竞争；恶性竞争",
+      "context": "Competition between AI labs was portrayed as pushing each one to cut corners on safety to stay ahead.",
+      "example": "If every carrier keeps cutting fares, the industry is in a race to the bottom on margins."
+    },
+    {
+      "phrase": "cash out",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to sell an asset, such as shares, in order to turn it into money",
+      "zh": "套现；变现",
+      "context": "Questions about whether newly rich staff will sell their shares and leave hung over the coverage.",
+      "example": "Several early investors are expected to cash out once the lock-up period ends."
+    }
+  ]
+}
