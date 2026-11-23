@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-20-3",
+  "added": "2026-11-23",
+  "show": "ABC NEWS",
+  "title": "Stocks plunge on Anthropic amid tech fears",
+  "url": "https://abcnews.com/video/138336518",
+  "youtubeId": "qzi_yrOxwxo",
+  "duration": "",
+  "topic": "Markets · AI stocks",
+  "summary": "ABC News correspondent Elizabeth Schulze reports on a steep Friday sell-off that came a day after Anthropic's record stock-market debut and pushed the Nasdaq below where it started the year. Chipmakers and other AI-infrastructure names fell hardest, Nvidia was also hurt by the sudden exit of its chief executive, and Anthropic itself gave back part of its first-day gains. Behind the drop are growing doubts about whether AI valuations and spending can be justified, sharpened by election results that suggest slower data-centre construction.",
+  "focus": "Shadow the opening lines where the size of the Nasdaq and S&P 500 drop is laid out, then the short explanation of why investors are questioning AI spending.",
+  "vocab": [
+    {
+      "word": "bruising",
+      "ipa": "/ˈbruːzɪŋ/",
+      "pos": "adjective",
+      "meaning": "painful and damaging, leaving lasting harm",
+      "zh": "惨烈的；令人受创的",
+      "context": "The coverage called Friday's drop in AI shares a painful, punishing sell-off for investors.",
+      "example": "After a bruising quarter of price cuts, the client asked us to rebuild its margin plan from scratch."
+    },
+    {
+      "word": "slump",
+      "ipa": "/slʌmp/",
+      "pos": "verb",
+      "meaning": "to fall suddenly and heavily in value or level",
+      "zh": "暴跌；骤降",
+      "context": "Chipmakers' shares were described as falling hard and fast as the AI trade unwound.",
+      "example": "Demand for office space slumped after the shift to hybrid work, so we revised the landlord's revenue forecast."
+    },
+    {
+      "word": "tank",
+      "ipa": "/tæŋk/",
+      "pos": "verb",
+      "meaning": "(informal) to fall very sharply in value or fail badly",
+      "zh": "（非正式）暴跌；一败涂地",
+      "context": "Several AI-buildout stocks were said to have collapsed in price during the rout.",
+      "example": "If the launch tanks in the first market, the board will want a clear exit plan before funding phase two."
+    },
+    {
+      "word": "fizzle",
+      "ipa": "/ˈfɪzl/",
+      "pos": "verb",
+      "meaning": "to lose energy and end weakly after a promising start",
+      "zh": "逐渐失败；虎头蛇尾",
+      "context": "The report noted that an early bounce attempt faded out instead of turning into a recovery.",
+      "example": "The pilot fizzled because no business unit owned it after the kickoff."
+    },
+    {
+      "word": "exacerbate",
+      "ipa": "/ɪɡˈzæsəbeɪt/",
+      "pos": "verb",
+      "meaning": "to make a problem or bad situation worse",
+      "zh": "加剧；使恶化",
+      "context": "Worries about AI valuations were said to have been made worse by election results that point to slower data-centre building.",
+      "example": "Cutting the sales team now would exacerbate the pipeline problem rather than fix it."
+    },
+    {
+      "word": "downfall",
+      "ipa": "/ˈdaʊnfɔːl/",
+      "pos": "noun",
+      "meaning": "a sudden loss of power, status or success",
+      "zh": "垮台；衰落",
+      "context": "The story linked Nvidia's share weakness to the abrupt fall from power of its long-time chief executive.",
+      "example": "Over-reliance on a single customer was the downfall of the supplier we studied."
+    },
+    {
+      "word": "hefty",
+      "ipa": "/ˈhefti/",
+      "pos": "adjective",
+      "meaning": "large in amount, size or weight",
+      "zh": "巨大的；可观的",
+      "context": "AI companies' very large market values were described as giving them an oversized pull on the index.",
+      "example": "The acquirer paid a hefty premium, so synergies must arrive within eighteen months."
+    },
+    {
+      "word": "rattle",
+      "ipa": "/ˈrætl/",
+      "pos": "verb",
+      "meaning": "to make someone nervous or unsettled",
+      "zh": "使紧张不安；动摇",
+      "context": "The sell-off was described as unsettling markets well beyond the US, including Asia and Europe.",
+      "example": "News of the CFO's exit rattled investors more than the earnings miss itself."
+    },
+    {
+      "word": "sour",
+      "ipa": "/ˈsaʊə(r)/",
+      "pos": "verb",
+      "meaning": "to turn bad, unfriendly or negative",
+      "zh": "变坏；恶化",
+      "context": "Market mood was said to have turned negative as doubts about AI spending grew.",
+      "example": "The partnership soured once both sides started competing for the same accounts."
+    },
+    {
+      "word": "brighten",
+      "ipa": "/ˈbraɪtn/",
+      "pos": "verb",
+      "meaning": "to become more positive or hopeful",
+      "zh": "好转；变得乐观",
+      "context": "Consumer sentiment was reported to have improved, helped by cheaper petrol and a better business outlook.",
+      "example": "The outlook for the unit brightened after it won two framework contracts."
+    },
+    {
+      "word": "streak",
+      "ipa": "/striːk/",
+      "pos": "noun",
+      "meaning": "a continuous run of the same result, good or bad",
+      "zh": "连续（胜/负）的一段时期",
+      "context": "The index's week was said to cap a long run of consecutive daily losses.",
+      "example": "The retailer's streak of like-for-like growth ended in Q3, which is why the CEO called us in."
+    },
+    {
+      "word": "exposure",
+      "ipa": "/ɪkˈspəʊʒə(r)/",
+      "pos": "noun",
+      "meaning": "the degree to which an investment or business is affected by a particular risk or sector",
+      "zh": "敞口；风险暴露程度",
+      "context": "The Dow was said to have fallen less because it holds fewer technology names.",
+      "example": "We mapped the bank's exposure to commercial property before recommending any divestments."
+    },
+    {
+      "word": "dive",
+      "ipa": "/daɪv/",
+      "pos": "noun",
+      "meaning": "a sudden, steep fall",
+      "zh": "骤降；暴跌",
+      "context": "The report described the day's sharp drop in AI stocks as a steep plunge across the sector.",
+      "example": "A dive in order intake usually shows up in the cash forecast about two months later."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "bear the brunt (of)",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to suffer the worst part of something bad",
+      "zh": "首当其冲；承受最大冲击",
+      "context": "Chip stocks were described as taking the heaviest losses in the sell-off.",
+      "example": "Mid-level managers will bear the brunt of the restructuring, so the change plan must focus on them."
+    },
+    {
+      "phrase": "in the red",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "losing money, or below its starting level",
+      "zh": "亏损；处于负值",
+      "context": "The Nasdaq was reported to have slipped below where it began the year.",
+      "example": "Two of the five regions are in the red year to date, mainly because of freight costs."
+    },
+    {
+      "phrase": "poster child",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "the most typical or visible example of something",
+      "zh": "典型代表；代表人物",
+      "context": "Nvidia was presented as the clearest symbol of the AI boom and now of its reversal.",
+      "example": "The client wants its new plant to be the poster child for its decarbonisation strategy."
+    },
+    {
+      "phrase": "lose steam",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to gradually lose energy, speed or momentum",
+      "zh": "失去势头；后劲不足",
+      "context": "The coverage suggested the AI rally had been running out of momentum before the drop.",
+      "example": "The transformation programme lost steam after the sponsor moved to another role."
+    }
+  ]
+}
