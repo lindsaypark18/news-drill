@@ -1,0 +1,169 @@
+{
+  "date": "2026-11-22",
+  "added": "2026-11-24",
+  "show": "CBS NEWS",
+  "title": "Brad Smith, Microsoft president and vice chair",
+  "url": "https://www.cbsnews.com/news/transcript-brad-smith-microsoft-on-face-the-nation-with-margaret-brennan-nov-22-2026/",
+  "youtubeId": "7KeNPexrvQw",
+  "duration": "9 min",
+  "topic": "Tech · AI · Policy",
+  "summary": "On Face the Nation, Margaret Brennan presses Microsoft president Brad Smith on the company's day-long global outage, and he apologises, rules out AI or hacking as the cause, and explains how AI-driven bug hunting is forcing a risky, rapid upgrade of the world's older software. Smith then weighs a proposed tax on data centres built abroad, agreeing that cutting-edge AI training may belong in the US but arguing that ordinary cloud services must sit close to their customers. The interview closes with questions about ByteDance's spending on Microsoft's AI services and Microsoft's donation to the White House ballroom, which Smith frames as part of a consistent, bipartisan approach to government.",
+  "focus": "Shadow Smith's opening answer explaining the outage as a combination of an older and a newer software update, then his short analogy comparing data centres to local power plants serving a city.",
+  "vocab": [
+    {
+      "word": "outage",
+      "ipa": "/ˈaʊtɪdʒ/",
+      "pos": "noun",
+      "meaning": "a period when a service or system stops working",
+      "zh": "（服务）中断；停机",
+      "context": "Brennan opened by asking about the day-long Microsoft service failure that hit businesses around the world earlier in November.",
+      "example": "A four-hour payments outage on Black Friday cost the retailer more than its entire annual IT budget."
+    },
+    {
+      "word": "hobbled",
+      "ipa": "/ˈhɒbld/",
+      "pos": "adjective",
+      "meaning": "badly limited or slowed down, unable to work normally",
+      "zh": "受阻的；陷入瘫痪的",
+      "context": "Brennan described companies, including newsrooms, as crippled in their daily work while the systems were down.",
+      "example": "Hobbled by a fragmented ERP landscape, the client could not close its books in under three weeks."
+    },
+    {
+      "word": "cyberattack",
+      "ipa": "/ˈsaɪbərəˌtæk/",
+      "pos": "noun",
+      "meaning": "a deliberate attempt to damage or break into computer systems",
+      "zh": "网络攻击",
+      "context": "Smith stressed that the failure was neither caused by AI nor by hackers deliberately targeting Microsoft.",
+      "example": "The board asked us to quantify the revenue at risk from a major cyberattack on the logistics platform."
+    },
+    {
+      "word": "vulnerability",
+      "ipa": "/ˌvʌlnərəˈbɪləti/",
+      "pos": "noun",
+      "meaning": "a weakness that can be exploited to cause harm",
+      "zh": "漏洞；薄弱环节",
+      "context": "Brennan asked whether AI tools that hunt for software weaknesses are creating more fixes than old systems can safely absorb.",
+      "example": "Our diligence flagged a single-supplier vulnerability that could halt production for six weeks."
+    },
+    {
+      "word": "patch",
+      "ipa": "/pætʃ/",
+      "pos": "verb",
+      "meaning": "to fix a problem in software by installing a small update",
+      "zh": "打补丁；修补（软件漏洞）",
+      "context": "Smith urged ordinary users and companies alike to install security fixes quickly as AI speeds up the discovery of flaws.",
+      "example": "Rather than patch the old pricing engine yet again, we recommended replacing it within eighteen months."
+    },
+    {
+      "word": "legacy",
+      "ipa": "/ˈleɡəsi/",
+      "pos": "adjective",
+      "meaning": "old but still in use, and often hard to update or replace",
+      "zh": "遗留的；老旧的（系统）",
+      "context": "Smith said organisations need to modernise the ageing systems that are most likely to break when updates arrive quickly.",
+      "example": "Roughly 40% of the bank's run cost goes on maintaining legacy core systems."
+    },
+    {
+      "word": "concerted",
+      "ipa": "/kənˈsɜːtɪd/",
+      "pos": "adjective",
+      "meaning": "planned and done together by several people or groups",
+      "zh": "协同一致的；齐心协力的",
+      "context": "Smith called for joint effort between government and the tech industry to share information on threats.",
+      "example": "Turning around customer churn will take a concerted push from sales, product and service, not a single campaign."
+    },
+    {
+      "word": "transparency",
+      "ipa": "/trænsˈpærənsi/",
+      "pos": "noun",
+      "meaning": "openness about what happened and why, with nothing hidden",
+      "zh": "透明度；公开性",
+      "context": "Smith pointed to Microsoft's detailed public reports as evidence it was being open about the incident.",
+      "example": "Investors rewarded the company's transparency about the restructuring costs with a higher multiple."
+    },
+    {
+      "word": "analogous",
+      "ipa": "/əˈnæləɡəs/",
+      "pos": "adjective",
+      "meaning": "similar in a way that makes a comparison useful",
+      "zh": "类似的；可类比的",
+      "context": "Smith said the idea of keeping AI model training in America was comparable to the government's approach to advanced chips.",
+      "example": "The client's subscription shift is analogous to what the software industry went through a decade ago."
+    },
+    {
+      "word": "nuance",
+      "ipa": "/ˈnjuːɑːns/",
+      "pos": "noun",
+      "meaning": "a small but important difference or detail",
+      "zh": "细微差别",
+      "context": "Smith added that the tax idea needed more subtlety because most data centres simply serve local customers.",
+      "example": "The headline number is right, but the nuance is that two-thirds of the growth came from price, not volume."
+    },
+    {
+      "word": "bipartisan",
+      "ipa": "/ˌbaɪpɑːtɪˈzæn/",
+      "pos": "adjective",
+      "meaning": "involving or supported by both main political parties",
+      "zh": "两党的；跨党派的",
+      "context": "Smith said Microsoft takes the same even-handed approach whichever party is in power.",
+      "example": "A bipartisan infrastructure bill would give the client far more certainty for its ten-year capex plan."
+    },
+    {
+      "word": "donor",
+      "ipa": "/ˈdəʊnə/",
+      "pos": "noun",
+      "meaning": "a person or organisation that gives money to a cause or project",
+      "zh": "捐赠者",
+      "context": "Brennan noted reports that Microsoft's contribution to the White House ballroom made it one of the biggest givers.",
+      "example": "As a major donor to the university, the firm had to recuse itself from the campus advisory tender."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "perfect storm",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a rare combination of several bad factors that together cause a crisis",
+      "zh": "多重不利因素叠加；完美风暴",
+      "context": "Smith used this image to explain how an old update, a new update and a traffic shift combined to bring services down.",
+      "example": "Rising rates, a supplier default and a weak holiday season created a perfect storm for the retailer."
+    },
+    {
+      "phrase": "keep the lights on",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to keep basic operations running",
+      "zh": "维持基本运转",
+      "context": "Smith compared local data centres to local power plants that keep a city functioning, arguing both must be close to customers.",
+      "example": "Most of the IT budget goes on keeping the lights on, leaving little for real transformation."
+    },
+    {
+      "phrase": "judgment call",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a decision that depends on personal opinion because there is no clearly right answer",
+      "zh": "主观判断；需权衡的决定",
+      "context": "Smith framed decisions about working with an administration as matters that require weighing each case.",
+      "example": "Whether to exit the Brazilian market now or wait a year is ultimately a judgment call for the board."
+    },
+    {
+      "phrase": "stand apart",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to keep a distance from or openly disagree with others",
+      "zh": "保持距离；持不同立场",
+      "context": "Smith said Microsoft cooperates with governments where it can but distances itself when it disagrees.",
+      "example": "We advised the client to stand apart from the industry lobby on the emissions rule to protect its brand."
+    },
+    {
+      "phrase": "weigh in",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to give your opinion or use your influence in a discussion or decision",
+      "zh": "发表意见；参与（讨论或决定）",
+      "context": "Brennan asked whether Microsoft had a say in the ballroom project after giving money to it.",
+      "example": "Before we finalise the target operating model, the CFO will want to weigh in on the finance org design."
+    }
+  ]
+}
