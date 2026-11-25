@@ -1,0 +1,151 @@
+{
+  "date": "2026-11-24",
+  "added": "2026-11-25",
+  "show": "YAHOO FINANCE",
+  "title": "Is the Jensen Huang Rally Already Fading?",
+  "url": "https://finance.yahoo.com/video/why-the-jensen-huang-rally-faded-so-quickly-194511286.html",
+  "youtubeId": "ddAdK-BUKfs",
+  "duration": "8 min",
+  "topic": "Markets · Tech · AI",
+  "summary": "On Yahoo Finance's Market Hang, host Turney Duff and a panel of investors debate why the huge Monday rally sparked by Jensen Huang's return to Nvidia faded within a day. Guests argue that short-selling limits had exaggerated the jump, that the fear gauge spiked far beyond its normal range, and that Nvidia shares may be stuck waiting until Huang testifies before Congress on 3 December. The panel also asks whether a year-end rally is still possible, concluding that it can happen but may take time to arrive.",
+  "focus": "Shadow the opening exchange where a panellist explains how short-selling rules shaped Monday's rally and why it faded, then the short answer on the fear gauge and the wait for Huang's December testimony.",
+  "vocab": [
+    {
+      "word": "uptick",
+      "ipa": "/ˈʌptɪk/",
+      "pos": "noun",
+      "meaning": "a small increase, especially in a price or level",
+      "zh": "小幅上升",
+      "context": "A panellist pointed to the day's small rise in the stock before sellers took control again.",
+      "example": "We have seen an uptick in client requests for AI cost-reduction diagnostics this quarter."
+    },
+    {
+      "word": "momentum",
+      "ipa": "/məˈmentəm/",
+      "pos": "noun",
+      "meaning": "the tendency of a trend, such as falling prices, to keep going in the same direction",
+      "zh": "势头；动能",
+      "context": "The panel argued that the negative trend in Nvidia shares was likely to keep feeding on itself.",
+      "example": "Once the pilot shows results, we need to keep the momentum going and secure funding for the full rollout."
+    },
+    {
+      "word": "correlated",
+      "ipa": "/ˈkɒrəleɪtɪd/",
+      "pos": "adjective",
+      "meaning": "moving together; when one thing rises or falls, the other tends to as well",
+      "zh": "相关联的；同步变动的",
+      "context": "Monday's jump was described as a broad move in which almost everything rose together rather than a stock-specific one.",
+      "example": "Our revenue streams are highly correlated, so a downturn in one region would hit the whole portfolio."
+    },
+    {
+      "word": "exhaustion",
+      "ipa": "/ɪɡˈzɔːstʃən/",
+      "pos": "noun",
+      "meaning": "in markets, the point at which buyers or sellers have run out of energy, so a trend stops",
+      "zh": "衰竭；力竭",
+      "context": "Panellists discussed whether selling pressure had reached the point where sellers were simply worn out.",
+      "example": "The client's growth plan shows signs of exhaustion: every new market is adding less than the last."
+    },
+    {
+      "word": "purgatory",
+      "ipa": "/ˈpɜːɡətri/",
+      "pos": "noun",
+      "meaning": "an uncomfortable state of waiting with no resolution in sight",
+      "zh": "炼狱；悬而未决的困境",
+      "context": "A guest said Nvidia's shares would sit in a kind of limbo until Huang's testimony before Congress.",
+      "example": "The merger has been stuck in regulatory purgatory for eight months, freezing all integration planning."
+    },
+    {
+      "word": "vacuum",
+      "ipa": "/ˈvækjuːm/",
+      "pos": "noun",
+      "meaning": "a situation where something important, such as information or leadership, is missing",
+      "zh": "真空；空白",
+      "context": "The lack of fresh facts before the hearing was described as an information gap that leaves investors guessing.",
+      "example": "The CEO's sudden exit created a leadership vacuum that rival factions rushed to fill."
+    },
+    {
+      "word": "fade",
+      "ipa": "/feɪd/",
+      "pos": "verb",
+      "meaning": "to gradually lose strength or disappear",
+      "zh": "逐渐消退",
+      "context": "The segment's central question was why the excitement over Huang's return wore off so quickly.",
+      "example": "Initial enthusiasm for the reorganisation faded once managers saw the extra reporting burden."
+    },
+    {
+      "word": "testimony",
+      "ipa": "/ˈtestɪməni/",
+      "pos": "noun",
+      "meaning": "a formal statement given in front of a court or a legislative committee",
+      "zh": "证词；作证",
+      "context": "Huang's scheduled appearance before lawmakers on 3 December was flagged as the next big event for the stock.",
+      "example": "The CFO's testimony to the audit committee will determine whether the board approves the restatement."
+    },
+    {
+      "word": "restriction",
+      "ipa": "/rɪˈstrɪkʃən/",
+      "pos": "noun",
+      "meaning": "an official limit on what people are allowed to do",
+      "zh": "限制；管制",
+      "context": "The panel noted that rules limiting short selling the day before helped explain the size of the rally.",
+      "example": "New export restrictions mean we must redesign the supply chain for the client's Asian plants."
+    },
+    {
+      "word": "market capitalisation",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "the total value of a company's shares on the stock market",
+      "zh": "市值",
+      "context": "Speakers referred to how large Nvidia's share value is as a portion of the whole index.",
+      "example": "With a market capitalisation of under 2 billion dollars, the target is small enough for a quick bolt-on deal."
+    },
+    {
+      "word": "clearing event",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a piece of news or a decision that removes a major uncertainty",
+      "zh": "消除不确定性的事件",
+      "context": "Huang's reinstatement was discussed as news that markets first treated as removing a cloud over the stock.",
+      "example": "The court ruling was a clearing event for the company, and its bond spreads tightened the next day."
+    },
+    {
+      "word": "aggressively",
+      "ipa": "/əˈɡresɪvli/",
+      "pos": "adverb",
+      "meaning": "in a forceful, determined way, often taking big risks",
+      "zh": "激进地；积极地",
+      "context": "Traders were said to have come back the next morning and bet heavily against the shares again.",
+      "example": "The challenger is pricing aggressively to win share, so the incumbent's margins will come under pressure."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "Santa Claus rally",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a rise in stock prices that often happens in the last days of December",
+      "zh": "圣诞行情（年末股市上涨）",
+      "context": "The host asked whether the market could still enjoy its usual late-December bounce, and a guest said yes, but not right away.",
+      "example": "If the Santa Claus rally holds, the client may be able to price its share placement before year-end."
+    },
+    {
+      "phrase": "pile on",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to join others in adding pressure or criticism, for example by selling a falling stock",
+      "zh": "落井下石；跟风施压",
+      "context": "Sellers were described as joining in once the stock started falling during the day.",
+      "example": "After the first analyst downgrade, others piled on and the stock lost a fifth of its value in a week."
+    },
+    {
+      "phrase": "a two-standard-deviation move",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "a price change much larger than normal, which statistically happens only rarely",
+      "zh": "两个标准差的波动（异常大幅变动）",
+      "context": "A guest pointed to the fear gauge jumping far more than usual as a sign of how unusual the swing was.",
+      "example": "A two-standard-deviation move in raw material costs would wipe out the margin in our base case, so we stress-tested for it."
+    }
+  ]
+}
