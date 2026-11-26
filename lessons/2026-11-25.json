@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-25",
+  "added": "2026-11-26",
+  "show": "PBS NEWS HOUR",
+  "title": "How Trump's newest tariffs could impact Americans and the economy",
+  "url": "https://www.pbs.org/newshour/show/how-trumps-newest-tariffs-could-impact-americans-and-the-economy",
+  "youtubeId": "DFT80onrsz8",
+  "duration": "",
+  "topic": "Economy · Trade · Tariffs",
+  "summary": "Lisa Desjardins reports on the administration's new round of tariffs on China, the EU and a dozen other partners, with US Trade Representative Jamieson Greer arguing in a clip that foreign excess capacity is hurting American manufacturing. Wall Street Journal trade reporter Gavin Bade explains that the White House is rebuilding its tariffs on a sturdier legal footing, Section 301, after the Supreme Court struck down the earlier emergency-based duties, and that the China rate is roughly what Beijing expected ahead of the January truce deadline. He adds that consumers will feel the costs gradually rather than as a sudden shock, and that a market heavily concentrated in a few tech names is fragile and jittery.",
+  "focus": "Shadow Gavin Bade's answer on when consumers will feel the tariffs, where he describes costs seeping into prices as company inventories run down, then his explanation of why the switch to Section 301 gives the tariffs firmer legal ground.",
+  "vocab": [
+    {
+      "word": "levy",
+      "ipa": "/ˈlevi/",
+      "pos": "noun",
+      "meaning": "a tax or charge that a government officially imposes",
+      "zh": "征税；关税",
+      "context": "The reporter used it as a formal synonym for the new import duties being proposed.",
+      "example": "The client asked us to model how a 20% levy on components would change landed cost by region."
+    },
+    {
+      "word": "tariff wall",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a set of high import taxes that protects a country's market from foreign goods",
+      "zh": "关税壁垒",
+      "context": "The reporter described the administration as rebuilding this barrier after a court ruling knocked much of it down.",
+      "example": "If the tariff wall goes back up in January, the Mexico nearshoring case looks considerably stronger."
+    },
+    {
+      "word": "telegraph",
+      "ipa": "/ˈtelɪɡrɑːf/",
+      "pos": "verb",
+      "meaning": "to signal clearly in advance what you are going to do",
+      "zh": "预先透露；事先暗示",
+      "context": "The guest said the rate for China had been signalled well ahead of time, so Beijing was not surprised.",
+      "example": "Management telegraphed the restructuring in the last earnings call, so the market reaction was muted."
+    },
+    {
+      "word": "apace",
+      "ipa": "/əˈpeɪs/",
+      "pos": "adverb",
+      "meaning": "quickly, or at a steady expected speed",
+      "zh": "迅速地；按步调地",
+      "context": "The guest said talks with China were continuing at a reasonable pace alongside the tariff threat.",
+      "example": "Integration planning continues apace, and we expect the joint operating model to be signed off next month."
+    },
+    {
+      "word": "minutiae",
+      "ipa": "/maɪˈnjuːʃiaɪ/",
+      "pos": "noun (plural)",
+      "meaning": "very small, precise details",
+      "zh": "细枝末节；细节",
+      "context": "The host acknowledged that the legal details of trade law can sound dry but matter to viewers.",
+      "example": "Let's not get lost in the minutiae of the cost allocation; the board only needs the margin impact."
+    },
+    {
+      "word": "pocketbook",
+      "ipa": "/ˈpɒkɪtbʊk/",
+      "pos": "noun",
+      "meaning": "a person's or household's money and finances (mainly American English)",
+      "zh": "钱包；个人财务状况",
+      "context": "The guest said the new tariffs would hit ordinary Americans' household budgets noticeably.",
+      "example": "Pricing decisions in grocery are now pocketbook issues, so we tested every increase against shopper sentiment."
+    },
+    {
+      "word": "excess capacity",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "the ability to produce more than the market actually needs or buys",
+      "zh": "产能过剩",
+      "context": "The trade representative argued that other countries' surplus production makes it hard for US factories to compete.",
+      "example": "With so much excess capacity in the region, a new greenfield plant would destroy value for years."
+    },
+    {
+      "word": "plurilateral",
+      "ipa": "/ˌplʊərɪˈlætərəl/",
+      "pos": "adjective",
+      "meaning": "involving several countries, but not all members of a wider group",
+      "zh": "诸边的（多国但非全体）",
+      "context": "The trade representative proposed a negotiation among a group of countries to tackle surplus production.",
+      "example": "A plurilateral standard on battery recycling could matter more to our client than any single bilateral deal."
+    },
+    {
+      "word": "transshipment",
+      "ipa": "/trænsˈʃɪpmənt/",
+      "pos": "noun",
+      "meaning": "sending goods through a third country, often to disguise where they really came from",
+      "zh": "转运（常用于规避原产地）",
+      "context": "The guest said goods routed via other countries to avoid tariffs are hard to track and police.",
+      "example": "Customs audits on transshipment are tightening, so the Vietnam sourcing plan needs clean origin documentation."
+    },
+    {
+      "word": "filter through",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to spread slowly and gradually through a system",
+      "zh": "逐渐渗透；慢慢传导",
+      "context": "The guest explained that tariff costs reach shelf prices step by step rather than all at once.",
+      "example": "Input-cost increases usually take two quarters to filter through to our client's retail prices."
+    },
+    {
+      "word": "truce",
+      "ipa": "/truːs/",
+      "pos": "noun",
+      "meaning": "an agreement to stop fighting or arguing for a period of time",
+      "zh": "休战；停战协议",
+      "context": "The host asked whether the new duties were a bargaining move ahead of the deadline on the US-China trade pause.",
+      "example": "The two business units agreed an uneasy truce on transfer pricing until the new CFO arrives."
+    },
+    {
+      "word": "so-called",
+      "ipa": "/ˌsəʊˈkɔːld/",
+      "pos": "adjective",
+      "meaning": "used to introduce a name or label, sometimes suggesting it is not quite accurate",
+      "zh": "所谓的",
+      "context": "The host used it to introduce the informal name for the current US-China trade pause.",
+      "example": "The so-called quick wins in the plan will in fact take nine months and two system changes."
+    },
+    {
+      "word": "turbulence",
+      "ipa": "/ˈtɜːbjələns/",
+      "pos": "noun",
+      "meaning": "a period of confusion, instability or sharp, unpredictable change",
+      "zh": "动荡；剧烈波动",
+      "context": "The host asked the guest how the tariffs fit into the recent instability in the stock market.",
+      "example": "Given the market turbulence, we recommend delaying the IPO window to the second quarter."
+    },
+    {
+      "word": "consumption-driven",
+      "ipa": "/kənˈsʌmpʃn ˌdrɪvn/",
+      "pos": "adjective",
+      "meaning": "growing or functioning mainly because of spending by consumers",
+      "zh": "消费驱动的",
+      "context": "The trade representative described the American economy as one powered mainly by consumer spending.",
+      "example": "A consumption-driven recovery in Southeast Asia favours the client's premium personal-care brands."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "look askance at",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to view something with suspicion or disapproval",
+      "zh": "怀疑地看待；不以为然",
+      "context": "The guest said the courts had viewed the earlier emergency-based tariffs with suspicion.",
+      "example": "Investors tend to look askance at acquisitions announced just before a CEO's contract expires."
+    },
+    {
+      "phrase": "tried and tested",
+      "ipa": "",
+      "pos": "adjective phrase",
+      "meaning": "used successfully many times before and known to work",
+      "zh": "久经考验的；行之有效的",
+      "context": "The guest described the trade law now being used as an older, well-proven tool.",
+      "example": "For the pilot, let's stick to a tried and tested pricing playbook before we experiment."
+    },
+    {
+      "phrase": "play the long game",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to act with long-term results in mind rather than quick gains",
+      "zh": "放长线；着眼长远",
+      "context": "The host asked whether the administration's tariff strategy toward China was aimed at a longer horizon.",
+      "example": "In China the client needs to play the long game and build local partnerships before chasing share."
+    },
+    {
+      "phrase": "on the books",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "officially recorded or in force as a law or rule",
+      "zh": "已立法；正式生效",
+      "context": "The guest noted that tariffs already in force were being passed on to buyers gradually.",
+      "example": "There are already three data-privacy rules on the books in that market, so compliance cost is not hypothetical."
+    },
+    {
+      "phrase": "jack up",
+      "ipa": "",
+      "pos": "phrasal verb (informal)",
+      "meaning": "to raise a price, rate or amount, often sharply",
+      "zh": "大幅抬高（价格、税率）",
+      "context": "The guest said the administration could push the China rate much higher if talks broke down.",
+      "example": "If suppliers jack up prices again, we should trigger the dual-sourcing clause in the contract."
+    }
+  ]
+}
