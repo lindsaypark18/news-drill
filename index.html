@@ -3,6 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="referrer" content="strict-origin-when-cross-origin">
 <title>Daily News Drill</title>
 <meta name="description" content="A daily English shadowing drill: one 5–10 minute news video with captions, sentence looping, slow playback and its rarer vocabulary.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -73,6 +74,7 @@ label.toggle{display:inline-flex;align-items:center;gap:6px;font-size:13px;curso
 .chip[aria-pressed="true"]{background:var(--fg);color:var(--bg);border-color:var(--fg)}
 .count{font-family:var(--mono);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
 .note{font-size:13px;color:var(--muted);margin:0}
+.sandbox{background:var(--accent-soft);color:var(--fg);border-radius:8px;padding:10px 14px;font-size:14px}
 .sents{list-style:none;margin:0;padding:6px 0;counter-reset:s}
 .sent{display:grid;grid-template-columns:30px minmax(0,1fr) auto;gap:4px 10px;padding:10px 16px;align-items:start;counter-increment:s}
 .sent::before{content:counter(s);font-family:var(--mono);font-size:11px;color:var(--muted);padding-top:5px;font-variant-numeric:tabular-nums}
@@ -152,6 +154,18 @@ const clock=t=>{t=Math.max(0,t||0);const m=Math.floor(t/60),s=Math.floor(t%60);r
 /* ---------- YouTube shadowing player ---------- */
 const S={yt:null,ready:false,playing:false,a:null,b:null,cc:true,pausedForGap:false,gapTimer:null};
 let ytApi=null;
+const SITE_ORIGIN="https://lindsaypark18.github.io";
+/* A tab opened from inside a sandboxed page (such as a Claude artifact) can inherit its
+   restrictions: no real origin, no storage. Say so instead of failing silently. */
+function warnIfSandboxed(){
+  let boxed=false;
+  try{ boxed=window.origin==="null"||location.origin==="null"; localStorage.getItem("ndd-probe"); }catch(e){ boxed=true; }
+  if(!boxed) return;
+  const w=document.querySelector(".wrap"); if(!w) return;
+  const b=document.createElement("p"); b.className="sandbox";
+  b.innerHTML='This tab opened in restricted mode, usually because it came from a link inside Claude. The video and your saved progress may not work here. Open <b>lindsaypark18.github.io/news-drill</b> from a bookmark or type it in your browser instead.';
+  w.prepend(b);
+}
 function loadYT(){
   if(ytApi) return ytApi;
   ytApi=new Promise((res,rej)=>{
@@ -168,10 +182,18 @@ async function mountPlayer(){
   const host=$("#ytmount"); if(!host) return;
   try{await loadYT()}catch(e){showPlayerError();return}
   if(!$("#ytmount")) return;
-  S.yt=new YT.Player("ytmount",{
-    host:"https://www.youtube.com",
-    videoId:L.youtubeId,
-    playerVars:{cc_load_policy:1,cc_lang_pref:"en",hl:"en",rel:0,playsinline:1,modestbranding:1},
+  /* Build the iframe ourselves so YouTube always gets a referrer and a real origin.
+     Without them it shows "Error 153: video player configuration error". */
+  const origin=(location.origin&&location.origin!=="null")?location.origin:SITE_ORIGIN;
+  const q=new URLSearchParams({enablejsapi:"1",origin,widget_referrer:origin+"/news-drill/",
+    cc_load_policy:"1",cc_lang_pref:"en",hl:"en",rel:"0",playsinline:"1",modestbranding:"1"});
+  const f=document.createElement("iframe");
+  f.id="ytmount"; f.title=L.title||"News video";
+  f.allow="autoplay; encrypted-media; picture-in-picture; fullscreen"; f.allowFullscreen=true;
+  f.referrerPolicy="strict-origin-when-cross-origin";
+  f.src="https://www.youtube.com/embed/"+encodeURIComponent(L.youtubeId)+"?"+q;
+  $("#ytmount").replaceWith(f);
+  S.yt=new YT.Player(f,{
     events:{
       onReady:()=>{S.ready=true;try{S.yt.setPlaybackRate(P.rate)}catch(e){}setCC(S.cc);updateConsole()},
       onStateChange:e=>{S.playing=e.data===1;if(e.data===1)setCC(S.cc);updateConsole()},
@@ -340,6 +362,7 @@ async function load(date){
   catch(e){$("#main").innerHTML=`<div class="empty">Couldn't load this lesson. Check your connection and reload.</div>`}
 }
 $("#pick").addEventListener("change",e=>load(e.target.value));
+warnIfSandboxed();
 (async()=>{
   try{const r=await fetch("lessons/index.json",{cache:"no-cache"});index=(await r.json()).sort((a,b)=>((b.added||b.date)+b.date).localeCompare((a.added||a.date)+a.date))}
   catch(e){$("#main").innerHTML=`<div class="empty">Couldn't load lessons. Check your connection and reload.</div>`;return}
