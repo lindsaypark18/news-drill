@@ -1,0 +1,187 @@
+{
+  "date": "2026-11-26",
+  "added": "2026-11-27",
+  "show": "CBS NEWS",
+  "title": "How people are using AI to cancel subscriptions, claim refunds",
+  "url": "https://www.cbsnews.com/news/ai-agents-annoyance-economy/",
+  "youtubeId": "181rteVzur0",
+  "duration": "",
+  "topic": "Tech · AI agents · Consumers",
+  "summary": "CBS MoneyWatch reporter Megan Cerullo looks at consumers who hand chores like returns, refund claims, subscription cancellations and utility appointments to AI agents, with users describing recovered money and hours saved. Stanford economist Neale Mahoney argues that agents erode the hassle that companies quietly profit from, a cost one think tank puts at around $165 billion a year, which is why some large firms are already blocking agents from transacting. The founder of the agent's maker says the service still keeps a human on standby, while Groundwork Collaborative's Lindsay Owens warns that agents could end up nudging users toward products that earn their makers commissions.",
+  "focus": "Shadow the stretch where the economist explains why companies have an incentive to block agents, then the closing warning about agents steering shoppers toward commission-paying products; both are compact, argument-driven passages with clear stress patterns.",
+  "vocab": [
+    {
+      "word": "tedious",
+      "ipa": "/ˈtiːdiəs/",
+      "pos": "adjective",
+      "meaning": "boring because it is long, slow or repetitive",
+      "zh": "繁琐的；乏味的",
+      "context": "It described the small admin chores that people are now happy to hand to an AI agent.",
+      "example": "Reconciling the three vendor master files is tedious, but it is the only way to size the procurement savings credibly."
+    },
+    {
+      "word": "menial",
+      "ipa": "/ˈmiːniəl/",
+      "pos": "adjective",
+      "meaning": "low-skill and routine, needing little thought",
+      "zh": "琐碎的；低技能的",
+      "context": "It characterised the kind of household errands the agents take off users' plates.",
+      "example": "Automating menial data entry freed the finance team to spend more time on variance analysis."
+    },
+    {
+      "word": "pesky",
+      "ipa": "/ˈpeski/",
+      "pos": "adjective",
+      "meaning": "small but annoying",
+      "zh": "烦人的",
+      "context": "It was a light, informal way to describe minor tasks like chasing a refund.",
+      "example": "Once we fixed that pesky reporting lag, the dashboard finally matched the ERP numbers."
+    },
+    {
+      "word": "unclaimed",
+      "ipa": "/ʌnˈkleɪmd/",
+      "pos": "adjective",
+      "meaning": "owed to someone but not yet asked for or collected",
+      "zh": "未领取的",
+      "context": "It referred to refunds and funds that agents dig out of users' inboxes.",
+      "example": "The audit found nearly two million dollars in unclaimed supplier rebates sitting in old contracts."
+    },
+    {
+      "word": "junk fee",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "an extra charge that adds little or no value and is often hidden",
+      "zh": "垃圾费用；隐性收费",
+      "context": "It named one of the costs that make up the hassle-driven spending the story described.",
+      "example": "Regulators are targeting junk fees, so the client's pricing model can't rely on booking charges much longer."
+    },
+    {
+      "word": "surcharge",
+      "ipa": "/ˈsɜːtʃɑːdʒ/",
+      "pos": "noun",
+      "meaning": "an additional amount added to the usual price",
+      "zh": "附加费",
+      "context": "It described the add-on fees consumers face on routine transactions.",
+      "example": "The fuel surcharge now accounts for almost a fifth of the carrier's revenue per shipment."
+    },
+    {
+      "word": "convert",
+      "ipa": "/ˈkɒnvɜːt/",
+      "pos": "noun",
+      "meaning": "a person who has been persuaded to adopt a new belief or habit",
+      "zh": "转变者；新的拥护者",
+      "context": "It described people newly won over to letting AI handle their personal admin.",
+      "example": "The CFO started as a sceptic of zero-based budgeting but is now its loudest convert."
+    },
+    {
+      "word": "steer",
+      "ipa": "/stɪə/",
+      "pos": "verb",
+      "meaning": "to guide someone gently in a particular direction",
+      "zh": "引导；带向",
+      "context": "A critic worried that agents might guide users toward products that pay their makers a commission.",
+      "example": "We should steer the client toward the two markets with the clearest payback rather than a broad launch."
+    },
+    {
+      "word": "swirl",
+      "ipa": "/swɜːl/",
+      "pos": "verb",
+      "meaning": "(of concerns or rumours) to circulate widely without being settled",
+      "zh": "（担忧、传言）四起",
+      "context": "It described the doubts circulating about how far AI agents can be trusted.",
+      "example": "Rumours of a carve-out continued to swirl, so management held an all-hands to reassure staff."
+    },
+    {
+      "word": "reckon with",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to deal seriously with a problem or force you cannot ignore",
+      "zh": "正视；应对",
+      "context": "It was used about businesses having to face a new kind of customer who arrives with an AI helper.",
+      "example": "Incumbent insurers will have to reckon with digital entrants that price risk in real time."
+    },
+    {
+      "word": "sift through",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to examine a large amount of material carefully to find what is useful",
+      "zh": "仔细筛查",
+      "context": "It described an agent searching a mountain of old emails to find money a user was owed.",
+      "example": "The analysts sifted through 4,000 customer comments to find the three drivers of churn."
+    },
+    {
+      "word": "settlement",
+      "ipa": "/ˈsetlmənt/",
+      "pos": "noun",
+      "meaning": "an official agreement that ends a legal dispute, often with a payment",
+      "zh": "和解；和解赔付",
+      "context": "One user's agent found a small payout he was entitled to from a class-action deal with a cable company.",
+      "example": "The settlement removes the litigation overhang, which should help the valuation in the sale process."
+    },
+    {
+      "word": "summon",
+      "ipa": "/ˈsʌmən/",
+      "pos": "verb",
+      "meaning": "to call someone to come and help or appear",
+      "zh": "召唤；叫来",
+      "context": "It described the agent bringing in a human assistant when it could not finish a job alone.",
+      "example": "If the model flags a contract as high-risk, it summons a lawyer for review before signature."
+    },
+    {
+      "word": "on call",
+      "ipa": "",
+      "pos": "adjective phrase",
+      "meaning": "available to be contacted and help at short notice",
+      "zh": "随时待命",
+      "context": "The founder said a person remains on standby in case the automated service gets stuck.",
+      "example": "We keep one data engineer on call during the go-live weekend in case the migration fails."
+    },
+    {
+      "word": "hybrid",
+      "ipa": "/ˈhaɪbrɪd/",
+      "pos": "adjective",
+      "meaning": "combining two different elements, here software and human help",
+      "zh": "混合的；人机结合的",
+      "context": "It described how the agent service still mixes automation with human support.",
+      "example": "A hybrid service model, with bots for tier-one queries and humans for escalations, cut cost-to-serve by a third."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "annoyance economy",
+      "ipa": "",
+      "pos": "noun phrase",
+      "meaning": "the money and time consumers lose to hassles, hidden fees and hard-to-cancel services that companies profit from",
+      "zh": "“麻烦经济”（企业靠消费者的麻烦与隐性收费获利）",
+      "context": "It was the story's central term for the profitable friction that AI agents are starting to undo.",
+      "example": "Part of the subscription business's margin is really the annoyance economy, and that revenue is at risk once agents cancel on customers' behalf."
+    },
+    {
+      "phrase": "not take something lying down",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to refuse to accept bad treatment without fighting back",
+      "zh": "不甘示弱；不会坐以待毙",
+      "context": "It described companies pushing back against agents, for instance by banning them from transactions.",
+      "example": "The incumbent won't take the price war lying down, so our base case should assume a matching discount."
+    },
+    {
+      "phrase": "comb through",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to search something very thoroughly",
+      "zh": "仔细搜查；逐一梳理",
+      "context": "It described an agent scanning a user's inbox for refunds and money owed.",
+      "example": "Legal will comb through the target's supplier contracts for change-of-control clauses before signing."
+    },
+    {
+      "phrase": "shrug off",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to treat a worry or problem as unimportant",
+      "zh": "不当回事；不予理会",
+      "context": "It described consumers setting aside their fears about AI because the time and money savings are tangible.",
+      "example": "Investors shrugged off the weak quarter because the order backlog kept growing."
+    }
+  ]
+}
