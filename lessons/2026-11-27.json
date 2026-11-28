@@ -1,0 +1,178 @@
+{
+  "date": "2026-11-27",
+  "added": "2026-11-28",
+  "show": "PBS NEWS HOUR",
+  "title": "American consumers face pitfalls with rise of 'buy now, pay later'",
+  "url": "https://www.pbs.org/newshour/show/american-consumers-face-pitfalls-with-rise-of-buy-now-pay-later",
+  "youtubeId": "HsMi0KY3tpA",
+  "duration": "8 min",
+  "topic": "Consumer finance · Lending",
+  "summary": "Economics correspondent Paul Solman examines buy now, pay later, a form of instalment credit now used by tens of millions of Americans, increasingly for groceries, utilities and other necessities rather than splurges. Borrowers including a Wisconsin teacher and a woman whose husband was laid off describe small plans that quietly piled up into large debts, while the industry's trade group defends the interest-free four-payment plan as transparent and a source of flexibility for stretched households. A credit counsellor and a consumer-law advocate warn about embedded interest, fees and a slide toward payday and title loans, and Harvard economist David Laibson explains how present bias makes deferring the cost so tempting.",
+  "focus": "Shadow the economist's short explanation of present bias with his everyday diet-and-exercise example, then the credit counsellor's brief exchange on why interest baked into the payments means paying early saves nothing; both are clear, well-paced explanatory passages.",
+  "vocab": [
+    {
+      "word": "pervasive",
+      "ipa": "/pəˈveɪsɪv/",
+      "pos": "adjective",
+      "meaning": "spreading through every part of something; found everywhere",
+      "zh": "无处不在的；普遍的",
+      "context": "The reporter described pay-later plans as having spread into almost every corner of American shopping, from clothes to groceries.",
+      "example": "Once a workaround becomes this pervasive across business units, it is no longer an exception but the real operating model."
+    },
+    {
+      "word": "trade group",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "an organisation that represents and lobbies for companies in one industry",
+      "zh": "行业协会",
+      "context": "The industry's representative spoke on behalf of the association that lobbies for the pay-later lenders.",
+      "example": "The trade group is likely to push back hard on any rule that caps fees, so we should map its arguments before the regulator meets."
+    },
+    {
+      "word": "boast",
+      "ipa": "/bəʊst/",
+      "pos": "verb",
+      "meaning": "to proudly mention a fact that makes you or your organisation look good",
+      "zh": "夸耀；以……自豪",
+      "context": "The industry spokesperson proudly pointed to the fact that the basic four-payment plan charges no interest.",
+      "example": "The target boasts a 40% repeat-purchase rate, but we need to check how much of that is driven by discounts."
+    },
+    {
+      "word": "payday loan",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a small, short-term loan with very high fees, meant to be repaid on the borrower's next payday",
+      "zh": "发薪日贷款（高息短期贷款）",
+      "context": "The credit counsellor said many of his clients graduate from pay-later plans to these costly short-term loans.",
+      "example": "Our survey shows that customers who miss two instalments are three times more likely to take out a payday loan."
+    },
+    {
+      "word": "title loan",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a high-cost loan in which the borrower's car ownership document is used as security",
+      "zh": "汽车产权抵押贷款",
+      "context": "These were named alongside payday loans as the next, more dangerous step for borrowers who are already stretched.",
+      "example": "Any lender moving into title loans should expect heavy reputational scrutiny from consumer advocates."
+    },
+    {
+      "word": "lay off",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to end someone's employment, usually because there is not enough work or money",
+      "zh": "裁员；解雇",
+      "context": "One borrower explained that her money problems deepened after her husband lost his job.",
+      "example": "The client plans to lay off 8% of its back-office staff once the automation programme goes live."
+    },
+    {
+      "word": "lifeline",
+      "ipa": "/ˈlaɪflaɪn/",
+      "pos": "noun",
+      "meaning": "something that helps a person or organisation survive a very difficult period",
+      "zh": "救命稻草；生命线",
+      "context": "The industry argued that flexible instalments give households in tough times a way to cover essentials.",
+      "example": "For many small suppliers, early-payment financing from the anchor customer is a lifeline during the slow season."
+    },
+    {
+      "word": "lifesaver",
+      "ipa": "/ˈlaɪfseɪvə/",
+      "pos": "noun",
+      "meaning": "something that rescues you from a difficult situation just when you need it",
+      "zh": "救星；帮了大忙的东西",
+      "context": "A user described the service as having rescued her at moments when she could not cover a bill.",
+      "example": "The shared-services dashboard was a lifesaver during the close; it cut reconciliation time in half."
+    },
+    {
+      "word": "present bias",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "the tendency to give too much weight to rewards now and too little to costs in the future",
+      "zh": "现时偏差（偏重眼前利益）",
+      "context": "A Harvard economist used this concept to explain why spreading payments into the future feels so attractive.",
+      "example": "Present bias explains why employees under-save, so the default enrolment rate matters more than the match."
+    },
+    {
+      "word": "armour",
+      "ipa": "/ˈɑːmə/",
+      "pos": "noun",
+      "meaning": "(figurative) protection against attack or harm",
+      "zh": "盔甲；（比喻）防护",
+      "context": "The reporter used the image of protection to ask how consumers could defend themselves against products that play on their weaknesses.",
+      "example": "A strong balance sheet is the best armour against an activist investor in a downturn."
+    },
+    {
+      "word": "trumpet",
+      "ipa": "/ˈtrʌmpɪt/",
+      "pos": "verb",
+      "meaning": "to announce or advertise something loudly and proudly",
+      "zh": "大肆宣扬；吹嘘",
+      "context": "The reporter noted that certain costs of the plans are not exactly advertised loudly to customers.",
+      "example": "The company trumpeted its AI partnership in the press release but said nothing about the margin impact."
+    },
+    {
+      "word": "late fee",
+      "ipa": "",
+      "pos": "noun",
+      "meaning": "a charge you must pay when a payment is made after the due date",
+      "zh": "滞纳金",
+      "context": "Penalties for missed due dates were discussed as one way that small plans can become expensive.",
+      "example": "Late fees currently make up 12% of the unit's revenue, which is a regulatory risk we should flag to the board."
+    },
+    {
+      "word": "built into",
+      "ipa": "",
+      "pos": "phrase",
+      "meaning": "included from the start as part of a price, plan or system",
+      "zh": "内含于；预先计入",
+      "context": "The counsellor explained that the cost of borrowing is already included in each monthly payment, so paying early saves nothing.",
+      "example": "Make sure the inflation assumption is built into the base case rather than added as a separate scenario."
+    }
+  ],
+  "phrases": [
+    {
+      "phrase": "make ends meet",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to have just enough money to pay for the things you need",
+      "zh": "勉强维持生计；收支相抵",
+      "context": "A survey figure showed that more than half of users say they could not cover their basic costs without these plans.",
+      "example": "With wages flat and rents rising, many frontline staff are struggling to make ends meet, which is driving turnover."
+    },
+    {
+      "phrase": "keep food on the table",
+      "ipa": "",
+      "pos": "idiom",
+      "meaning": "to earn or find enough money to feed your family and cover basic needs",
+      "zh": "维持温饱；养家糊口",
+      "context": "A teacher explained that she used the plans for everyday necessities just to keep her household going.",
+      "example": "For gig workers, the platform's weekly payout is what keeps food on the table, so any delay hits loyalty hard."
+    },
+    {
+      "phrase": "sneak up on someone",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "(of a problem) to grow gradually without you noticing until it is serious",
+      "zh": "不知不觉地逼近；悄悄累积",
+      "context": "Borrowers described how the debt built up quietly until the total surprised them.",
+      "example": "Technical debt tends to sneak up on fast-growing firms until a single outage exposes it."
+    },
+    {
+      "phrase": "pull forward",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to move something, such as a purchase or event, to an earlier time",
+      "zh": "提前（购买、计划等）",
+      "context": "The economist explained that these products let people bring a pleasure into the present while pushing the cost later.",
+      "example": "Tariff fears caused retailers to pull forward orders into the third quarter, flattering those numbers."
+    },
+    {
+      "phrase": "add up to",
+      "ipa": "",
+      "pos": "phrasal verb",
+      "meaning": "to combine into a total, often a surprisingly large one",
+      "zh": "累计达到；合计",
+      "context": "One user described how many small instalments had gradually combined into a five-figure total.",
+      "example": "Individually these discounts look small, but across the portfolio they add up to almost $30 million a year."
+    }
+  ]
+}
